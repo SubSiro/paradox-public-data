@@ -185,6 +185,16 @@
       "escapeTime": 0,
       "helpCount": 1,
       "closedAt": "2026-08-02T18:58:55.945Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Spidgy Dalia",
+      "slotResult": "WINNER",
+      "totalScore": 95,
+      "escapeTime": 0,
+      "helpCount": 4,
+      "closedAt": "2026-08-02T20:04:57.218Z"
     }
   ]
 }
