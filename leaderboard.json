@@ -6,7 +6,7 @@
       "teamName": "Stupid girls",
       "slotResult": "LOSER",
       "totalScore": 37,
-      "escapeTime": 0,
+      "escapeTime": 60,
       "helpCount": 2,
       "closedAt": "2026-08-02T14:14:54.400Z"
     },
@@ -16,7 +16,7 @@
       "teamName": "Goon squad",
       "slotResult": "LOSER",
       "totalScore": 46,
-      "escapeTime": 0,
+      "escapeTime": 60,
       "helpCount": 4,
       "closedAt": "2026-08-02T16:11:27.600Z"
     },
@@ -48,7 +48,7 @@
       "teamName": "",
       "slotResult": "WINNER",
       "totalScore": 100,
-      "escapeTime": 0,
+      "escapeTime": 1,
       "helpCount": 0,
       "closedAt": "2026-07-29T12:17:58.384Z"
     },
@@ -58,7 +58,7 @@
       "teamName": "",
       "slotResult": "WINNER",
       "totalScore": 100,
-      "escapeTime": 0,
+      "escapeTime": 1,
       "helpCount": 0,
       "closedAt": "2026-07-29T12:47:29.019Z"
     },
@@ -68,7 +68,7 @@
       "teamName": "Zab",
       "slotResult": "WINNER",
       "totalScore": 90,
-      "escapeTime": 0,
+      "escapeTime": 49,
       "helpCount": 4,
       "closedAt": "2026-08-02T15:52:06.895Z"
     },
@@ -78,7 +78,7 @@
       "teamName": "ABB543",
       "slotResult": "WINNER",
       "totalScore": 95,
-      "escapeTime": 0,
+      "escapeTime": 55,
       "helpCount": 3,
       "closedAt": "2026-08-02T16:57:22.579Z"
     },
@@ -88,7 +88,7 @@
       "teamName": "The team",
       "slotResult": "LOSER",
       "totalScore": 73,
-      "escapeTime": 0,
+      "escapeTime": 59,
       "helpCount": 4,
       "closedAt": "2026-08-02T21:26:37.807Z"
     },
@@ -130,7 +130,7 @@
       "teamName": "Arab",
       "slotResult": "LOSER",
       "totalScore": 95,
-      "escapeTime": 0,
+      "escapeTime": 58,
       "helpCount": 4,
       "closedAt": "2026-08-02T17:34:00.248Z"
     },
@@ -140,7 +140,7 @@
       "teamName": "Domz w Som3a w El akhearen",
       "slotResult": "LOSER",
       "totalScore": 69,
-      "escapeTime": 0,
+      "escapeTime": 60,
       "helpCount": 2,
       "closedAt": "2026-08-02T19:54:21.201Z"
     },
@@ -150,7 +150,7 @@
       "teamName": "WMLA",
       "slotResult": "LOSER",
       "totalScore": 95,
-      "escapeTime": 0,
+      "escapeTime": 60,
       "helpCount": 4,
       "closedAt": "2026-08-02T21:00:31.453Z"
     },
@@ -172,7 +172,7 @@
       "teamName": "Sakr w kanaria",
       "slotResult": "LOSER",
       "totalScore": 26,
-      "escapeTime": 0,
+      "escapeTime": 58,
       "helpCount": 5,
       "closedAt": "2026-08-02T15:01:15.744Z"
     },
@@ -182,7 +182,7 @@
       "teamName": "Reer cartan",
       "slotResult": "LOSER",
       "totalScore": 31,
-      "escapeTime": 0,
+      "escapeTime": 50,
       "helpCount": 2,
       "closedAt": "2026-08-02T17:05:35.735Z"
     },
@@ -192,7 +192,7 @@
       "teamName": "Power Cut",
       "slotResult": "LOSER",
       "totalScore": 27,
-      "escapeTime": 0,
+      "escapeTime": 89,
       "helpCount": 2,
       "closedAt": "2026-08-02T18:37:58.712Z"
     },
@@ -202,7 +202,7 @@
       "teamName": "Yuhu",
       "slotResult": "WINNER",
       "totalScore": 98,
-      "escapeTime": 0,
+      "escapeTime": 20,
       "helpCount": 1,
       "closedAt": "2026-08-02T18:58:55.945Z"
     },
@@ -212,7 +212,7 @@
       "teamName": "Spidgy Dalia",
       "slotResult": "WINNER",
       "totalScore": 95,
-      "escapeTime": 0,
+      "escapeTime": 55,
       "helpCount": 4,
       "closedAt": "2026-08-02T20:04:57.218Z"
     },
@@ -222,7 +222,7 @@
       "teamName": "Batates m7amara",
       "slotResult": "LOSER",
       "totalScore": 63,
-      "escapeTime": 0,
+      "escapeTime": 60,
       "helpCount": 1,
       "closedAt": "2026-08-02T21:09:36.941Z"
     }
