@@ -137,6 +137,16 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "WMLA",
+      "slotResult": "LOSER",
+      "totalScore": 95,
+      "escapeTime": 0,
+      "helpCount": 4,
+      "closedAt": "2026-08-02T21:00:31.453Z"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 0,
