@@ -135,6 +135,16 @@
       "escapeTime": 0,
       "helpCount": 5,
       "closedAt": "2026-08-02T15:01:15.744Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Reer cartan",
+      "slotResult": "LOSER",
+      "totalScore": 31,
+      "escapeTime": 0,
+      "helpCount": 2,
+      "closedAt": "2026-08-02T17:05:35.735Z"
     }
   ]
 }
