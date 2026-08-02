@@ -155,6 +155,16 @@
       "escapeTime": 0,
       "helpCount": 2,
       "closedAt": "2026-08-02T17:05:35.735Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "",
+      "slotResult": "LOSER",
+      "totalScore": 27,
+      "escapeTime": 0,
+      "helpCount": 2,
+      "closedAt": "2026-08-02T18:37:58.712Z"
     }
   ]
 }
