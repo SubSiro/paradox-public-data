@@ -375,6 +375,16 @@
       "escapeTime": 55,
       "helpCount": 3,
       "closedAt": "2026-08-03T18:09:02.175Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Elshikabola",
+      "slotResult": "LOSER",
+      "totalScore": 61,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-08-03T19:16:37.204Z"
     }
   ]
 }
