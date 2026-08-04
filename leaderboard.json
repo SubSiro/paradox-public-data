@@ -103,6 +103,16 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Spidar",
+      "slotResult": "LOSER",
+      "totalScore": 42,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-08-04T21:16:28.030Z"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 9,
