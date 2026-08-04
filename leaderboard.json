@@ -465,6 +465,16 @@
       "escapeTime": 40,
       "helpCount": 3,
       "closedAt": "2026-08-04T15:00:56.642Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Kishk fc",
+      "slotResult": "WINNER",
+      "totalScore": 94,
+      "escapeTime": 45,
+      "helpCount": 2,
+      "closedAt": "2026-08-04T15:58:09.237Z"
     }
   ]
 }
