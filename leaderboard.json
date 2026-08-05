@@ -335,6 +335,16 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Green square girls😎❤️",
+      "slotResult": "LOSER",
+      "totalScore": 38,
+      "escapeTime": 39,
+      "helpCount": 4,
+      "closedAt": "2026-08-05T19:15:51.156Z"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 62,
