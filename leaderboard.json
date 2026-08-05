@@ -133,6 +133,16 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Talal and the others",
+      "slotResult": "WINNER",
+      "totalScore": 99,
+      "escapeTime": 51,
+      "helpCount": 2,
+      "closedAt": "2026-08-05T20:09:33.398Z"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 9,
