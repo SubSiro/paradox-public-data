@@ -427,6 +427,16 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Masa",
+      "slotResult": "WINNER",
+      "totalScore": 61,
+      "escapeTime": 57,
+      "helpCount": 6,
+      "closedAt": "2026-08-05T15:18:59.910Z"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 0,
