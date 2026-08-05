@@ -567,6 +567,16 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "RX",
+      "slotResult": "LOSER",
+      "totalScore": 33,
+      "escapeTime": 60,
+      "helpCount": 8,
+      "closedAt": "2026-08-05T22:11:42.424Z"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 0,
