@@ -775,6 +775,16 @@
       "escapeTime": 43,
       "helpCount": 2,
       "closedAt": "2026-08-05T21:04:45.759Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Sixflex",
+      "slotResult": "WINNER",
+      "totalScore": 66,
+      "escapeTime": 57,
+      "helpCount": 7,
+      "closedAt": "2026-08-05T22:14:04.204Z"
     }
   ]
 }
