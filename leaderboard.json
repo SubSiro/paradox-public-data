@@ -915,6 +915,16 @@
       "escapeTime": 56,
       "helpCount": 4,
       "closedAt": "2026-08-06T18:05:07.167Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Sfs",
+      "slotResult": "LOSER",
+      "totalScore": 25,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-08-06T19:07:19.257Z"
     }
   ]
 }
