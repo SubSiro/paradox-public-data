@@ -885,6 +885,16 @@
       "escapeTime": 60,
       "helpCount": 5,
       "closedAt": "2026-08-06T15:13:22.852Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Ali and the others",
+      "slotResult": "LOSER",
+      "totalScore": 25,
+      "escapeTime": 56,
+      "helpCount": 4,
+      "closedAt": "2026-08-06T18:05:07.167Z"
     }
   ]
 }
