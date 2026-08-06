@@ -455,6 +455,16 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Avocados",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 50,
+      "helpCount": 0,
+      "closedAt": "2026-08-06T18:02:05.890Z"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 62,
