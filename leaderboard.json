@@ -203,6 +203,16 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Paradox",
+      "slotResult": "LOSER",
+      "totalScore": 82,
+      "escapeTime": 50,
+      "helpCount": 0,
+      "closedAt": "2026-08-06T20:01:16.215Z"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 9,
