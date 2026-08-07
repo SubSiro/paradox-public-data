@@ -43,6 +43,16 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Junior eng.s",
+      "slotResult": "LOSER",
+      "totalScore": 47,
+      "escapeTime": 60,
+      "helpCount": 1,
+      "closedAt": "2026-08-07T18:59:24.755Z"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "Abo lahab",
       "slotResult": "LOSER",
       "totalScore": 50,
