@@ -969,6 +969,16 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Wonder shrombo",
+      "slotResult": "LOSER",
+      "totalScore": 28,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-08-07T20:10:22.886Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Reer cartan",
       "slotResult": "LOSER",
       "totalScore": 31,
