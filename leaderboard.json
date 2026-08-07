@@ -1009,6 +1009,16 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Sefelek",
+      "slotResult": "LOSER",
+      "totalScore": 56,
+      "escapeTime": 56,
+      "helpCount": 2,
+      "closedAt": "2026-08-07T21:13:34.588Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Power Cut",
       "slotResult": "LOSER",
       "totalScore": 27,
