@@ -1079,6 +1079,16 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Fashleen",
+      "slotResult": "LOSER",
+      "totalScore": 32,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-08-07T22:27:54.991Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Spidgy Dalia",
       "slotResult": "WINNER",
       "totalScore": 95,
