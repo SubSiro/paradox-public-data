@@ -83,6 +83,16 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "El 7arifa",
+      "slotResult": "LOSER",
+      "totalScore": 66,
+      "escapeTime": 57,
+      "helpCount": 7,
+      "closedAt": "2026-08-07T22:25:56.566Z"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "شله",
       "slotResult": "LOSER",
       "totalScore": 58,
