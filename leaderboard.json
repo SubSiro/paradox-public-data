@@ -23,6 +23,16 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Queens",
+      "slotResult": "LOSER",
+      "totalScore": 37,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-08-07T17:54:41.386Z"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "Goon squad",
       "slotResult": "LOSER",
       "totalScore": 46,
