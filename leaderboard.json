@@ -717,6 +717,16 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "The  king",
+      "slotResult": "LOSER",
+      "totalScore": 51,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-08-07T20:17:04.337Z"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Arab",
       "slotResult": "LOSER",
       "totalScore": 95,
