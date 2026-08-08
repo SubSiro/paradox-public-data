@@ -1339,6 +1339,16 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Team 10 king hany",
+      "slotResult": "WINNER",
+      "totalScore": 90,
+      "escapeTime": 52,
+      "helpCount": 1,
+      "closedAt": "2026-08-08T22:14:56.905Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "BUC HUB",
       "slotResult": "WINNER",
       "totalScore": 94,
