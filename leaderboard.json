@@ -1179,6 +1179,16 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Peaky blinders",
+      "slotResult": "LOSER",
+      "totalScore": 49,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-08-08T17:59:32.986Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Elshikabola",
       "slotResult": "LOSER",
       "totalScore": 61,
