@@ -435,6 +435,16 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Geblawis",
+      "slotResult": "LOSER",
+      "totalScore": 71,
+      "escapeTime": 55,
+      "helpCount": 0,
+      "closedAt": "2026-08-08T17:17:17.836Z"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "ABB543",
       "slotResult": "WINNER",
       "totalScore": 95,
