@@ -455,6 +455,16 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "El hoss fanclub",
+      "slotResult": "WINNER",
+      "totalScore": 89,
+      "escapeTime": 59,
+      "helpCount": 2,
+      "closedAt": "2026-08-08T18:21:04.954Z"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "The team",
       "slotResult": "LOSER",
       "totalScore": 73,
