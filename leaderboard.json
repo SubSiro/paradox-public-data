@@ -897,6 +897,16 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "El 2btal",
+      "slotResult": "LOSER",
+      "totalScore": 47,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-08-08T19:08:01.050Z"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Hot golden balls",
       "slotResult": "LOSER",
       "totalScore": 43,
