@@ -1139,6 +1139,16 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Skills",
+      "slotResult": "LOSER",
+      "totalScore": 5,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-08-08T15:52:20.652Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Sooryeen",
       "slotResult": "WINNER",
       "totalScore": 95,
