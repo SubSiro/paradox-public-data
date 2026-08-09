@@ -1449,6 +1449,16 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Saif we awlado",
+      "slotResult": "LOSER",
+      "totalScore": 28,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-08-09T19:19:12.072Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Mohanad and Hanna and halaa",
       "slotResult": "LOSER",
       "totalScore": 31,
