@@ -545,6 +545,16 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Haka no fair",
+      "slotResult": "LOSER",
+      "totalScore": 40,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-08-09T18:08:20.399Z"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "عمروشيات",
       "slotResult": "LOSER",
       "totalScore": 61,
