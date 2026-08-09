@@ -665,6 +665,16 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Mozy",
+      "slotResult": "WINNER",
+      "totalScore": 96,
+      "escapeTime": 29,
+      "helpCount": 1,
+      "closedAt": "2026-08-09T22:58:34.829Z"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Spider man gang",
       "slotResult": "LOSER",
       "totalScore": 20,
