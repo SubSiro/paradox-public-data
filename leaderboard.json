@@ -1499,6 +1499,16 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Gang biz",
+      "slotResult": "LOSER",
+      "totalScore": 33,
+      "escapeTime": 59,
+      "helpCount": 5,
+      "closedAt": "2026-08-09T20:53:53.897Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "ABB543",
       "slotResult": "LOSER",
       "totalScore": 52,
