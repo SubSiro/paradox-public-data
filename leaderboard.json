@@ -1157,6 +1157,16 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Bakaboza",
+      "slotResult": "WINNER",
+      "totalScore": 85,
+      "escapeTime": 55,
+      "helpCount": 5,
+      "closedAt": "2026-08-09T21:48:54.613Z"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Mes",
       "slotResult": "WINNER",
       "totalScore": 88,
