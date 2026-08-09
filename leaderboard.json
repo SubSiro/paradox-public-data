@@ -535,6 +535,16 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Four lights",
+      "slotResult": "LOSER",
+      "totalScore": 65,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-08-09T16:10:57.483Z"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "عمروشيات",
       "slotResult": "LOSER",
       "totalScore": 61,
