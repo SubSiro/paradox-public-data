@@ -807,6 +807,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Yus fanclub",
+      "slotResult": "LOSER",
+      "totalScore": 61,
+      "escapeTime": 58,
+      "helpCount": 2,
+      "closedAt": "2026-08-10T20:20:37.292Z",
+      "bookingDate": "2026-08-10"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Aboelezz",
       "slotResult": "LOSER",
       "totalScore": 48,
