@@ -1439,6 +1439,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "FMAH",
+      "slotResult": "LOSER",
+      "totalScore": 68,
+      "escapeTime": 53,
+      "helpCount": 2,
+      "closedAt": "2026-08-10T21:17:35.917Z",
+      "bookingDate": "2026-08-10"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 0,
