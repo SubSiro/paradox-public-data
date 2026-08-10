@@ -1277,6 +1277,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Bluesky",
+      "slotResult": "LOSER",
+      "totalScore": 45,
+      "escapeTime": 58,
+      "helpCount": 5,
+      "closedAt": "2026-08-10T17:14:53.950Z",
+      "bookingDate": "2026-08-10"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Sefelek",
       "slotResult": "WINNER",
       "totalScore": 91,
