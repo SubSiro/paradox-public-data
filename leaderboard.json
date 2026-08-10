@@ -1235,6 +1235,16 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Karim fam",
+      "slotResult": "LOSER",
+      "totalScore": 82,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-08-10T16:09:49.206Z"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Maaa",
       "slotResult": "LOSER",
       "totalScore": 43,
