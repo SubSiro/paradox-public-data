@@ -743,6 +743,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Medinah",
+      "slotResult": "LOSER",
+      "totalScore": 64,
+      "escapeTime": 59,
+      "helpCount": 3,
+      "closedAt": "2026-08-10T18:15:36.527Z",
+      "bookingDate": "2026-08-10"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Brand new day",
       "slotResult": "LOSER",
       "totalScore": 47,
