@@ -404,16 +404,6 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
-      "teamName": "Aalmarasem",
-      "slotResult": "LOSER",
-      "totalScore": 55,
-      "escapeTime": 60,
-      "helpCount": 4,
-      "closedAt": "2026-08-06T18:01:34.485Z"
-    },
-    {
-      "roomId": "rose",
-      "roomName": "Rose",
       "teamName": "Mtkees",
       "slotResult": "LOSER",
       "totalScore": 59,
