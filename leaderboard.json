@@ -372,6 +372,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Dead team",
+      "slotResult": "LOSER",
+      "totalScore": 40,
+      "escapeTime": 48,
+      "helpCount": 3,
+      "closedAt": "2026-08-11T18:02:32.144Z",
+      "bookingDate": "2026-08-11"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "El 3ein sabtna we rab El  3ar4 nagana",
       "slotResult": "LOSER",
       "totalScore": 36,
@@ -1993,6 +2004,17 @@
       "escapeTime": 60,
       "helpCount": 4,
       "closedAt": "2026-08-11T16:04:06.367Z",
+      "bookingDate": "2026-08-11"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Alpha team",
+      "slotResult": "LOSER",
+      "totalScore": 39,
+      "escapeTime": 48,
+      "helpCount": 1,
+      "closedAt": "2026-08-11T18:02:35.030Z",
       "bookingDate": "2026-08-11"
     },
     {
