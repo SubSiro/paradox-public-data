@@ -435,6 +435,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "",
+      "slotResult": "LOSER",
+      "totalScore": 50,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-08-12T17:00:30.934Z",
+      "bookingDate": "2026-08-12"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "Basss",
       "slotResult": "LOSER",
       "totalScore": 58,
