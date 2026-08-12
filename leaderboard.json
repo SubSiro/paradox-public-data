@@ -467,16 +467,6 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
-      "teamName": "Falcon X",
-      "slotResult": "LOSER",
-      "totalScore": 67,
-      "escapeTime": 52,
-      "helpCount": 3,
-      "closedAt": "2026-08-06T22:22:19.470Z"
-    },
-    {
-      "roomId": "rose",
-      "roomName": "Rose",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 9,
