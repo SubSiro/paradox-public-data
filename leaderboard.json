@@ -456,6 +456,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Booty cheecks",
+      "slotResult": "LOSER",
+      "totalScore": 55,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-08-12T18:06:15.114Z",
+      "bookingDate": "2026-08-12"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "Falcon X",
       "slotResult": "LOSER",
       "totalScore": 67,
