@@ -2289,6 +2289,17 @@
       "helpCount": 3,
       "closedAt": "2026-08-12T19:03:27.078Z",
       "bookingDate": "2026-08-12"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Alzamiel",
+      "slotResult": "LOSER",
+      "totalScore": 18,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-08-12T20:07:18.604Z",
+      "bookingDate": "2026-08-12"
     }
   ]
 }
