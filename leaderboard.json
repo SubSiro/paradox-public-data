@@ -1944,6 +1944,16 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Power",
+      "slotResult": "LOSER",
+      "totalScore": 35,
+      "escapeTime": 56,
+      "helpCount": 2,
+      "closedAt": "2026-08-13T22:03:49.570Z"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 0,
@@ -2597,6 +2607,17 @@
       "helpCount": 4,
       "closedAt": "2026-08-13T21:07:09.124Z",
       "bookingDate": "2026-08-13"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Bakabortat",
+      "slotResult": "LOSER",
+      "totalScore": 34,
+      "escapeTime": 59,
+      "helpCount": 2,
+      "closedAt": "2026-08-13T22:03:52.069Z",
+      "bookingDate": "2026-08-14"
     }
   ]
 }
