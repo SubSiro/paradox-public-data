@@ -489,6 +489,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "The Epsteins",
+      "slotResult": "LOSER",
+      "totalScore": 32,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-08-13T16:51:34.465Z",
+      "bookingDate": "2026-08-13"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 9,
