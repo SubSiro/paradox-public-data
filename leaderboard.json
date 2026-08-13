@@ -511,6 +511,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Dream team",
+      "slotResult": "LOSER",
+      "totalScore": 24,
+      "escapeTime": 59,
+      "helpCount": 5,
+      "closedAt": "2026-08-13T20:04:12.561Z",
+      "bookingDate": "2026-08-13"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 9,
@@ -1273,6 +1284,17 @@
       "escapeTime": 55,
       "helpCount": 6,
       "closedAt": "2026-08-13T19:00:17.001Z",
+      "bookingDate": "2026-08-13"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Niggas",
+      "slotResult": "LOSER",
+      "totalScore": 16,
+      "escapeTime": 57,
+      "helpCount": 3,
+      "closedAt": "2026-08-13T20:04:10.845Z",
       "bookingDate": "2026-08-13"
     },
     {
