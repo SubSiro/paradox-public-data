@@ -1954,6 +1954,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Team Dalal",
+      "slotResult": "WINNER",
+      "totalScore": 81,
+      "escapeTime": 58,
+      "helpCount": 5,
+      "closedAt": "2026-08-14T14:12:41.516Z",
+      "bookingDate": "2026-08-14"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 0,
