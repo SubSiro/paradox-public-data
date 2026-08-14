@@ -1366,6 +1366,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Zuwara",
+      "slotResult": "LOSER",
+      "totalScore": 65,
+      "escapeTime": 58,
+      "helpCount": 2,
+      "closedAt": "2026-08-14T17:12:51.468Z",
+      "bookingDate": "2026-08-14"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 62,
