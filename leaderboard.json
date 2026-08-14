@@ -2792,6 +2792,17 @@
       "escapeTime": 60,
       "helpCount": 1,
       "closedAt": "2026-08-14T19:06:13.484Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Abonura",
+      "slotResult": "LOSER",
+      "totalScore": 25,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-08-14T20:14:38.791Z",
+      "bookingDate": "2026-08-14"
     }
   ]
 }
