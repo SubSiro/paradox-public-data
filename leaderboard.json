@@ -561,6 +561,17 @@
       "escapeTime": 60,
       "helpCount": 6,
       "closedAt": "2026-07-18T20:15:32.724Z"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Hlmfs",
+      "slotResult": "LOSER",
+      "totalScore": 61,
+      "escapeTime": 58,
+      "helpCount": 1,
+      "closedAt": "2026-08-14T19:15:06.625Z",
+      "bookingDate": "2026-08-14"
     }
   ],
   "sabrina": [
