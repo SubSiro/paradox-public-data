@@ -2878,6 +2878,17 @@
       "escapeTime": 55,
       "helpCount": 3,
       "closedAt": "2026-08-14T21:16:19.107Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Al otaibi",
+      "slotResult": "LOSER",
+      "totalScore": 43,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-08-14T22:20:24.480Z",
+      "bookingDate": "2026-08-15"
     }
   ]
 }
