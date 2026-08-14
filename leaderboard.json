@@ -2064,6 +2064,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "The 4 pact",
+      "slotResult": "WINNER",
+      "totalScore": 99,
+      "escapeTime": 52,
+      "helpCount": 1,
+      "closedAt": "2026-08-14T19:09:07.478Z",
+      "bookingDate": "2026-08-14"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 0,
