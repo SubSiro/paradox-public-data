@@ -1333,6 +1333,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "H FAMILY",
+      "slotResult": "LOSER",
+      "totalScore": 59,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-08-14T15:00:19.015Z",
+      "bookingDate": "2026-08-14"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 62,
