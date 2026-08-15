@@ -637,6 +637,17 @@
       "helpCount": 2,
       "closedAt": "2026-08-15T20:06:18.918Z",
       "bookingDate": "2026-08-15"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Freshi",
+      "slotResult": "LOSER",
+      "totalScore": 38,
+      "escapeTime": 54,
+      "helpCount": 3,
+      "closedAt": "2026-08-15T21:03:24.960Z",
+      "bookingDate": "2026-08-15"
     }
   ],
   "sabrina": [
@@ -1557,6 +1568,17 @@
       "escapeTime": 60,
       "helpCount": 3,
       "closedAt": "2026-08-15T20:02:37.078Z",
+      "bookingDate": "2026-08-15"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "El Regala",
+      "slotResult": "LOSER",
+      "totalScore": 75,
+      "escapeTime": 56,
+      "helpCount": 2,
+      "closedAt": "2026-08-15T21:03:26.280Z",
       "bookingDate": "2026-08-15"
     },
     {
