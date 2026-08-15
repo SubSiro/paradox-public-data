@@ -2304,6 +2304,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Elga3an",
+      "slotResult": "LOSER",
+      "totalScore": 30,
+      "escapeTime": 60,
+      "helpCount": 6,
+      "closedAt": "2026-08-15T21:01:58.627Z",
+      "bookingDate": "2026-08-15"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 0,
