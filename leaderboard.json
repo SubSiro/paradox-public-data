@@ -2238,6 +2238,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "3laa Allah insha2allah",
+      "slotResult": "LOSER",
+      "totalScore": 47,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-08-15T17:59:36.320Z",
+      "bookingDate": "2026-08-15"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 0,
