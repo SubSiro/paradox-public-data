@@ -3153,6 +3153,17 @@
       "helpCount": 2,
       "closedAt": "2026-08-15T21:03:22.790Z",
       "bookingDate": "2026-08-15"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "الدعاديع",
+      "slotResult": "LOSER",
+      "totalScore": 3,
+      "escapeTime": 56,
+      "helpCount": 4,
+      "closedAt": "2026-08-15T22:13:30.343Z",
+      "bookingDate": "2026-08-16"
     }
   ]
 }
