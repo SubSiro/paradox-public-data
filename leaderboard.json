@@ -3087,6 +3087,17 @@
       "helpCount": 2,
       "closedAt": "2026-08-15T20:03:05.939Z",
       "bookingDate": "2026-08-15"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Bahlola",
+      "slotResult": "LOSER",
+      "totalScore": 34,
+      "escapeTime": 56,
+      "helpCount": 2,
+      "closedAt": "2026-08-15T21:03:22.790Z",
+      "bookingDate": "2026-08-15"
     }
   ]
 }
