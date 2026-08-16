@@ -33,16 +33,6 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
-      "teamName": "Gooners",
-      "slotResult": "LOSER",
-      "totalScore": 45,
-      "escapeTime": 60,
-      "helpCount": 6,
-      "closedAt": "2026-08-07T20:10:14.863Z"
-    },
-    {
-      "roomId": "rose",
-      "roomName": "Rose",
       "teamName": "Shehata",
       "slotResult": "LOSER",
       "totalScore": 76,
