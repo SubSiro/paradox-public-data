@@ -1780,6 +1780,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Paradox escapers",
+      "slotResult": "WINNER",
+      "totalScore": 91,
+      "escapeTime": 56,
+      "helpCount": 2,
+      "closedAt": "2026-08-16T21:26:30.824Z",
+      "bookingDate": "2026-08-16"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "The  king",
       "slotResult": "LOSER",
       "totalScore": 51,
