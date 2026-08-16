@@ -1737,6 +1737,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Koushary",
+      "slotResult": "LOSER",
+      "totalScore": 42,
+      "escapeTime": 60,
+      "helpCount": 8,
+      "closedAt": "2026-08-16T20:16:44.157Z",
+      "bookingDate": "2026-08-16"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "D&y",
       "slotResult": "LOSER",
       "totalScore": 44,
