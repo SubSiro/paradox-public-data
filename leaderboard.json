@@ -2372,6 +2372,17 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "خليها على الله",
+      "slotResult": "LOSER",
+      "totalScore": 34,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-08-16T15:02:12.953Z",
+      "bookingDate": "2026-08-16"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Sakr w kanaria",
       "slotResult": "LOSER",
       "totalScore": 26,
