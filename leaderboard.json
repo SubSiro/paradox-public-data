@@ -33,26 +33,6 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
-      "teamName": "Goon squad",
-      "slotResult": "LOSER",
-      "totalScore": 46,
-      "escapeTime": 60,
-      "helpCount": 4,
-      "closedAt": "2026-08-02T16:11:27.600Z"
-    },
-    {
-      "roomId": "rose",
-      "roomName": "Rose",
-      "teamName": "Junior eng.s",
-      "slotResult": "LOSER",
-      "totalScore": 47,
-      "escapeTime": 60,
-      "helpCount": 1,
-      "closedAt": "2026-08-07T18:59:24.755Z"
-    },
-    {
-      "roomId": "rose",
-      "roomName": "Rose",
       "teamName": "Gooners",
       "slotResult": "LOSER",
       "totalScore": 45,
