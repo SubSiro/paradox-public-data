@@ -1823,6 +1823,16 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Etar",
+      "slotResult": "LOSER",
+      "totalScore": 56,
+      "escapeTime": 46,
+      "helpCount": 2,
+      "closedAt": "2026-08-16T22:25:50.574Z"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Pro club",
       "slotResult": "WINNER",
       "totalScore": 84,
