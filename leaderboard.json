@@ -939,6 +939,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Captain Beatrice and her team",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 52,
+      "helpCount": 0,
+      "closedAt": "2026-08-17T19:04:15.960Z",
+      "bookingDate": "2026-08-17"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Zab",
       "slotResult": "WINNER",
       "totalScore": 90,
