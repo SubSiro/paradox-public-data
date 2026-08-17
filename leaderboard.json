@@ -845,6 +845,16 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Nusaybah is the best",
+      "slotResult": "WINNER",
+      "totalScore": 94,
+      "escapeTime": 56,
+      "helpCount": 3,
+      "closedAt": "2026-08-17T14:43:22.013Z"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Mazrouan",
       "slotResult": "WINNER",
       "totalScore": 88,
