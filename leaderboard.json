@@ -2672,26 +2672,6 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
-      "teamName": "Spidgy Dalia",
-      "slotResult": "WINNER",
-      "totalScore": 95,
-      "escapeTime": 55,
-      "helpCount": 4,
-      "closedAt": "2026-08-02T20:04:57.218Z"
-    },
-    {
-      "roomId": "alcatraz",
-      "roomName": "Alcatraz",
-      "teamName": "Midzo",
-      "slotResult": "WINNER",
-      "totalScore": 88,
-      "escapeTime": 53,
-      "helpCount": 4,
-      "closedAt": "2026-08-08T14:00:58.852Z"
-    },
-    {
-      "roomId": "alcatraz",
-      "roomName": "Alcatraz",
       "teamName": "Batates m7amara",
       "slotResult": "LOSER",
       "totalScore": 63,
