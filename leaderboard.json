@@ -1960,6 +1960,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Zozo",
+      "slotResult": "LOSER",
+      "totalScore": 41,
+      "escapeTime": 59,
+      "helpCount": 8,
+      "closedAt": "2026-08-17T20:01:41.595Z",
+      "bookingDate": "2026-08-17"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Arab",
       "slotResult": "LOSER",
       "totalScore": 89,
