@@ -326,6 +326,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "التك",
+      "slotResult": "LOSER",
+      "totalScore": 34,
+      "escapeTime": 53,
+      "helpCount": 4,
+      "closedAt": "2026-08-18T17:00:42.679Z",
+      "bookingDate": "2026-08-18"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "Met2a5areen",
       "slotResult": "LOSER",
       "totalScore": 50,
