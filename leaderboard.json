@@ -2108,26 +2108,6 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
-      "teamName": "Hot golden balls",
-      "slotResult": "LOSER",
-      "totalScore": 70,
-      "escapeTime": 56,
-      "helpCount": 5,
-      "closedAt": "2026-08-03T16:12:31.111Z"
-    },
-    {
-      "roomId": "marionettes",
-      "roomName": "Marionettes",
-      "teamName": "Marvel",
-      "slotResult": "LOSER",
-      "totalScore": 68,
-      "escapeTime": 60,
-      "helpCount": 5,
-      "closedAt": "2026-08-08T20:18:28.578Z"
-    },
-    {
-      "roomId": "marionettes",
-      "roomName": "Marionettes",
       "teamName": "Ihg",
       "slotResult": "LOSER",
       "totalScore": 65,
