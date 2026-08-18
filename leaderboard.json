@@ -294,6 +294,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "3ala Allah isa",
+      "slotResult": "LOSER",
+      "totalScore": 53,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-08-18T15:08:22.012Z",
+      "bookingDate": "2026-08-18"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "Spidar",
       "slotResult": "LOSER",
       "totalScore": 42,
