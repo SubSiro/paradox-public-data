@@ -3051,6 +3051,17 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Dr. Engs. Chem.",
+      "slotResult": "LOSER",
+      "totalScore": 46,
+      "escapeTime": 59,
+      "helpCount": 5,
+      "closedAt": "2026-08-18T18:07:39.144Z",
+      "bookingDate": "2026-08-18"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Fock valley",
       "slotResult": "LOSER",
       "totalScore": 44,
