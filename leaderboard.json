@@ -2987,6 +2987,17 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "شنغل و منغل",
+      "slotResult": "LOSER",
+      "totalScore": 36,
+      "escapeTime": 52,
+      "helpCount": 2,
+      "closedAt": "2026-08-18T17:04:39.412Z",
+      "bookingDate": "2026-08-18"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "BUC HUB",
       "slotResult": "WINNER",
       "totalScore": 40,
