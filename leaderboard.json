@@ -1116,6 +1116,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Hamza El hals",
+      "slotResult": "LOSER",
+      "totalScore": 64,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-08-18T19:02:03.173Z",
+      "bookingDate": "2026-08-18"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Four lights",
       "slotResult": "LOSER",
       "totalScore": 65,
