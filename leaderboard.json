@@ -2075,6 +2075,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Locked in",
+      "slotResult": "LOSER",
+      "totalScore": 60,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-08-18T18:02:53.084Z",
+      "bookingDate": "2026-08-18"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Hot golden balls",
       "slotResult": "LOSER",
       "totalScore": 70,
