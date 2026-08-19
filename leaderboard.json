@@ -1223,6 +1223,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Hamas",
+      "slotResult": "LOSER",
+      "totalScore": 58,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-08-19T18:00:42.310Z",
+      "bookingDate": "2026-08-19"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Haka no fair",
       "slotResult": "LOSER",
       "totalScore": 40,
