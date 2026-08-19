@@ -2290,6 +2290,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Get clapped",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 50,
+      "helpCount": 1,
+      "closedAt": "2026-08-19T18:02:49.223Z",
+      "bookingDate": "2026-08-19"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Povaa",
       "slotResult": "LOSER",
       "totalScore": 63,
