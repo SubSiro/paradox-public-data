@@ -3382,6 +3382,17 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Hot goldenballs",
+      "slotResult": "LOSER",
+      "totalScore": 29,
+      "escapeTime": 56,
+      "helpCount": 2,
+      "closedAt": "2026-08-19T17:04:56.876Z",
+      "bookingDate": "2026-08-19"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Saudi",
       "slotResult": "LOSER",
       "totalScore": 50,
