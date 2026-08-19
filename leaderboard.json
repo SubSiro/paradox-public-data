@@ -3243,6 +3243,17 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Kylo",
+      "slotResult": "LOSER",
+      "totalScore": 28,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-08-19T14:09:48.854Z",
+      "bookingDate": "2026-08-19"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Hangout",
       "slotResult": "LOSER",
       "totalScore": 37,
