@@ -1319,6 +1319,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "El fatahel",
+      "slotResult": "LOSER",
+      "totalScore": 58,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-08-19T21:39:51.364Z",
+      "bookingDate": "2026-08-20"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Farida & jannah",
       "slotResult": "WINNER",
       "totalScore": 100,
