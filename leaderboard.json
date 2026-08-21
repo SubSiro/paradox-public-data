@@ -1351,6 +1351,16 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "",
+      "slotResult": "LOSER",
+      "totalScore": 0,
+      "escapeTime": 2328,
+      "helpCount": 0,
+      "closedAt": "2026-08-21T13:04:19.580Z"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "J",
       "slotResult": "WINNER",
       "totalScore": 94,
@@ -2466,6 +2476,16 @@
       "helpCount": 7,
       "closedAt": "2026-08-19T22:00:03.094Z",
       "bookingDate": "2026-08-20"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "",
+      "slotResult": "LOSER",
+      "totalScore": 0,
+      "escapeTime": 2328,
+      "helpCount": 0,
+      "closedAt": "2026-08-21T13:04:20.231Z"
     },
     {
       "roomId": "marionettes",
