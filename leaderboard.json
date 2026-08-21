@@ -2658,6 +2658,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Ahfad almoktar",
+      "slotResult": "WINNER",
+      "totalScore": 97,
+      "escapeTime": 43,
+      "helpCount": 3,
+      "closedAt": "2026-08-21T20:55:25.360Z",
+      "bookingDate": "2026-08-21"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Maha",
       "slotResult": "WINNER",
       "totalScore": 72,
