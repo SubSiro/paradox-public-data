@@ -1433,6 +1433,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "LA peace",
+      "slotResult": "LOSER",
+      "totalScore": 36,
+      "escapeTime": 50,
+      "helpCount": 3,
+      "closedAt": "2026-08-21T16:12:15.459Z",
+      "bookingDate": "2026-08-21"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Spider man gang",
       "slotResult": "LOSER",
       "totalScore": 20,
