@@ -1402,6 +1402,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Tung tung tung sahur gang",
+      "slotResult": "LOSER",
+      "totalScore": 58,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-08-21T15:11:40.454Z",
+      "bookingDate": "2026-08-21"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Zena",
       "slotResult": "WINNER",
       "totalScore": 98,
