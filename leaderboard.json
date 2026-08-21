@@ -1519,27 +1519,6 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
-      "teamName": "Brand new day",
-      "slotResult": "LOSER",
-      "totalScore": 47,
-      "escapeTime": 57,
-      "helpCount": 1,
-      "closedAt": "2026-08-04T18:08:28.452Z"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
-      "teamName": "Bieo",
-      "slotResult": "WINNER",
-      "totalScore": 96,
-      "escapeTime": 58,
-      "helpCount": 1,
-      "closedAt": "2026-08-10T19:17:37.093Z",
-      "bookingDate": "2026-08-10"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
       "teamName": "Alsarraj",
       "slotResult": "LOSER",
       "totalScore": 38,
