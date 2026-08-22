@@ -841,6 +841,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Libya",
+      "slotResult": "LOSER",
+      "totalScore": 35,
+      "escapeTime": 56,
+      "helpCount": 4,
+      "closedAt": "2026-08-22T20:13:38.920Z",
+      "bookingDate": "2026-08-22"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "Blue pitch",
       "slotResult": "LOSER",
       "totalScore": 35,
