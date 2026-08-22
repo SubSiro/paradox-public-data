@@ -2959,6 +2959,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Malagat",
+      "slotResult": "LOSER",
+      "totalScore": 29,
+      "escapeTime": 60,
+      "helpCount": 7,
+      "closedAt": "2026-08-22T21:19:01.602Z",
+      "bookingDate": "2026-08-22"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Family horror",
       "slotResult": "LOSER",
       "totalScore": 74,
