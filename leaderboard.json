@@ -787,6 +787,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Mostafa",
+      "slotResult": "LOSER",
+      "totalScore": 46,
+      "escapeTime": 60,
+      "helpCount": 6,
+      "closedAt": "2026-08-22T17:09:44.150Z",
+      "bookingDate": "2026-08-22"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "Kfc",
       "slotResult": "LOSER",
       "totalScore": 57,
