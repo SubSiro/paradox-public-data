@@ -1616,6 +1616,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Mansoury Gang",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 40,
+      "helpCount": 0,
+      "closedAt": "2026-08-22T16:02:04.764Z",
+      "bookingDate": "2026-08-22"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Saudi",
       "slotResult": "WINNER",
       "totalScore": 78,
