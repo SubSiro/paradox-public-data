@@ -4183,6 +4183,17 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "El hatem",
+      "slotResult": "LOSER",
+      "totalScore": 37,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-08-22T20:26:20.743Z",
+      "bookingDate": "2026-08-22"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Guc",
       "slotResult": "LOSER",
       "totalScore": 19,
