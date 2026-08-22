@@ -2722,6 +2722,16 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "بنات رشا",
+      "slotResult": "LOSER",
+      "totalScore": 28,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-08-22T14:35:37.654Z"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Maaa",
       "slotResult": "LOSER",
       "totalScore": 43,
