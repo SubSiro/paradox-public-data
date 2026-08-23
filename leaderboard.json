@@ -1864,6 +1864,16 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "A7A MANGA",
+      "slotResult": "WINNER",
+      "totalScore": 90,
+      "escapeTime": 55,
+      "helpCount": 3,
+      "closedAt": "2026-08-23T15:13:39.553Z"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 0,
