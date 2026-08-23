@@ -939,6 +939,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Zebda Khalfeya",
+      "slotResult": "LOSER",
+      "totalScore": 67,
+      "escapeTime": 57,
+      "helpCount": 2,
+      "closedAt": "2026-08-23T20:05:05.702Z",
+      "bookingDate": "2026-08-23"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "228 family geeks",
       "slotResult": "LOSER",
       "totalScore": 42,
