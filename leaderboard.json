@@ -4445,6 +4445,17 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Kolat",
+      "slotResult": "WINNER",
+      "totalScore": 89,
+      "escapeTime": 57,
+      "helpCount": 3,
+      "closedAt": "2026-08-23T21:10:55.536Z",
+      "bookingDate": "2026-08-23"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Ngas in cairo",
       "slotResult": "LOSER",
       "totalScore": 30,
