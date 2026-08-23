@@ -983,6 +983,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "ابو لهب و اصدقاؤه",
+      "slotResult": "LOSER",
+      "totalScore": 55,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-08-23T22:13:27.909Z",
+      "bookingDate": "2026-08-24"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "Freshi",
       "slotResult": "LOSER",
       "totalScore": 38,
