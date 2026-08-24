@@ -1034,6 +1034,16 @@
       "helpCount": 3,
       "closedAt": "2026-08-24T16:03:02.662Z",
       "bookingDate": "2026-08-24"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Mazarita",
+      "slotResult": "LOSER",
+      "totalScore": 39,
+      "escapeTime": 52,
+      "helpCount": 3,
+      "closedAt": "2026-08-24T17:06:07.654Z"
     }
   ],
   "sabrina": [
