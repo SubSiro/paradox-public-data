@@ -2249,6 +2249,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Aboko shetos",
+      "slotResult": "LOSER",
+      "totalScore": 47,
+      "escapeTime": 55,
+      "helpCount": 2,
+      "closedAt": "2026-08-24T20:03:24.564Z",
+      "bookingDate": "2026-08-24"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Yaghi gang",
       "slotResult": "WINNER",
       "totalScore": 79,
