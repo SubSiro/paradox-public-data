@@ -1023,6 +1023,17 @@
       "helpCount": 3,
       "closedAt": "2026-08-15T22:06:02.236Z",
       "bookingDate": "2026-08-16"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Hot golden balls fried sweet",
+      "slotResult": "LOSER",
+      "totalScore": 37,
+      "escapeTime": 57,
+      "helpCount": 3,
+      "closedAt": "2026-08-24T16:03:02.662Z",
+      "bookingDate": "2026-08-24"
     }
   ],
   "sabrina": [
