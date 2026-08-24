@@ -3371,6 +3371,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Haya",
+      "slotResult": "LOSER",
+      "totalScore": 40,
+      "escapeTime": 57,
+      "helpCount": 3,
+      "closedAt": "2026-08-24T19:02:02.704Z",
+      "bookingDate": "2026-08-24"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Way.to fatooh",
       "slotResult": "WINNER",
       "totalScore": 87,
