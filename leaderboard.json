@@ -1044,6 +1044,17 @@
       "escapeTime": 52,
       "helpCount": 3,
       "closedAt": "2026-08-24T17:06:07.654Z"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Iraqes",
+      "slotResult": "LOSER",
+      "totalScore": 38,
+      "escapeTime": 51,
+      "helpCount": 4,
+      "closedAt": "2026-08-24T18:00:30.652Z",
+      "bookingDate": "2026-08-24"
     }
   ],
   "sabrina": [
