@@ -2088,6 +2088,16 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Eldahshat Team",
+      "slotResult": "LOSER",
+      "totalScore": 65,
+      "escapeTime": 58,
+      "helpCount": 2,
+      "closedAt": "2026-08-24T16:02:58.749Z"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Bagaresh",
       "slotResult": "WINNER",
       "totalScore": 100,
