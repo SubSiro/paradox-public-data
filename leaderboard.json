@@ -3481,6 +3481,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "E3ml El sa7",
+      "slotResult": "LOSER",
+      "totalScore": 70,
+      "escapeTime": 55,
+      "helpCount": 3,
+      "closedAt": "2026-08-24T21:07:49.956Z",
+      "bookingDate": "2026-08-24"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "6 FIGHTER",
       "slotResult": "LOSER",
       "totalScore": 39,
