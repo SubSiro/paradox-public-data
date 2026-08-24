@@ -2067,27 +2067,6 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
-      "teamName": "🦉",
-      "slotResult": "LOSER",
-      "totalScore": 72,
-      "escapeTime": 60,
-      "helpCount": 2,
-      "closedAt": "2026-08-06T19:05:03.397Z"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
-      "teamName": "Aljabr family",
-      "slotResult": "LOSER",
-      "totalScore": 65,
-      "escapeTime": 57,
-      "helpCount": 4,
-      "closedAt": "2026-08-12T19:12:01.252Z",
-      "bookingDate": "2026-08-12"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
       "teamName": "Minions",
       "slotResult": "LOSER",
       "totalScore": 30,
