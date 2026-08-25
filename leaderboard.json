@@ -114,6 +114,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "MOEL",
+      "slotResult": "LOSER",
+      "totalScore": 57,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-08-25T19:13:01.723Z",
+      "bookingDate": "2026-08-25"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "Mohandseen",
       "slotResult": "LOSER",
       "totalScore": 37,
