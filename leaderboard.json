@@ -178,6 +178,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Re & Tards",
+      "slotResult": "LOSER",
+      "totalScore": 33,
+      "escapeTime": 58,
+      "helpCount": 2,
+      "closedAt": "2026-08-25T21:19:36.082Z",
+      "bookingDate": "2026-08-25"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "Medosaa",
       "slotResult": "WINNER",
       "totalScore": 100,
