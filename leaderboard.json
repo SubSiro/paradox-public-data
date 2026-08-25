@@ -2820,6 +2820,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Kmyd",
+      "slotResult": "WINNER",
+      "totalScore": 70,
+      "escapeTime": 54,
+      "helpCount": 3,
+      "closedAt": "2026-08-25T20:17:58.460Z",
+      "bookingDate": "2026-08-25"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Pro club",
       "slotResult": "WINNER",
       "totalScore": 84,
