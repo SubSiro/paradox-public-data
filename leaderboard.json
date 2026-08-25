@@ -2695,6 +2695,16 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Yaluwy",
+      "slotResult": "LOSER",
+      "totalScore": 59,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-08-25T18:02:18.593Z"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "D&y",
       "slotResult": "LOSER",
       "totalScore": 57,
