@@ -3871,6 +3871,16 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Casa",
+      "slotResult": "LOSER",
+      "totalScore": 76,
+      "escapeTime": 60,
+      "helpCount": 1,
+      "closedAt": "2026-08-25T19:20:53.358Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Sakr w kanaria",
       "slotResult": "LOSER",
       "totalScore": 26,
