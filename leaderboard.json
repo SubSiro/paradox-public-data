@@ -3768,6 +3768,16 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "the chaos",
+      "slotResult": "LOSER",
+      "totalScore": 30,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-08-25T17:06:38.654Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Elite",
       "slotResult": "WINNER",
       "totalScore": 35,
