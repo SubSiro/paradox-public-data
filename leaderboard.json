@@ -2928,6 +2928,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "The little gang",
+      "slotResult": "LOSER",
+      "totalScore": 55,
+      "escapeTime": 56,
+      "helpCount": 4,
+      "closedAt": "2026-08-26T14:05:27.932Z",
+      "bookingDate": "2026-08-26"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Domz w Som3a w El akhearen",
       "slotResult": "LOSER",
       "totalScore": 44,
