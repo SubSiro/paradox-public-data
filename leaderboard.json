@@ -3067,6 +3067,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Almarobeen",
+      "slotResult": "LOSER",
+      "totalScore": 32,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-08-26T19:15:44.587Z",
+      "bookingDate": "2026-08-26"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "AM",
       "slotResult": "LOSER",
       "totalScore": 50,
