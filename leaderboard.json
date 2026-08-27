@@ -444,38 +444,6 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
-      "teamName": "34ra 3la 34ra",
-      "slotResult": "WINNER",
-      "totalScore": 46,
-      "escapeTime": 55,
-      "helpCount": 4,
-      "closedAt": "2026-08-04T20:12:20.016Z"
-    },
-    {
-      "roomId": "rose",
-      "roomName": "Rose",
-      "teamName": "Asgoons",
-      "slotResult": "WINNER",
-      "totalScore": 99,
-      "escapeTime": 47,
-      "helpCount": 2,
-      "closedAt": "2026-08-10T14:35:38.307Z",
-      "bookingDate": "2026-08-10"
-    },
-    {
-      "roomId": "rose",
-      "roomName": "Rose",
-      "teamName": "3ala Allah isa",
-      "slotResult": "LOSER",
-      "totalScore": 53,
-      "escapeTime": 60,
-      "helpCount": 4,
-      "closedAt": "2026-08-18T15:08:22.012Z",
-      "bookingDate": "2026-08-18"
-    },
-    {
-      "roomId": "rose",
-      "roomName": "Rose",
       "teamName": "Spidar",
       "slotResult": "LOSER",
       "totalScore": 42,
