@@ -476,6 +476,16 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Rio",
+      "slotResult": "LOSER",
+      "totalScore": 59,
+      "escapeTime": 60,
+      "helpCount": 1,
+      "closedAt": "2026-08-27T22:01:59.013Z"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "😎",
       "slotResult": "LOSER",
       "totalScore": 50,
