@@ -1751,17 +1751,6 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
-      "teamName": "Alzamil",
-      "slotResult": "LOSER",
-      "totalScore": 28,
-      "escapeTime": 59,
-      "helpCount": 2,
-      "closedAt": "2026-08-18T21:08:10.744Z",
-      "bookingDate": "2026-08-18"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
       "teamName": "Four lights",
       "slotResult": "LOSER",
       "totalScore": 65,
