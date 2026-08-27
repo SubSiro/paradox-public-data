@@ -1879,27 +1879,6 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
-      "teamName": "Farida & jannah",
-      "slotResult": "WINNER",
-      "totalScore": 100,
-      "escapeTime": 30,
-      "helpCount": 0,
-      "closedAt": "2026-08-09T19:51:28.485Z",
-      "bookingDate": "2026-08-09"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
-      "teamName": "",
-      "slotResult": "LOSER",
-      "totalScore": 0,
-      "escapeTime": 2328,
-      "helpCount": 0,
-      "closedAt": "2026-08-21T13:04:19.580Z"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
       "teamName": "J",
       "slotResult": "WINNER",
       "totalScore": 94,
