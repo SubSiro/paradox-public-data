@@ -4533,6 +4533,17 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "🚔 ولاد رزق🚨",
+      "slotResult": "LOSER",
+      "totalScore": 34,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-08-27T22:08:56.318Z",
+      "bookingDate": "2026-08-28"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "BUC HUB",
       "slotResult": "WINNER",
       "totalScore": 56,
