@@ -4471,6 +4471,17 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Ksa",
+      "slotResult": "LOSER",
+      "totalScore": 26,
+      "escapeTime": 52,
+      "helpCount": 2,
+      "closedAt": "2026-08-27T19:06:30.037Z",
+      "bookingDate": "2026-08-27"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Yyh",
       "slotResult": "LOSER",
       "totalScore": 59,
