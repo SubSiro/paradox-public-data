@@ -3196,6 +3196,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Edraboona",
+      "slotResult": "WINNER",
+      "totalScore": 96,
+      "escapeTime": 48,
+      "helpCount": 1,
+      "closedAt": "2026-08-27T18:02:03.598Z",
+      "bookingDate": "2026-08-27"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Elmohandseen",
       "slotResult": "WINNER",
       "totalScore": 87,
