@@ -3263,6 +3263,16 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Tageldin",
+      "slotResult": "LOSER",
+      "totalScore": 52,
+      "escapeTime": 53,
+      "helpCount": 3,
+      "closedAt": "2026-08-27T21:05:12.477Z"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Povaa",
       "slotResult": "LOSER",
       "totalScore": 63,
