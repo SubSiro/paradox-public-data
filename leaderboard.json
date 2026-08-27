@@ -348,6 +348,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "3ala netenyahu",
+      "slotResult": "LOSER",
+      "totalScore": 60,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-08-27T18:00:20.290Z",
+      "bookingDate": "2026-08-27"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "Bitchbuggy",
       "slotResult": "LOSER",
       "totalScore": 58,
