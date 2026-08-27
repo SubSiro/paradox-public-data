@@ -3240,6 +3240,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Abo selim. Gasser",
+      "slotResult": "LOSER",
+      "totalScore": 64,
+      "escapeTime": 54,
+      "helpCount": 3,
+      "closedAt": "2026-08-27T19:01:30.573Z",
+      "bookingDate": "2026-08-27"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Gims",
       "slotResult": "LOSER",
       "totalScore": 26,
