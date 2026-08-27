@@ -316,6 +316,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Bakabortat",
+      "slotResult": "LOSER",
+      "totalScore": 39,
+      "escapeTime": 51,
+      "helpCount": 1,
+      "closedAt": "2026-08-27T16:05:01.670Z",
+      "bookingDate": "2026-08-27"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 58,
@@ -1730,6 +1741,16 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Meem family",
+      "slotResult": "LOSER",
+      "totalScore": 44,
+      "escapeTime": 48,
+      "helpCount": 4,
+      "closedAt": "2026-08-27T16:04:59.898Z"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Alzamil",
       "slotResult": "LOSER",
       "totalScore": 28,
@@ -3118,6 +3139,17 @@
       "helpCount": 5,
       "closedAt": "2026-08-26T19:15:44.587Z",
       "bookingDate": "2026-08-26"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Fighter Larpers",
+      "slotResult": "LOSER",
+      "totalScore": 41,
+      "escapeTime": 52,
+      "helpCount": 3,
+      "closedAt": "2026-08-27T16:04:58.689Z",
+      "bookingDate": "2026-08-27"
     },
     {
       "roomId": "marionettes",
