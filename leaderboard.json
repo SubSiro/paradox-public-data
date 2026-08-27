@@ -3273,37 +3273,6 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
-      "teamName": "Povaa",
-      "slotResult": "LOSER",
-      "totalScore": 63,
-      "escapeTime": 60,
-      "helpCount": 4,
-      "closedAt": "2026-08-04T19:14:06.428Z"
-    },
-    {
-      "roomId": "marionettes",
-      "roomName": "Marionettes",
-      "teamName": "The gang",
-      "slotResult": "LOSER",
-      "totalScore": 27,
-      "escapeTime": 49,
-      "helpCount": 5,
-      "closedAt": "2026-08-09T17:07:35.661Z"
-    },
-    {
-      "roomId": "marionettes",
-      "roomName": "Marionettes",
-      "teamName": "Xenon",
-      "slotResult": "LOSER",
-      "totalScore": 60,
-      "escapeTime": 59,
-      "helpCount": 3,
-      "closedAt": "2026-08-19T19:08:05.600Z",
-      "bookingDate": "2026-08-19"
-    },
-    {
-      "roomId": "marionettes",
-      "roomName": "Marionettes",
       "teamName": "Escapers",
       "slotResult": "LOSER",
       "totalScore": 57,
