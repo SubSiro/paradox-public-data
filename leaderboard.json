@@ -1932,6 +1932,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Father's fucking team",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 43,
+      "helpCount": 0,
+      "closedAt": "2026-08-27T20:48:51.266Z",
+      "bookingDate": "2026-08-27"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Farida & jannah",
       "slotResult": "WINNER",
       "totalScore": 100,
