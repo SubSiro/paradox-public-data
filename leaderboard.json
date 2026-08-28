@@ -3708,6 +3708,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Safareya Egypt",
+      "slotResult": "LOSER",
+      "totalScore": 45,
+      "escapeTime": 59,
+      "helpCount": 5,
+      "closedAt": "2026-08-28T22:16:47.518Z",
+      "bookingDate": "2026-08-29"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Maha",
       "slotResult": "WINNER",
       "totalScore": 22,
