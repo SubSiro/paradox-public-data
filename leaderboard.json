@@ -603,6 +603,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Had Al ana",
+      "slotResult": "WINNER",
+      "totalScore": 86,
+      "escapeTime": 39,
+      "helpCount": 1,
+      "closedAt": "2026-08-28T18:59:59.712Z",
+      "bookingDate": "2026-08-28"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "Bo3bo3",
       "slotResult": "LOSER",
       "totalScore": 53,
