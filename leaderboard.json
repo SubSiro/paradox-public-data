@@ -2069,6 +2069,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Ultimate cuties",
+      "slotResult": "WINNER",
+      "totalScore": 97,
+      "escapeTime": 46,
+      "helpCount": 2,
+      "closedAt": "2026-08-28T18:40:11.523Z",
+      "bookingDate": "2026-08-28"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "D5",
       "slotResult": "LOSER",
       "totalScore": 72,
