@@ -3579,6 +3579,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "مثلث القاهرة 😉 🇪🇬",
+      "slotResult": "LOSER",
+      "totalScore": 45,
+      "escapeTime": 57,
+      "helpCount": 3,
+      "closedAt": "2026-08-28T20:08:31.118Z",
+      "bookingDate": "2026-08-28"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "RX",
       "slotResult": "LOSER",
       "totalScore": 53,
