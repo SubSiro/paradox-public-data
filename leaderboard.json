@@ -2026,6 +2026,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Skibidis",
+      "slotResult": "LOSER",
+      "totalScore": 60,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-08-28T17:42:34.746Z",
+      "bookingDate": "2026-08-28"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Spider man gang",
       "slotResult": "LOSER",
       "totalScore": 27,
