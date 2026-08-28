@@ -722,6 +722,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "The shock",
+      "slotResult": "LOSER",
+      "totalScore": 73,
+      "escapeTime": 58,
+      "helpCount": 3,
+      "closedAt": "2026-08-28T22:11:26.402Z",
+      "bookingDate": "2026-08-29"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "El 3ein sabtna we rab El  3ar4 nagana",
       "slotResult": "LOSER",
       "totalScore": 36,
