@@ -4651,6 +4651,16 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Al-jahra",
+      "slotResult": "LOSER",
+      "totalScore": 37,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-08-28T17:56:10.406Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Fock valley",
       "slotResult": "LOSER",
       "totalScore": 83,
