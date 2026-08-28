@@ -3472,6 +3472,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "The crousty",
+      "slotResult": "LOSER",
+      "totalScore": 77,
+      "escapeTime": 52,
+      "helpCount": 3,
+      "closedAt": "2026-08-28T18:07:23.261Z",
+      "bookingDate": "2026-08-28"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Family",
       "slotResult": "LOSER",
       "totalScore": 37,
