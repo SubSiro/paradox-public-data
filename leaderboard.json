@@ -4943,6 +4943,16 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Eleqenawy",
+      "slotResult": "LOSER",
+      "totalScore": 40,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-08-29T02:54:12.261Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Ahly boys",
       "slotResult": "LOSER",
       "totalScore": 79,
