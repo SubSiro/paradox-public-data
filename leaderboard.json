@@ -3749,6 +3749,16 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "67 trippel t",
+      "slotResult": "LOSER",
+      "totalScore": 38,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-08-29T03:42:23.438Z"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Maaa",
       "slotResult": "LOSER",
       "totalScore": 43,
