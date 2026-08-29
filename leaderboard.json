@@ -2422,6 +2422,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Zebda khalfeya",
+      "slotResult": "WINNER",
+      "totalScore": 87,
+      "escapeTime": 55,
+      "helpCount": 2,
+      "closedAt": "2026-08-29T20:09:50.614Z",
+      "bookingDate": "2026-08-29"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Dragons teamn",
       "slotResult": "WINNER",
       "totalScore": 58,
