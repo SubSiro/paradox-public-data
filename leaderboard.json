@@ -2466,6 +2466,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Akatsuki",
+      "slotResult": "LOSER",
+      "totalScore": 34,
+      "escapeTime": 47,
+      "helpCount": 2,
+      "closedAt": "2026-08-29T22:01:42.403Z",
+      "bookingDate": "2026-08-30"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Goban2",
       "slotResult": "WINNER",
       "totalScore": 67,
