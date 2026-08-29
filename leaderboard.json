@@ -2379,6 +2379,16 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 6,
+      "helpCount": 0,
+      "closedAt": "2026-08-29T19:01:35.215Z"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Bccis",
       "slotResult": "WINNER",
       "totalScore": 39,
