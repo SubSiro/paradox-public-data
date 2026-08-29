@@ -3959,6 +3959,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Abuhiss",
+      "slotResult": "LOSER",
+      "totalScore": 47,
+      "escapeTime": 54,
+      "helpCount": 2,
+      "closedAt": "2026-08-29T21:15:31.016Z",
+      "bookingDate": "2026-08-29"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Jaban",
       "slotResult": "WINNER",
       "totalScore": 37,
