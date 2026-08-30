@@ -4156,6 +4156,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Kda bga",
+      "slotResult": "WINNER",
+      "totalScore": 92,
+      "escapeTime": 55,
+      "helpCount": 2,
+      "closedAt": "2026-08-30T21:20:40.728Z",
+      "bookingDate": "2026-08-30"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Habib din omy",
       "slotResult": "LOSER",
       "totalScore": 77,
