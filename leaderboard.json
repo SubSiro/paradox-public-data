@@ -905,6 +905,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Chilling",
+      "slotResult": "LOSER",
+      "totalScore": 67,
+      "escapeTime": 56,
+      "helpCount": 2,
+      "closedAt": "2026-08-30T18:12:23.985Z",
+      "bookingDate": "2026-08-30"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "The Epsteins",
       "slotResult": "LOSER",
       "totalScore": 32,
