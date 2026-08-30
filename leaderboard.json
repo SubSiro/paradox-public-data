@@ -2543,6 +2543,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Aqua",
+      "slotResult": "LOSER",
+      "totalScore": 36,
+      "escapeTime": 57,
+      "helpCount": 3,
+      "closedAt": "2026-08-30T19:15:34.664Z",
+      "bookingDate": "2026-08-30"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 0,
