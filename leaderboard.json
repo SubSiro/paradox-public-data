@@ -2618,6 +2618,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "U",
+      "slotResult": "LOSER",
+      "totalScore": 52,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-08-30T21:24:59.468Z",
+      "bookingDate": "2026-08-31"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Hala & Abadi",
       "slotResult": "WINNER",
       "totalScore": 61,
