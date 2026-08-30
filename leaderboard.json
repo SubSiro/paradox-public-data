@@ -4013,6 +4013,16 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Chilling",
+      "slotResult": "WINNER",
+      "totalScore": 91,
+      "escapeTime": 50,
+      "helpCount": 1,
+      "closedAt": "2026-08-30T14:04:58.743Z"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Family horror",
       "slotResult": "LOSER",
       "totalScore": 68,
