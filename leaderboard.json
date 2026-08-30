@@ -5131,6 +5131,17 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Hana",
+      "slotResult": "WINNER",
+      "totalScore": 83,
+      "escapeTime": 57,
+      "helpCount": 6,
+      "closedAt": "2026-08-30T16:12:04.566Z",
+      "bookingDate": "2026-08-30"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Sixflex",
       "slotResult": "WINNER",
       "totalScore": 20,
