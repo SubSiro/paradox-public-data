@@ -2682,6 +2682,16 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Celfocus",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 49,
+      "helpCount": 0,
+      "closedAt": "2026-08-31T18:23:59.388Z"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Minions",
       "slotResult": "LOSER",
       "totalScore": 30,
