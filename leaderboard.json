@@ -2672,6 +2672,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "No risk no fun",
+      "slotResult": "LOSER",
+      "totalScore": 50,
+      "escapeTime": 52,
+      "helpCount": 1,
+      "closedAt": "2026-08-31T14:23:26.131Z",
+      "bookingDate": "2026-08-31"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Alahly",
       "slotResult": "LOSER",
       "totalScore": 32,
