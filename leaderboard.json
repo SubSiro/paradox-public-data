@@ -1037,6 +1037,16 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "El 3atawla",
+      "slotResult": "LOSER",
+      "totalScore": 25,
+      "escapeTime": 58,
+      "helpCount": 6,
+      "closedAt": "2026-08-31T17:02:20.110Z"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 9,
