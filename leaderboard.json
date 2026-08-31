@@ -5708,6 +5708,17 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "TALIA team",
+      "slotResult": "LOSER",
+      "totalScore": 52,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-08-31T21:30:08.767Z",
+      "bookingDate": "2026-08-31"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Soviets",
       "slotResult": "LOSER",
       "totalScore": 54,
