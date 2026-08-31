@@ -4331,6 +4331,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "3ezbet Jayjay",
+      "slotResult": "LOSER",
+      "totalScore": 50,
+      "escapeTime": 55,
+      "helpCount": 1,
+      "closedAt": "2026-08-31T21:09:23.807Z",
+      "bookingDate": "2026-08-31"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Lag2een",
       "slotResult": "WINNER",
       "totalScore": 58,
