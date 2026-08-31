@@ -1112,6 +1112,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Sonion",
+      "slotResult": "WINNER",
+      "totalScore": 94,
+      "escapeTime": 40,
+      "helpCount": 2,
+      "closedAt": "2026-08-31T19:59:51.522Z",
+      "bookingDate": "2026-08-31"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "Blue pitch",
       "slotResult": "LOSER",
       "totalScore": 51,
