@@ -4254,6 +4254,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Nails",
+      "slotResult": "LOSER",
+      "totalScore": 57,
+      "escapeTime": 59,
+      "helpCount": 4,
+      "closedAt": "2026-08-31T19:11:20.206Z",
+      "bookingDate": "2026-08-31"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "S ft yuuoi",
       "slotResult": "LOSER",
       "totalScore": 75,
