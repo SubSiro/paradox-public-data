@@ -2842,6 +2842,16 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Hayoota ayota",
+      "slotResult": "LOSER",
+      "totalScore": 62,
+      "escapeTime": 60,
+      "helpCount": 1,
+      "closedAt": "2026-08-31T22:05:56.717Z"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Dicks",
       "slotResult": "WINNER",
       "totalScore": 97,
