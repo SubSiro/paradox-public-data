@@ -1015,28 +1015,6 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
-      "teamName": "Alfalh",
-      "slotResult": "LOSER",
-      "totalScore": 56,
-      "escapeTime": 59,
-      "helpCount": 4,
-      "closedAt": "2026-08-13T21:07:07.383Z",
-      "bookingDate": "2026-08-13"
-    },
-    {
-      "roomId": "rose",
-      "roomName": "Rose",
-      "teamName": "Mostafa",
-      "slotResult": "LOSER",
-      "totalScore": 46,
-      "escapeTime": 60,
-      "helpCount": 6,
-      "closedAt": "2026-08-22T17:09:44.150Z",
-      "bookingDate": "2026-08-22"
-    },
-    {
-      "roomId": "rose",
-      "roomName": "Rose",
       "teamName": "Kfc",
       "slotResult": "LOSER",
       "totalScore": 45,
