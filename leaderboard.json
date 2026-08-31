@@ -2788,6 +2788,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Gooners of jiujitsu",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 33,
+      "helpCount": 1,
+      "closedAt": "2026-08-31T20:47:41.612Z",
+      "bookingDate": "2026-08-31"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Emtiaz beljeba",
       "slotResult": "WINNER",
       "totalScore": 64,
