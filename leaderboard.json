@@ -1243,6 +1243,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "",
+      "slotResult": "LOSER",
+      "totalScore": 54,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-09-01T17:08:35.410Z",
+      "bookingDate": "2026-09-01"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "228 family geeks",
       "slotResult": "LOSER",
       "totalScore": 54,
