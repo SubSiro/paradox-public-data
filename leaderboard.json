@@ -4546,6 +4546,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Domz w Som3a w El tanyen",
+      "slotResult": "LOSER",
+      "totalScore": 45,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-09-01T20:03:27.272Z",
+      "bookingDate": "2026-09-01"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Titans team",
       "slotResult": "LOSER",
       "totalScore": 76,
