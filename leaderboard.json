@@ -5902,6 +5902,17 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Basem. El shartaweely",
+      "slotResult": "LOSER",
+      "totalScore": 28,
+      "escapeTime": 54,
+      "helpCount": 3,
+      "closedAt": "2026-09-01T20:14:38.370Z",
+      "bookingDate": "2026-09-01"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Alpha",
       "slotResult": "LOSER",
       "totalScore": 15,
