@@ -4427,6 +4427,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "We're not scared",
+      "slotResult": "LOSER",
+      "totalScore": 40,
+      "escapeTime": 60,
+      "helpCount": 7,
+      "closedAt": "2026-09-01T15:13:49.459Z",
+      "bookingDate": "2026-09-01"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Goons",
       "slotResult": "WINNER",
       "totalScore": 72,
