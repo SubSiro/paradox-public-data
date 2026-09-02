@@ -3148,6 +3148,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "LA vie est belle",
+      "slotResult": "LOSER",
+      "totalScore": 45,
+      "escapeTime": 60,
+      "helpCount": 1,
+      "closedAt": "2026-09-02T22:13:38.655Z",
+      "bookingDate": "2026-09-03"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Locked in",
       "slotResult": "WINNER",
       "totalScore": 94,
