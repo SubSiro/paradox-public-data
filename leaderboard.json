@@ -1320,31 +1320,9 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
-      "teamName": "Freshi",
-      "slotResult": "LOSER",
-      "totalScore": 38,
-      "escapeTime": 54,
-      "helpCount": 3,
-      "closedAt": "2026-08-15T21:03:24.960Z",
-      "bookingDate": "2026-08-15"
-    },
-    {
-      "roomId": "rose",
-      "roomName": "Rose",
-      "teamName": "ززا",
-      "slotResult": "LOSER",
-      "totalScore": 49,
-      "escapeTime": 57,
-      "helpCount": 5,
-      "closedAt": "2026-08-24T14:59:54.215Z",
-      "bookingDate": "2026-08-24"
-    },
-    {
-      "roomId": "rose",
-      "roomName": "Rose",
       "teamName": "Yacoub",
       "slotResult": "LOSER",
-      "totalScore": 34,
+      "totalScore": 52,
       "escapeTime": 59,
       "helpCount": 3,
       "closedAt": "2026-08-15T22:06:02.236Z",
@@ -1364,12 +1342,13 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
-      "teamName": "Mazarita",
+      "teamName": "Phantom team",
       "slotResult": "LOSER",
-      "totalScore": 39,
-      "escapeTime": 52,
-      "helpCount": 3,
-      "closedAt": "2026-08-24T17:06:07.654Z"
+      "totalScore": 41,
+      "escapeTime": 58,
+      "helpCount": 6,
+      "closedAt": "2026-09-01T21:46:54.234Z",
+      "bookingDate": "2026-09-02"
     },
     {
       "roomId": "rose",
@@ -3005,17 +2984,6 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
-      "teamName": "Niggas",
-      "slotResult": "LOSER",
-      "totalScore": 16,
-      "escapeTime": 57,
-      "helpCount": 3,
-      "closedAt": "2026-08-13T20:04:10.845Z",
-      "bookingDate": "2026-08-13"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
       "teamName": "Jilaalow",
       "slotResult": "WINNER",
       "totalScore": 98,
@@ -3023,6 +2991,17 @@
       "helpCount": 0,
       "closedAt": "2026-08-13T20:56:37.131Z",
       "bookingDate": "2026-08-13"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "سلاحف النينجا",
+      "slotResult": "LOSER",
+      "totalScore": 45,
+      "escapeTime": 36,
+      "helpCount": 0,
+      "closedAt": "2026-09-01T22:04:47.910Z",
+      "bookingDate": "2026-09-02"
     },
     {
       "roomId": "sabrina",
@@ -4579,24 +4558,12 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
-      "teamName": "Titans team",
+      "teamName": "ماكلين هوا",
       "slotResult": "LOSER",
-      "totalScore": 76,
-      "escapeTime": 59,
-      "helpCount": 2,
-      "closedAt": "2026-08-13T18:59:42.131Z",
-      "bookingDate": "2026-08-13"
-    },
-    {
-      "roomId": "marionettes",
-      "roomName": "Marionettes",
-      "teamName": "E3ml El sa7",
-      "slotResult": "LOSER",
-      "totalScore": 70,
-      "escapeTime": 55,
-      "helpCount": 3,
-      "closedAt": "2026-08-24T21:07:49.956Z",
-      "bookingDate": "2026-08-24"
+      "totalScore": 29,
+      "escapeTime": 60,
+      "helpCount": 6,
+      "closedAt": "2026-09-01T22:04:39.568Z"
     },
     {
       "roomId": "marionettes",
@@ -5931,6 +5898,17 @@
       "helpCount": 5,
       "closedAt": "2026-08-22T19:13:40.996Z",
       "bookingDate": "2026-08-22"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "He's very scarce",
+      "slotResult": "WINNER",
+      "totalScore": 98,
+      "escapeTime": 52,
+      "helpCount": 1,
+      "closedAt": "2026-09-01T21:10:08.649Z",
+      "bookingDate": "2026-09-01"
     },
     {
       "roomId": "alcatraz",
