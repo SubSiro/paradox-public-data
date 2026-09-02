@@ -4696,6 +4696,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Elashbah",
+      "slotResult": "LOSER",
+      "totalScore": 60,
+      "escapeTime": 59,
+      "helpCount": 4,
+      "closedAt": "2026-09-02T20:01:36.573Z",
+      "bookingDate": "2026-09-02"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "The 4 pact",
       "slotResult": "WINNER",
       "totalScore": 99,
