@@ -3017,6 +3017,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Hotgoldenballs",
+      "slotResult": "WINNER",
+      "totalScore": 98,
+      "escapeTime": 41,
+      "helpCount": 0,
+      "closedAt": "2026-09-02T15:48:48.670Z",
+      "bookingDate": "2026-09-02"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Helmy",
       "slotResult": "WINNER",
       "totalScore": 91,
