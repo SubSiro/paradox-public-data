@@ -4729,6 +4729,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Dominican papis",
+      "slotResult": "WINNER",
+      "totalScore": 75,
+      "escapeTime": 53,
+      "helpCount": 1,
+      "closedAt": "2026-09-02T21:01:42.912Z",
+      "bookingDate": "2026-09-02"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Best family",
       "slotResult": "LOSER",
       "totalScore": 61,
