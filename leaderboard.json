@@ -1381,6 +1381,17 @@
       "escapeTime": 53,
       "helpCount": 5,
       "closedAt": "2026-09-02T19:27:03.255Z"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Stay🤟🤟",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 57,
+      "helpCount": 0,
+      "closedAt": "2026-09-02T20:26:58.651Z",
+      "bookingDate": "2026-09-02"
     }
   ],
   "sabrina": [
