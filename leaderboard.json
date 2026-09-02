@@ -4762,6 +4762,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Zero IQ",
+      "slotResult": "LOSER",
+      "totalScore": 41,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-09-02T22:07:52.887Z",
+      "bookingDate": "2026-09-03"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Best family",
       "slotResult": "LOSER",
       "totalScore": 61,
