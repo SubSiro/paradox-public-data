@@ -1364,6 +1364,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Social Responsibility",
+      "slotResult": "LOSER",
+      "totalScore": 63,
+      "escapeTime": 57,
+      "helpCount": 4,
+      "closedAt": "2026-09-02T18:20:02.657Z",
+      "bookingDate": "2026-09-02"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "El qarsh3awya",
       "slotResult": "LOSER",
       "totalScore": 69,
