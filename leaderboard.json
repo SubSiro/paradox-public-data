@@ -6304,28 +6304,6 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
-      "teamName": "Harafeesh",
-      "slotResult": "LOSER",
-      "totalScore": 14,
-      "escapeTime": 59,
-      "helpCount": 4,
-      "closedAt": "2026-08-13T21:07:09.124Z",
-      "bookingDate": "2026-08-13"
-    },
-    {
-      "roomId": "alcatraz",
-      "roomName": "Alcatraz",
-      "teamName": "Ba7seb fc club",
-      "slotResult": "LOSER",
-      "totalScore": 29,
-      "escapeTime": 58,
-      "helpCount": 4,
-      "closedAt": "2026-08-24T18:00:29.015Z",
-      "bookingDate": "2026-08-24"
-    },
-    {
-      "roomId": "alcatraz",
-      "roomName": "Alcatraz",
       "teamName": "Bakabortat",
       "slotResult": "LOSER",
       "totalScore": 34,
