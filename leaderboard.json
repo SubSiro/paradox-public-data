@@ -1436,6 +1436,17 @@
       "helpCount": 2,
       "closedAt": "2026-09-03T15:00:51.032Z",
       "bookingDate": "2026-09-03"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "3asfoor El genina",
+      "slotResult": "LOSER",
+      "totalScore": 50,
+      "escapeTime": 59,
+      "helpCount": 1,
+      "closedAt": "2026-09-03T16:03:51.227Z",
+      "bookingDate": "2026-09-03"
     }
   ],
   "sabrina": [
