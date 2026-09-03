@@ -3170,16 +3170,6 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
-      "teamName": "Locked in",
-      "slotResult": "WINNER",
-      "totalScore": 94,
-      "escapeTime": 48,
-      "helpCount": 4,
-      "closedAt": "2026-08-14T20:09:24.029Z"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
       "teamName": "The boys",
       "slotResult": "WINNER",
       "totalScore": 100,
