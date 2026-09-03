@@ -5023,6 +5023,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "4 dogs",
+      "slotResult": "WINNER",
+      "totalScore": 80,
+      "escapeTime": 54,
+      "helpCount": 3,
+      "closedAt": "2026-09-03T21:06:56.278Z",
+      "bookingDate": "2026-09-03"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 0,
