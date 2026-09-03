@@ -3192,6 +3192,16 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Spicy drs",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 41,
+      "helpCount": 1,
+      "closedAt": "2026-09-03T14:19:10.476Z"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "3ameto",
       "slotResult": "LOSER",
       "totalScore": 48,
