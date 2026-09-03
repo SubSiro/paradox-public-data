@@ -6164,6 +6164,17 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Yassin moaz sa3eed saged fares",
+      "slotResult": "LOSER",
+      "totalScore": 35,
+      "escapeTime": 54,
+      "helpCount": 2,
+      "closedAt": "2026-09-03T14:00:22.924Z",
+      "bookingDate": "2026-09-03"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Ddaam",
       "slotResult": "LOSER",
       "totalScore": 24,
