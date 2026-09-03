@@ -6305,6 +6305,16 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "خليها علي الله",
+      "slotResult": "LOSER",
+      "totalScore": 36,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-09-03T16:07:03.021Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Harafeesh",
       "slotResult": "LOSER",
       "totalScore": 14,
