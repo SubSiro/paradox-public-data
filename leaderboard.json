@@ -1480,6 +1480,17 @@
       "helpCount": 4,
       "closedAt": "2026-09-03T20:08:30.523Z",
       "bookingDate": "2026-09-03"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Eyad we shenno",
+      "slotResult": "LOSER",
+      "totalScore": 62,
+      "escapeTime": 58,
+      "helpCount": 4,
+      "closedAt": "2026-09-03T21:10:42.957Z",
+      "bookingDate": "2026-09-03"
     }
   ],
   "sabrina": [
