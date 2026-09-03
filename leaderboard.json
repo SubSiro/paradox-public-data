@@ -3356,6 +3356,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Fatayat El kowa",
+      "slotResult": "WINNER",
+      "totalScore": 94,
+      "escapeTime": 56,
+      "helpCount": 3,
+      "closedAt": "2026-09-03T21:02:48.509Z",
+      "bookingDate": "2026-09-03"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 62,
