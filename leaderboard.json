@@ -4860,6 +4860,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Tuffest gc",
+      "slotResult": "LOSER",
+      "totalScore": 38,
+      "escapeTime": 59,
+      "helpCount": 6,
+      "closedAt": "2026-09-03T16:03:52.717Z",
+      "bookingDate": "2026-09-03"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Znaga",
       "slotResult": "WINNER",
       "totalScore": 95,
