@@ -6315,28 +6315,6 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
-      "teamName": "Bakabortat",
-      "slotResult": "LOSER",
-      "totalScore": 34,
-      "escapeTime": 59,
-      "helpCount": 2,
-      "closedAt": "2026-08-13T22:03:52.069Z",
-      "bookingDate": "2026-08-14"
-    },
-    {
-      "roomId": "alcatraz",
-      "roomName": "Alcatraz",
-      "teamName": "Netenyahu",
-      "slotResult": "LOSER",
-      "totalScore": 3,
-      "escapeTime": 58,
-      "helpCount": 7,
-      "closedAt": "2026-08-24T19:06:35.993Z",
-      "bookingDate": "2026-08-24"
-    },
-    {
-      "roomId": "alcatraz",
-      "roomName": "Alcatraz",
       "teamName": "Kroom",
       "slotResult": "LOSER",
       "totalScore": 21,
