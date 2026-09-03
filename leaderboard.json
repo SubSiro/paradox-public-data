@@ -3290,6 +3290,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Oesterreich",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 51,
+      "helpCount": 0,
+      "closedAt": "2026-09-03T18:52:26.961Z",
+      "bookingDate": "2026-09-03"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "El Regala",
       "slotResult": "LOSER",
       "totalScore": 75,
