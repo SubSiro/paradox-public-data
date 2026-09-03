@@ -3323,6 +3323,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "FalconX",
+      "slotResult": "LOSER",
+      "totalScore": 68,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-09-03T20:00:41.103Z",
+      "bookingDate": "2026-09-03"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Sultans team",
       "slotResult": "LOSER",
       "totalScore": 30,
