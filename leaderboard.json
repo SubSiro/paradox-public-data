@@ -5188,6 +5188,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "El Morshedy",
+      "slotResult": "LOSER",
+      "totalScore": 35,
+      "escapeTime": 60,
+      "helpCount": 7,
+      "closedAt": "2026-09-04T20:04:51.272Z",
+      "bookingDate": "2026-09-04"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 0,
