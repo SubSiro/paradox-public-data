@@ -1557,6 +1557,17 @@
       "helpCount": 1,
       "closedAt": "2026-09-04T19:21:21.737Z",
       "bookingDate": "2026-09-04"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Bzznality 🍆 💦🍑",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 42,
+      "helpCount": 0,
+      "closedAt": "2026-09-04T20:09:36.881Z",
+      "bookingDate": "2026-09-04"
     }
   ],
   "sabrina": [
