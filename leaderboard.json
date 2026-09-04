@@ -3400,6 +3400,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Chemists",
+      "slotResult": "LOSER",
+      "totalScore": 62,
+      "escapeTime": 60,
+      "helpCount": 1,
+      "closedAt": "2026-09-04T14:01:16.685Z",
+      "bookingDate": "2026-09-04"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 62,
