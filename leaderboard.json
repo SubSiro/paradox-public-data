@@ -1524,6 +1524,17 @@
       "helpCount": 3,
       "closedAt": "2026-09-04T16:08:26.468Z",
       "bookingDate": "2026-09-04"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Pro clubs w yassin",
+      "slotResult": "LOSER",
+      "totalScore": 67,
+      "escapeTime": 56,
+      "helpCount": 2,
+      "closedAt": "2026-09-04T17:16:53.526Z",
+      "bookingDate": "2026-09-04"
     }
   ],
   "sabrina": [
