@@ -1502,6 +1502,17 @@
       "helpCount": 5,
       "closedAt": "2026-09-03T22:18:56.710Z",
       "bookingDate": "2026-09-04"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "The big b",
+      "slotResult": "LOSER",
+      "totalScore": 70,
+      "escapeTime": 58,
+      "helpCount": 0,
+      "closedAt": "2026-09-04T15:03:48.627Z",
+      "bookingDate": "2026-09-04"
     }
   ],
   "sabrina": [
