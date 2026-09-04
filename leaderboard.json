@@ -5122,6 +5122,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Egyptian Kings",
+      "slotResult": "LOSER",
+      "totalScore": 40,
+      "escapeTime": 56,
+      "helpCount": 5,
+      "closedAt": "2026-09-04T16:09:27.560Z",
+      "bookingDate": "2026-09-04"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 0,
