@@ -3444,6 +3444,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Squad❤️👍",
+      "slotResult": "LOSER",
+      "totalScore": 41,
+      "escapeTime": 55,
+      "helpCount": 5,
+      "closedAt": "2026-09-04T18:07:49.366Z",
+      "bookingDate": "2026-09-04"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 62,
