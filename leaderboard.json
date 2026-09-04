@@ -1513,6 +1513,17 @@
       "helpCount": 0,
       "closedAt": "2026-09-04T15:03:48.627Z",
       "bookingDate": "2026-09-04"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Gang bangers",
+      "slotResult": "LOSER",
+      "totalScore": 51,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-09-04T16:08:26.468Z",
+      "bookingDate": "2026-09-04"
     }
   ],
   "sabrina": [
