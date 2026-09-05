@@ -1625,6 +1625,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "3ntel El m7lah",
+      "slotResult": "LOSER",
+      "totalScore": 60,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-09-05T15:04:08.732Z",
+      "bookingDate": "2026-09-05"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "",
       "slotResult": "WINNER",
       "totalScore": 64,
