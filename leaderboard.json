@@ -5318,6 +5318,17 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "عرسان الجنة",
+      "slotResult": "LOSER",
+      "totalScore": 79,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-09-05T16:40:17.259Z",
+      "bookingDate": "2026-09-05"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Elite",
       "slotResult": "WINNER",
       "totalScore": 74,
