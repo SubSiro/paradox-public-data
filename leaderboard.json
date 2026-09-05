@@ -245,6 +245,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Tibahs pawns",
+      "slotResult": "WINNER",
+      "totalScore": 76,
+      "escapeTime": 59,
+      "helpCount": 6,
+      "closedAt": "2026-09-05T22:31:21.333Z",
+      "bookingDate": "2026-09-06"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "Medosaa",
       "slotResult": "WINNER",
       "totalScore": 66,
