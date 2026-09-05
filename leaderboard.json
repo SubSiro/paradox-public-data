@@ -1837,6 +1837,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "The Unfuckables 🍑",
+      "slotResult": "LOSER",
+      "totalScore": 64,
+      "escapeTime": 57,
+      "helpCount": 1,
+      "closedAt": "2026-09-05T20:09:16.094Z",
+      "bookingDate": "2026-09-05"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "",
       "slotResult": "WINNER",
       "totalScore": 64,
