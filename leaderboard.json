@@ -3787,6 +3787,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Rcis",
+      "slotResult": "LOSER",
+      "totalScore": 76,
+      "escapeTime": 59,
+      "helpCount": 3,
+      "closedAt": "2026-09-05T19:18:54.350Z",
+      "bookingDate": "2026-09-05"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "D&y",
       "slotResult": "LOSER",
       "totalScore": 57,
