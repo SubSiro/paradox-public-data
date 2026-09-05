@@ -3659,6 +3659,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "كجس",
+      "slotResult": "LOSER",
+      "totalScore": 63,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-09-05T17:04:38.594Z",
+      "bookingDate": "2026-09-05"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "No. 1",
       "slotResult": "LOSER",
       "totalScore": 43,
