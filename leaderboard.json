@@ -5910,6 +5910,17 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Niggas in paris",
+      "slotResult": "WINNER",
+      "totalScore": 89,
+      "escapeTime": 55,
+      "helpCount": 6,
+      "closedAt": "2026-09-06T21:17:13.326Z",
+      "bookingDate": "2026-09-06"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Yyh",
       "slotResult": "LOSER",
       "totalScore": 59,
