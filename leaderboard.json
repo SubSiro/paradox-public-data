@@ -4079,6 +4079,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Soso",
+      "slotResult": "WINNER",
+      "totalScore": 91,
+      "escapeTime": 59,
+      "helpCount": 4,
+      "closedAt": "2026-09-06T22:01:14.491Z",
+      "bookingDate": "2026-09-07"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "WMLA",
       "slotResult": "LOSER",
       "totalScore": 45,
