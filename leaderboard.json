@@ -438,6 +438,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Salto7",
+      "slotResult": "LOSER",
+      "totalScore": 47,
+      "escapeTime": 60,
+      "helpCount": 8,
+      "closedAt": "2026-09-06T22:13:58.569Z",
+      "bookingDate": "2026-09-07"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 64,
