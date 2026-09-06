@@ -2146,6 +2146,16 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "الحنتكوريين",
+      "slotResult": "LOSER",
+      "totalScore": 68,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-09-06T22:20:14.158Z"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Alwanch. Farida  jnannah",
       "slotResult": "WINNER",
       "totalScore": 100,
