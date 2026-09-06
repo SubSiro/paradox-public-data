@@ -5801,6 +5801,17 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Ninja fatties",
+      "slotResult": "WINNER",
+      "totalScore": 98,
+      "escapeTime": 53,
+      "helpCount": 2,
+      "closedAt": "2026-09-06T19:15:26.809Z",
+      "bookingDate": "2026-09-06"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Sooryeen",
       "slotResult": "WINNER",
       "totalScore": 72,
