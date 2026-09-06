@@ -2019,6 +2019,16 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Basal",
+      "slotResult": "LOSER",
+      "totalScore": 73,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-09-06T19:02:31.751Z"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Alqubaisi",
       "slotResult": "LOSER",
       "totalScore": 43,
