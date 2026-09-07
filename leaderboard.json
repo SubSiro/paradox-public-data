@@ -2198,6 +2198,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Abo Al agasm fc",
+      "slotResult": "WINNER",
+      "totalScore": 90,
+      "escapeTime": 58,
+      "helpCount": 2,
+      "closedAt": "2026-09-07T19:21:50.503Z",
+      "bookingDate": "2026-09-07"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Hamza El hals",
       "slotResult": "LOSER",
       "totalScore": 64,
