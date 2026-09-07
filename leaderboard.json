@@ -5237,27 +5237,6 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
-      "teamName": "Memoos",
-      "slotResult": "LOSER",
-      "totalScore": 73,
-      "escapeTime": 60,
-      "helpCount": 3,
-      "closedAt": "2026-08-14T17:09:15.925Z",
-      "bookingDate": "2026-08-14"
-    },
-    {
-      "roomId": "marionettes",
-      "roomName": "Marionettes",
-      "teamName": "Vggg",
-      "slotResult": "WINNER",
-      "totalScore": 100,
-      "escapeTime": 5,
-      "helpCount": 0,
-      "closedAt": "2026-09-02T18:50:30.623Z"
-    },
-    {
-      "roomId": "marionettes",
-      "roomName": "Marionettes",
       "teamName": "Moha",
       "slotResult": "LOSER",
       "totalScore": 66,
