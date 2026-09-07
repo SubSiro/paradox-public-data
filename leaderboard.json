@@ -5899,47 +5899,6 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
-      "teamName": "BUC HUB",
-      "slotResult": "WINNER",
-      "totalScore": 48,
-      "escapeTime": 45,
-      "helpCount": 2,
-      "closedAt": "2026-08-04T15:58:09.237Z"
-    },
-    {
-      "roomId": "alcatraz",
-      "roomName": "Alcatraz",
-      "teamName": "Reto's team",
-      "slotResult": "LOSER",
-      "totalScore": 42,
-      "escapeTime": 60,
-      "helpCount": 1,
-      "closedAt": "2026-08-09T18:15:21.447Z"
-    },
-    {
-      "roomId": "alcatraz",
-      "roomName": "Alcatraz",
-      "teamName": "Dr. Engs. Chem.",
-      "slotResult": "LOSER",
-      "totalScore": 46,
-      "escapeTime": 59,
-      "helpCount": 5,
-      "closedAt": "2026-08-18T18:07:39.144Z",
-      "bookingDate": "2026-08-18"
-    },
-    {
-      "roomId": "alcatraz",
-      "roomName": "Alcatraz",
-      "teamName": "Al-jahra",
-      "slotResult": "LOSER",
-      "totalScore": 37,
-      "escapeTime": 60,
-      "helpCount": 5,
-      "closedAt": "2026-08-28T17:56:10.406Z"
-    },
-    {
-      "roomId": "alcatraz",
-      "roomName": "Alcatraz",
       "teamName": "Fock valley",
       "slotResult": "LOSER",
       "totalScore": 52,
