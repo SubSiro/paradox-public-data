@@ -5889,6 +5889,16 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Farag",
+      "slotResult": "LOSER",
+      "totalScore": 30,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-09-07T18:39:39.307Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "BUC HUB",
       "slotResult": "WINNER",
       "totalScore": 48,
