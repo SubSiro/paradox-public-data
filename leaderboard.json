@@ -4133,6 +4133,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Hg & Co",
+      "slotResult": "LOSER",
+      "totalScore": 61,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-09-07T19:25:40.601Z",
+      "bookingDate": "2026-09-07"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Elmohandseen",
       "slotResult": "WINNER",
       "totalScore": 87,
