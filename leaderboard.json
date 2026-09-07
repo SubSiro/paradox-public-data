@@ -4111,48 +4111,6 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
-      "teamName": "WMLA",
-      "slotResult": "LOSER",
-      "totalScore": 45,
-      "escapeTime": 60,
-      "helpCount": 4,
-      "closedAt": "2026-08-02T21:00:31.453Z"
-    },
-    {
-      "roomId": "marionettes",
-      "roomName": "Marionettes",
-      "teamName": "El 2btal",
-      "slotResult": "LOSER",
-      "totalScore": 47,
-      "escapeTime": 60,
-      "helpCount": 4,
-      "closedAt": "2026-08-08T19:08:01.050Z"
-    },
-    {
-      "roomId": "marionettes",
-      "roomName": "Marionettes",
-      "teamName": "Locked in",
-      "slotResult": "LOSER",
-      "totalScore": 60,
-      "escapeTime": 60,
-      "helpCount": 3,
-      "closedAt": "2026-08-18T18:02:53.084Z",
-      "bookingDate": "2026-08-18"
-    },
-    {
-      "roomId": "marionettes",
-      "roomName": "Marionettes",
-      "teamName": "Almarobeen",
-      "slotResult": "LOSER",
-      "totalScore": 32,
-      "escapeTime": 60,
-      "helpCount": 5,
-      "closedAt": "2026-08-26T19:15:44.587Z",
-      "bookingDate": "2026-08-26"
-    },
-    {
-      "roomId": "marionettes",
-      "roomName": "Marionettes",
       "teamName": "Fighter Larpers",
       "slotResult": "LOSER",
       "totalScore": 41,
