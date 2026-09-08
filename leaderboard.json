@@ -2369,6 +2369,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Baraa",
+      "slotResult": "WINNER",
+      "totalScore": 91,
+      "escapeTime": 55,
+      "helpCount": 5,
+      "closedAt": "2026-09-08T20:18:35.504Z",
+      "bookingDate": "2026-09-08"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Haka no fair",
       "slotResult": "LOSER",
       "totalScore": 40,
