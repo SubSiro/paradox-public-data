@@ -6028,6 +6028,17 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "regalet w setat El diplo",
+      "slotResult": "WINNER",
+      "totalScore": 82,
+      "escapeTime": 54,
+      "helpCount": 2,
+      "closedAt": "2026-09-08T16:59:58.127Z",
+      "bookingDate": "2026-09-08"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Mohanad and Hanna and halaa",
       "slotResult": "LOSER",
       "totalScore": 31,
