@@ -97,6 +97,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Bondok",
+      "slotResult": "LOSER",
+      "totalScore": 38,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-09-09T21:07:58.187Z",
+      "bookingDate": "2026-09-09"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "Aaay",
       "slotResult": "LOSER",
       "totalScore": 33,
