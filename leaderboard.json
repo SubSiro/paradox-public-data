@@ -5619,59 +5619,6 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
-      "teamName": "Sakr w kanaria",
-      "slotResult": "LOSER",
-      "totalScore": 26,
-      "escapeTime": 58,
-      "helpCount": 5,
-      "closedAt": "2026-08-02T15:01:15.744Z"
-    },
-    {
-      "roomId": "alcatraz",
-      "roomName": "Alcatraz",
-      "teamName": "Wonder shrombo",
-      "slotResult": "LOSER",
-      "totalScore": 28,
-      "escapeTime": 60,
-      "helpCount": 4,
-      "closedAt": "2026-08-07T20:10:22.886Z"
-    },
-    {
-      "roomId": "alcatraz",
-      "roomName": "Alcatraz",
-      "teamName": "67",
-      "slotResult": "LOSER",
-      "totalScore": 26,
-      "escapeTime": 60,
-      "helpCount": 5,
-      "closedAt": "2026-08-16T18:00:46.746Z",
-      "bookingDate": "2026-08-16"
-    },
-    {
-      "roomId": "alcatraz",
-      "roomName": "Alcatraz",
-      "teamName": "Elmos",
-      "slotResult": "LOSER",
-      "totalScore": 23,
-      "escapeTime": 58,
-      "helpCount": 1,
-      "closedAt": "2026-08-25T20:25:22.206Z",
-      "bookingDate": "2026-08-25"
-    },
-    {
-      "roomId": "alcatraz",
-      "roomName": "Alcatraz",
-      "teamName": "Hany El zany modir a3mali",
-      "slotResult": "LOSER",
-      "totalScore": 30,
-      "escapeTime": 52,
-      "helpCount": 5,
-      "closedAt": "2026-09-05T19:09:13.256Z",
-      "bookingDate": "2026-09-05"
-    },
-    {
-      "roomId": "alcatraz",
-      "roomName": "Alcatraz",
       "teamName": "Reer cartan",
       "slotResult": "LOSER",
       "totalScore": 55,
