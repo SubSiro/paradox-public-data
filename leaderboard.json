@@ -1929,6 +1929,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Kolo 3alah allah",
+      "slotResult": "WINNER",
+      "totalScore": 94,
+      "escapeTime": 46,
+      "helpCount": 2,
+      "closedAt": "2026-09-10T17:01:24.992Z",
+      "bookingDate": "2026-09-10"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Mazrouan",
       "slotResult": "WINNER",
       "totalScore": 59,
