@@ -290,49 +290,6 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
-      "teamName": "King hany",
-      "slotResult": "LOSER",
-      "totalScore": 58,
-      "escapeTime": 59,
-      "helpCount": 3,
-      "closedAt": "2026-08-08T20:06:53.403Z"
-    },
-    {
-      "roomId": "rose",
-      "roomName": "Rose",
-      "teamName": "Bodyy",
-      "slotResult": "LOSER",
-      "totalScore": 48,
-      "escapeTime": 60,
-      "helpCount": 5,
-      "closedAt": "2026-08-16T20:09:33.377Z",
-      "bookingDate": "2026-08-16"
-    },
-    {
-      "roomId": "rose",
-      "roomName": "Rose",
-      "teamName": "Re & Tards",
-      "slotResult": "LOSER",
-      "totalScore": 33,
-      "escapeTime": 58,
-      "helpCount": 2,
-      "closedAt": "2026-08-25T21:19:36.082Z",
-      "bookingDate": "2026-08-25"
-    },
-    {
-      "roomId": "rose",
-      "roomName": "Rose",
-      "teamName": "Tibahs pawns",
-      "slotResult": "WINNER",
-      "totalScore": 76,
-      "escapeTime": 59,
-      "helpCount": 6,
-      "closedAt": "2026-09-05T22:31:21.333Z",
-      "bookingDate": "2026-09-06"
-    },
-    {
-      "roomId": "rose",
-      "roomName": "Rose",
       "teamName": "Medosaa",
       "slotResult": "WINNER",
       "totalScore": 66,
