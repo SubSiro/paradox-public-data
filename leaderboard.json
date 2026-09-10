@@ -4014,6 +4014,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "McDonalds",
+      "slotResult": "LOSER",
+      "totalScore": 64,
+      "escapeTime": 59,
+      "helpCount": 2,
+      "closedAt": "2026-09-10T20:04:57.171Z",
+      "bookingDate": "2026-09-10"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "El. Fager",
       "slotResult": "LOSER",
       "totalScore": 75,
