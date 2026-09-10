@@ -1844,48 +1844,6 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
-      "teamName": "Mars",
-      "slotResult": "WINNER",
-      "totalScore": 96,
-      "escapeTime": 46,
-      "helpCount": 1,
-      "closedAt": "2026-08-07T18:02:15.219Z"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
-      "teamName": "Tmt",
-      "slotResult": "LOSER",
-      "totalScore": 28,
-      "escapeTime": 60,
-      "helpCount": 4,
-      "closedAt": "2026-08-16T20:10:00.633Z",
-      "bookingDate": "2026-08-16"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
-      "teamName": "Why bebe",
-      "slotResult": "WINNER",
-      "totalScore": 82,
-      "escapeTime": 55,
-      "helpCount": 7,
-      "closedAt": "2026-08-25T16:59:41.910Z"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
-      "teamName": "Wtfatooh",
-      "slotResult": "WINNER",
-      "totalScore": 100,
-      "escapeTime": 53,
-      "helpCount": 1,
-      "closedAt": "2026-09-05T19:05:49.089Z",
-      "bookingDate": "2026-09-05"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
       "teamName": "Worriors",
       "slotResult": "WINNER",
       "totalScore": 50,
