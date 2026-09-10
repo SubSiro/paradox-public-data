@@ -5753,6 +5753,17 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Sfy",
+      "slotResult": "LOSER",
+      "totalScore": 20,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-09-10T19:10:38.219Z",
+      "bookingDate": "2026-09-10"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Batates m7amara",
       "slotResult": "LOSER",
       "totalScore": 63,
