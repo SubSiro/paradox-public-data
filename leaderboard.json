@@ -3854,6 +3854,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Kofta",
+      "slotResult": "LOSER",
+      "totalScore": 65,
+      "escapeTime": 56,
+      "helpCount": 2,
+      "closedAt": "2026-09-10T15:28:06.275Z",
+      "bookingDate": "2026-09-10"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "D&y",
       "slotResult": "LOSER",
       "totalScore": 38,
