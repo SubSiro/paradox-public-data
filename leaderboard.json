@@ -4083,6 +4083,16 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "زياد و شوين ناس كده",
+      "slotResult": "WINNER",
+      "totalScore": 78,
+      "escapeTime": 55,
+      "helpCount": 4,
+      "closedAt": "2026-09-10T22:11:47.691Z"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Domz w Som3a w El akhearen",
       "slotResult": "LOSER",
       "totalScore": 32,
