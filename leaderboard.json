@@ -4039,6 +4039,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Shabab galleria",
+      "slotResult": "WINNER",
+      "totalScore": 86,
+      "escapeTime": 58,
+      "helpCount": 4,
+      "closedAt": "2026-09-10T21:06:13.725Z",
+      "bookingDate": "2026-09-10"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Hanna",
       "slotResult": "WINNER",
       "totalScore": 94,
