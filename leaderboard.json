@@ -161,6 +161,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Yalla bena",
+      "slotResult": "LOSER",
+      "totalScore": 61,
+      "escapeTime": 60,
+      "helpCount": 1,
+      "closedAt": "2026-09-10T14:56:22.089Z",
+      "bookingDate": "2026-09-10"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "Abo lahab",
       "slotResult": "LOSER",
       "totalScore": 57,
