@@ -4156,6 +4156,16 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "JJS",
+      "slotResult": "WINNER",
+      "totalScore": 96,
+      "escapeTime": 41,
+      "helpCount": 1,
+      "closedAt": "2026-09-11T15:31:26.452Z"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Fighter Larpers",
       "slotResult": "LOSER",
       "totalScore": 47,
