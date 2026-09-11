@@ -730,6 +730,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "الدهن في العتاقي",
+      "slotResult": "LOSER",
+      "totalScore": 59,
+      "escapeTime": 59,
+      "helpCount": 2,
+      "closedAt": "2026-09-11T21:15:18.284Z",
+      "bookingDate": "2026-09-11"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "Met2a5areen",
       "slotResult": "LOSER",
       "totalScore": 57,
