@@ -2433,6 +2433,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "The royalty family",
+      "slotResult": "LOSER",
+      "totalScore": 74,
+      "escapeTime": 60,
+      "helpCount": 1,
+      "closedAt": "2026-09-11T22:17:58.281Z",
+      "bookingDate": "2026-09-12"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "J",
       "slotResult": "WINNER",
       "totalScore": 94,
