@@ -2272,49 +2272,6 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
-      "teamName": "Syme",
-      "slotResult": "LOSER",
-      "totalScore": 70,
-      "escapeTime": 42,
-      "helpCount": 2,
-      "closedAt": "2026-08-09T17:05:09.436Z"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
-      "teamName": "Hamas",
-      "slotResult": "LOSER",
-      "totalScore": 58,
-      "escapeTime": 60,
-      "helpCount": 3,
-      "closedAt": "2026-08-19T18:00:42.310Z",
-      "bookingDate": "2026-08-19"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
-      "teamName": "Super girlzzzzz",
-      "slotResult": "WINNER",
-      "totalScore": 98,
-      "escapeTime": 52,
-      "helpCount": 2,
-      "closedAt": "2026-08-27T18:05:57.721Z",
-      "bookingDate": "2026-08-27"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
-      "teamName": "Baraa",
-      "slotResult": "WINNER",
-      "totalScore": 91,
-      "escapeTime": 55,
-      "helpCount": 5,
-      "closedAt": "2026-09-08T20:18:35.504Z",
-      "bookingDate": "2026-09-08"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
       "teamName": "Haka no fair",
       "slotResult": "LOSER",
       "totalScore": 40,
