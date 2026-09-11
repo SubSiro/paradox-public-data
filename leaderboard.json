@@ -4242,6 +4242,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Skibidi",
+      "slotResult": "LOSER",
+      "totalScore": 46,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-09-11T18:01:23.183Z",
+      "bookingDate": "2026-09-11"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Bastawesy's",
       "slotResult": "WINNER",
       "totalScore": 66,
