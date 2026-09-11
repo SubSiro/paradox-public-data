@@ -6228,6 +6228,17 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Odaai",
+      "slotResult": "LOSER",
+      "totalScore": 39,
+      "escapeTime": 59,
+      "helpCount": 4,
+      "closedAt": "2026-09-11T21:15:59.425Z",
+      "bookingDate": "2026-09-11"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Fock valley",
       "slotResult": "LOSER",
       "totalScore": 52,
