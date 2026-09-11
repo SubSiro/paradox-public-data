@@ -526,6 +526,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Lilos hoes",
+      "slotResult": "LOSER",
+      "totalScore": 63,
+      "escapeTime": 57,
+      "helpCount": 4,
+      "closedAt": "2026-09-11T17:00:06.862Z",
+      "bookingDate": "2026-09-11"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 64,
