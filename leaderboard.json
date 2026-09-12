@@ -4430,6 +4430,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Academics",
+      "slotResult": "LOSER",
+      "totalScore": 63,
+      "escapeTime": 52,
+      "helpCount": 4,
+      "closedAt": "2026-09-12T17:03:41.591Z",
+      "bookingDate": "2026-09-12"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Mammys",
       "slotResult": "LOSER",
       "totalScore": 46,
