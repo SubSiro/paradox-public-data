@@ -2466,47 +2466,6 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
-      "teamName": "J",
-      "slotResult": "WINNER",
-      "totalScore": 94,
-      "escapeTime": 57,
-      "helpCount": 3,
-      "closedAt": "2026-08-03T19:19:42.218Z"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
-      "teamName": "Dima maghreb🇲🇦",
-      "slotResult": "WINNER",
-      "totalScore": 78,
-      "escapeTime": 57,
-      "helpCount": 1,
-      "closedAt": "2026-08-09T21:00:28.105Z",
-      "bookingDate": "2026-08-09"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
-      "teamName": "Tupac",
-      "slotResult": "LOSER",
-      "totalScore": 32,
-      "escapeTime": 57,
-      "helpCount": 4,
-      "closedAt": "2026-08-21T14:07:47.547Z"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
-      "teamName": "أسد واربع قطط",
-      "slotResult": "LOSER",
-      "totalScore": 47,
-      "escapeTime": 55,
-      "helpCount": 2,
-      "closedAt": "2026-08-27T22:02:06.548Z"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
       "teamName": "Match masr",
       "slotResult": "WINNER",
       "totalScore": 47,
