@@ -6468,6 +6468,17 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Marabella",
+      "slotResult": "LOSER",
+      "totalScore": 67,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-09-12T19:00:13.540Z",
+      "bookingDate": "2026-09-12"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Hamed",
       "slotResult": "LOSER",
       "totalScore": 46,
