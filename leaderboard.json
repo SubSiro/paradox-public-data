@@ -2680,6 +2680,16 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Galleria",
+      "slotResult": "LOSER",
+      "totalScore": 46,
+      "escapeTime": 47,
+      "helpCount": 1,
+      "closedAt": "2026-09-12T19:20:02.927Z"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Gomaa",
       "slotResult": "LOSER",
       "totalScore": 44,
