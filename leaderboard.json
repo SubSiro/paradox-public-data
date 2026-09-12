@@ -2562,6 +2562,16 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Gooners",
+      "slotResult": "LOSER",
+      "totalScore": 40,
+      "escapeTime": 45,
+      "helpCount": 3,
+      "closedAt": "2026-09-12T17:03:38.475Z"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Spider man gang",
       "slotResult": "LOSER",
       "totalScore": 27,
