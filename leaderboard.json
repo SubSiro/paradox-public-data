@@ -1107,6 +1107,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Medo kadry.",
+      "slotResult": "LOSER",
+      "totalScore": 49,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-09-13T19:15:44.536Z",
+      "bookingDate": "2026-09-13"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "El 3ein sabtna we rab El  3ar4 nagana",
       "slotResult": "LOSER",
       "totalScore": 24,
