@@ -4696,6 +4696,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "GNSY",
+      "slotResult": "LOSER",
+      "totalScore": 50,
+      "escapeTime": 57,
+      "helpCount": 3,
+      "closedAt": "2026-09-13T17:16:51.697Z",
+      "bookingDate": "2026-09-13"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 0,
