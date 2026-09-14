@@ -1234,6 +1234,16 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Superheros",
+      "slotResult": "LOSER",
+      "totalScore": 69,
+      "escapeTime": 59,
+      "helpCount": 3,
+      "closedAt": "2026-09-14T21:04:11.778Z"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "Shehata",
       "slotResult": "WINNER",
       "totalScore": 90,
