@@ -4855,6 +4855,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Hafsa",
+      "slotResult": "LOSER",
+      "totalScore": 51,
+      "escapeTime": 60,
+      "helpCount": 8,
+      "closedAt": "2026-09-14T17:33:07.611Z",
+      "bookingDate": "2026-09-14"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "RX",
       "slotResult": "LOSER",
       "totalScore": 53,
