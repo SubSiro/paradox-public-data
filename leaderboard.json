@@ -6670,6 +6670,16 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Khalefa we shwyt nas",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 51,
+      "helpCount": 1,
+      "closedAt": "2026-09-15T17:49:21.320Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Sixflex",
       "slotResult": "WINNER",
       "totalScore": 58,
