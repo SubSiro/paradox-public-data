@@ -3190,6 +3190,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "فريق القوى",
+      "slotResult": "LOSER",
+      "totalScore": 27,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-09-15T20:59:27.483Z",
+      "bookingDate": "2026-09-15"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Celfocus",
       "slotResult": "WINNER",
       "totalScore": 100,
