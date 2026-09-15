@@ -1320,6 +1320,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "Chuzz nation",
+      "slotResult": "LOSER",
+      "totalScore": 53,
+      "escapeTime": 59,
+      "helpCount": 3,
+      "closedAt": "2026-09-15T19:21:42.360Z",
+      "bookingDate": "2026-09-15"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "The Epsteins",
       "slotResult": "LOSER",
       "totalScore": 32,
