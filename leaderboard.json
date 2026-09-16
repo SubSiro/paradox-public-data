@@ -3201,6 +3201,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Kemos gang",
+      "slotResult": "WINNER",
+      "totalScore": 77,
+      "escapeTime": 55,
+      "helpCount": 2,
+      "closedAt": "2026-09-16T17:22:29.883Z",
+      "bookingDate": "2026-09-16"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Celfocus",
       "slotResult": "WINNER",
       "totalScore": 100,
