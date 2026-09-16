@@ -1375,39 +1375,6 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
-      "teamName": "67",
-      "slotResult": "LOSER",
-      "totalScore": 21,
-      "escapeTime": 60,
-      "helpCount": 6,
-      "closedAt": "2026-08-13T18:59:22.373Z",
-      "bookingDate": "2026-08-13"
-    },
-    {
-      "roomId": "rose",
-      "roomName": "Rose",
-      "teamName": "عليا",
-      "slotResult": "LOSER",
-      "totalScore": 74,
-      "escapeTime": 57,
-      "helpCount": 3,
-      "closedAt": "2026-08-22T15:00:39.491Z",
-      "bookingDate": "2026-08-22"
-    },
-    {
-      "roomId": "rose",
-      "roomName": "Rose",
-      "teamName": "6767",
-      "slotResult": "LOSER",
-      "totalScore": 23,
-      "escapeTime": 59,
-      "helpCount": 3,
-      "closedAt": "2026-08-30T20:13:21.200Z",
-      "bookingDate": "2026-08-30"
-    },
-    {
-      "roomId": "rose",
-      "roomName": "Rose",
       "teamName": "Dream team",
       "slotResult": "LOSER",
       "totalScore": 42,
