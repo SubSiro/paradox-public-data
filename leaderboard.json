@@ -6983,6 +6983,16 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
+      "teamName": "Sallam's huzz🤟😉",
+      "slotResult": "LOSER",
+      "totalScore": 44,
+      "escapeTime": 59,
+      "helpCount": 1,
+      "closedAt": "2026-09-16T20:18:22.166Z"
+    },
+    {
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
       "teamName": "Morocco Team",
       "slotResult": "LOSER",
       "totalScore": 53,
