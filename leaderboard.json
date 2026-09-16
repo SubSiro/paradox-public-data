@@ -3212,6 +3212,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Mentalists",
+      "slotResult": "WINNER",
+      "totalScore": 94,
+      "escapeTime": 48,
+      "helpCount": 2,
+      "closedAt": "2026-09-16T18:35:33.220Z",
+      "bookingDate": "2026-09-16"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Celfocus",
       "slotResult": "WINNER",
       "totalScore": 100,
