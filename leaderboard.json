@@ -3340,6 +3340,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "The tuffest",
+      "slotResult": "LOSER",
+      "totalScore": 43,
+      "escapeTime": 45,
+      "helpCount": 4,
+      "closedAt": "2026-09-17T16:05:34.394Z",
+      "bookingDate": "2026-09-17"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Emtiaz beljeba",
       "slotResult": "WINNER",
       "totalScore": 64,
