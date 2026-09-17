@@ -5606,6 +5606,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "الحريفه",
+      "slotResult": "LOSER",
+      "totalScore": 54,
+      "escapeTime": 59,
+      "helpCount": 1,
+      "closedAt": "2026-09-17T22:17:08.624Z",
+      "bookingDate": "2026-09-18"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "S ft yuuoi",
       "slotResult": "LOSER",
       "totalScore": 75,
