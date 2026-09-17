@@ -5322,6 +5322,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Ashba7 paradox",
+      "slotResult": "LOSER",
+      "totalScore": 48,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-09-17T16:57:45.364Z",
+      "bookingDate": "2026-09-17"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Elzoz",
       "slotResult": "LOSER",
       "totalScore": 42,
