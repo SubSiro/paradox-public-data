@@ -3568,6 +3568,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Da7a7een",
+      "slotResult": "WINNER",
+      "totalScore": 90,
+      "escapeTime": 52,
+      "helpCount": 1,
+      "closedAt": "2026-09-17T20:08:50.415Z",
+      "bookingDate": "2026-09-17"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Jilaalow",
       "slotResult": "WINNER",
       "totalScore": 98,
