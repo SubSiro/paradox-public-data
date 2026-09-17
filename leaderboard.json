@@ -5420,6 +5420,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Gng",
+      "slotResult": "LOSER",
+      "totalScore": 75,
+      "escapeTime": 55,
+      "helpCount": 1,
+      "closedAt": "2026-09-17T19:12:08.518Z",
+      "bookingDate": "2026-09-17"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Habib din omy",
       "slotResult": "LOSER",
       "totalScore": 77,
