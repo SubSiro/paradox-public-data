@@ -1614,6 +1614,17 @@
     {
       "roomId": "rose",
       "roomName": "Rose",
+      "teamName": "El hashasheen",
+      "slotResult": "LOSER",
+      "totalScore": 72,
+      "escapeTime": 57,
+      "helpCount": 4,
+      "closedAt": "2026-09-17T20:14:08.101Z",
+      "bookingDate": "2026-09-17"
+    },
+    {
+      "roomId": "rose",
+      "roomName": "Rose",
       "teamName": "Power",
       "slotResult": "LOSER",
       "totalScore": 67,
