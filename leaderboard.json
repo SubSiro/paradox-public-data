@@ -5486,6 +5486,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Epstein recruites",
+      "slotResult": "WINNER",
+      "totalScore": 95,
+      "escapeTime": 43,
+      "helpCount": 4,
+      "closedAt": "2026-09-17T20:00:15.088Z",
+      "bookingDate": "2026-09-17"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Bazabeezo",
       "slotResult": "LOSER",
       "totalScore": 44,
