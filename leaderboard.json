@@ -7739,28 +7739,6 @@
     {
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
-      "teamName": "Abdo",
-      "slotResult": "LOSER",
-      "totalScore": 49,
-      "escapeTime": 60,
-      "helpCount": 3,
-      "closedAt": "2026-08-22T22:16:10.570Z",
-      "bookingDate": "2026-08-23"
-    },
-    {
-      "roomId": "alcatraz",
-      "roomName": "Alcatraz",
-      "teamName": "Gooners",
-      "slotResult": "WINNER",
-      "totalScore": 99,
-      "escapeTime": 39,
-      "helpCount": 2,
-      "closedAt": "2026-09-02T19:03:26.780Z",
-      "bookingDate": "2026-09-02"
-    },
-    {
-      "roomId": "alcatraz",
-      "roomName": "Alcatraz",
       "teamName": "KoghZ",
       "slotResult": "LOSER",
       "totalScore": 37,
