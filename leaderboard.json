@@ -3832,6 +3832,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "ليبيا",
+      "slotResult": "LOSER",
+      "totalScore": 25,
+      "escapeTime": 59,
+      "helpCount": 6,
+      "closedAt": "2026-09-18T20:10:47.057Z",
+      "bookingDate": "2026-09-18"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "Khaled",
       "slotResult": "LOSER",
       "totalScore": 68,
