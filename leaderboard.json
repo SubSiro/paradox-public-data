@@ -5823,6 +5823,16 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Cool kids",
+      "slotResult": "WINNER",
+      "totalScore": 64,
+      "escapeTime": 56,
+      "helpCount": 8,
+      "closedAt": "2026-09-18T18:53:00.770Z"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "ماكلين هوا",
       "slotResult": "LOSER",
       "totalScore": 29,
