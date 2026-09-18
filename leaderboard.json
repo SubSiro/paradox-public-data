@@ -5727,6 +5727,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Hussien",
+      "slotResult": "LOSER",
+      "totalScore": 40,
+      "escapeTime": 60,
+      "helpCount": 8,
+      "closedAt": "2026-09-18T16:22:54.361Z",
+      "bookingDate": "2026-09-18"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Lag2een",
       "slotResult": "WINNER",
       "totalScore": 58,
