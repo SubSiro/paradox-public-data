@@ -5888,16 +5888,6 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
-      "teamName": "ماكلين هوا",
-      "slotResult": "LOSER",
-      "totalScore": 29,
-      "escapeTime": 60,
-      "helpCount": 6,
-      "closedAt": "2026-09-01T22:04:39.568Z"
-    },
-    {
-      "roomId": "marionettes",
-      "roomName": "Marionettes",
       "teamName": "جيم",
       "slotResult": "LOSER",
       "totalScore": 61,
