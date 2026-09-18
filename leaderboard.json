@@ -3689,6 +3689,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "Ashba77 repton",
+      "slotResult": "LOSER",
+      "totalScore": 45,
+      "escapeTime": 59,
+      "helpCount": 4,
+      "closedAt": "2026-09-18T15:55:01.283Z",
+      "bookingDate": "2026-09-18"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "H FAMILY",
       "slotResult": "LOSER",
       "totalScore": 59,
