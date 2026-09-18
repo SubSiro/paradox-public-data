@@ -5910,6 +5910,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "Tigers",
+      "slotResult": "LOSER",
+      "totalScore": 61,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-09-18T21:41:07.968Z",
+      "bookingDate": "2026-09-19"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "جيم",
       "slotResult": "LOSER",
       "totalScore": 61,
