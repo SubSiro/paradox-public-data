@@ -5768,39 +5768,6 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
-      "teamName": "4k",
-      "slotResult": "WINNER",
-      "totalScore": 52,
-      "escapeTime": 58,
-      "helpCount": 3,
-      "closedAt": "2026-08-12T21:02:41.008Z",
-      "bookingDate": "2026-08-12"
-    },
-    {
-      "roomId": "marionettes",
-      "roomName": "Marionettes",
-      "teamName": "تيم مازن",
-      "slotResult": "LOSER",
-      "totalScore": 29,
-      "escapeTime": 52,
-      "helpCount": 4,
-      "closedAt": "2026-08-24T14:59:51.119Z",
-      "bookingDate": "2026-08-24"
-    },
-    {
-      "roomId": "marionettes",
-      "roomName": "Marionettes",
-      "teamName": "We're not scared",
-      "slotResult": "LOSER",
-      "totalScore": 40,
-      "escapeTime": 60,
-      "helpCount": 7,
-      "closedAt": "2026-09-01T15:13:49.459Z",
-      "bookingDate": "2026-09-01"
-    },
-    {
-      "roomId": "marionettes",
-      "roomName": "Marionettes",
       "teamName": "Ali",
       "slotResult": "LOSER",
       "totalScore": 39,
