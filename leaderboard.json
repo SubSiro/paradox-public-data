@@ -3711,28 +3711,6 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
-      "teamName": "H FAMILY",
-      "slotResult": "LOSER",
-      "totalScore": 59,
-      "escapeTime": 60,
-      "helpCount": 2,
-      "closedAt": "2026-08-14T15:00:19.015Z",
-      "bookingDate": "2026-08-14"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
-      "teamName": "Hotgoldenballs",
-      "slotResult": "WINNER",
-      "totalScore": 98,
-      "escapeTime": 41,
-      "helpCount": 0,
-      "closedAt": "2026-09-02T15:48:48.670Z",
-      "bookingDate": "2026-09-02"
-    },
-    {
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
       "teamName": "Helmy",
       "slotResult": "WINNER",
       "totalScore": 41,
