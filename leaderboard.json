@@ -3645,6 +3645,17 @@
     {
       "roomId": "sabrina",
       "roomName": "Sabrina",
+      "teamName": "El 5omasy El mareh",
+      "slotResult": "LOSER",
+      "totalScore": 57,
+      "escapeTime": 60,
+      "helpCount": 0,
+      "closedAt": "2026-09-18T14:50:20.507Z",
+      "bookingDate": "2026-09-18"
+    },
+    {
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
       "teamName": "",
       "slotResult": "LOSER",
       "totalScore": 43,
