@@ -1,6 +1,7 @@
 {
   "rose": [
     {
+      "gameId": "3ec3c8a8b7757d47e84b184a4c0e8918",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "",
@@ -11,6 +12,7 @@
       "closedAt": "2026-08-24T21:35:21.337Z"
     },
     {
+      "gameId": "076c1a2acdfca9212a03ee169957081c",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Rose",
@@ -22,6 +24,7 @@
       "bookingDate": "2026-09-05"
     },
     {
+      "gameId": "e2994781b1c9cabda616671035da9421",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Esmailya",
@@ -33,6 +36,7 @@
       "bookingDate": "2026-09-09"
     },
     {
+      "gameId": "7e57d437a5933c8d9f3e34ce64888ec9",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Stupid girls",
@@ -43,6 +47,7 @@
       "closedAt": "2026-08-02T14:14:54.400Z"
     },
     {
+      "gameId": "c8dde433c1c1e094cdb42e532cbc2a02",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Queens",
@@ -53,6 +58,7 @@
       "closedAt": "2026-08-07T17:54:41.386Z"
     },
     {
+      "gameId": "77daf7032df1dbeb72ae1f03a786b381",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "",
@@ -63,6 +69,7 @@
       "closedAt": "2026-08-16T13:30:29.076Z"
     },
     {
+      "gameId": "72c303fd5b94d18625ecdeb16d63e7c8",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "",
@@ -73,6 +80,7 @@
       "closedAt": "2026-08-24T22:16:15.677Z"
     },
     {
+      "gameId": "7345a532584f21fa1d67f1ef59aacbeb",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Geset hazem",
@@ -84,6 +92,7 @@
       "bookingDate": "2026-09-05"
     },
     {
+      "gameId": "e80a14827b33647df0acdaebf576238e",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Pop w atba3o",
@@ -95,6 +104,7 @@
       "bookingDate": "2026-09-09"
     },
     {
+      "gameId": "a040d28f3ba99ba6a8dce6b8644dfc47",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Bondok",
@@ -106,6 +116,7 @@
       "bookingDate": "2026-09-09"
     },
     {
+      "gameId": "cc9877395a57d795ab9003a5730ebca5",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Aaay",
@@ -116,6 +127,7 @@
       "closedAt": "2026-08-25T17:10:17.213Z"
     },
     {
+      "gameId": "290f698b37a3c36c2fb627f1242a187f",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "El 3ylaaaa",
@@ -127,6 +139,7 @@
       "bookingDate": "2026-09-05"
     },
     {
+      "gameId": "4685729503bfaecb98227c028cff2fe7",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Fam",
@@ -138,6 +151,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "f296c12d831a4ec2908cdd189c6dee94",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Wegala",
@@ -148,6 +162,7 @@
       "closedAt": "2026-08-25T18:10:09.818Z"
     },
     {
+      "gameId": "8c61d74e3eb426f3865946e2af565087",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Tuff sigmas",
@@ -159,6 +174,7 @@
       "bookingDate": "2026-09-05"
     },
     {
+      "gameId": "e6e16e3ea0b854fc36aa252b5220b01d",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Yalla bena",
@@ -170,6 +186,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "6a4dd305ee56683d63d2b4c743bed9bd",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Abo lahab",
@@ -180,6 +197,7 @@
       "closedAt": "2026-08-03T16:00:38.511Z"
     },
     {
+      "gameId": "3635e7aa18b88073eb98e0d2112c717d",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "El 7arifa",
@@ -190,6 +208,7 @@
       "closedAt": "2026-08-07T22:25:56.566Z"
     },
     {
+      "gameId": "c14b9e11f2b30e08ab0b6ffb7eb5a867",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Som3a wel 2a5ryn",
@@ -201,6 +220,7 @@
       "bookingDate": "2026-08-16"
     },
     {
+      "gameId": "f94e23de95a0030ea1e5e99f50edaab5",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "MOEL",
@@ -212,6 +232,7 @@
       "bookingDate": "2026-08-25"
     },
     {
+      "gameId": "63ba81d1e5e17635b8c4f73070c52c4f",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "GAYAR",
@@ -223,6 +244,7 @@
       "bookingDate": "2026-09-05"
     },
     {
+      "gameId": "18b5e7e60f01fa9c802ccc7a9bd13e42",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Nuggets",
@@ -234,6 +256,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "10a42af99d7d4394a85c208ab91f9c15",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Mohandseen",
@@ -244,6 +267,7 @@
       "closedAt": "2026-08-08T18:54:56.820Z"
     },
     {
+      "gameId": "f944ca532d5fd4070fe0a344decaadc1",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Ya Sater",
@@ -255,6 +279,7 @@
       "bookingDate": "2026-08-16"
     },
     {
+      "gameId": "921dd041fbe620be5a1f6c8c68aa0f85",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Mmm",
@@ -266,6 +291,7 @@
       "bookingDate": "2026-08-25"
     },
     {
+      "gameId": "ec2a2ce81cff5ae77faa44540dab156a",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Mashamesh🍑",
@@ -277,6 +303,7 @@
       "bookingDate": "2026-09-05"
     },
     {
+      "gameId": "b0e249e570858cbad48794f88cb85b6c",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Lower school",
@@ -288,6 +315,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "f7b787f6a160f7cf7adbea25c6a4638b",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Medosaa",
@@ -298,6 +326,7 @@
       "closedAt": "2026-08-08T20:53:02.963Z"
     },
     {
+      "gameId": "63f4f9596b408f79bf3f73e8125312a5",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Moooooo",
@@ -309,6 +338,7 @@
       "bookingDate": "2026-08-16"
     },
     {
+      "gameId": "5de0a1d74ad3a1d20fd38fff4af83a59",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Rdtz",
@@ -320,6 +350,7 @@
       "bookingDate": "2026-08-26"
     },
     {
+      "gameId": "b0d18bebd17ec4e42c6068e02ff681f4",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "67",
@@ -331,6 +362,7 @@
       "bookingDate": "2026-09-06"
     },
     {
+      "gameId": "a7356e1a273e3a1b4c4f1fa0de2d06bd",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "",
@@ -341,6 +373,7 @@
       "closedAt": "2026-09-10T18:09:28.387Z"
     },
     {
+      "gameId": "dc4d9fe781ef0b686720fd017249efe4",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "شله",
@@ -351,6 +384,7 @@
       "closedAt": "2026-08-03T18:02:39.790Z"
     },
     {
+      "gameId": "00a22a634e5ac0e0650f6418436899c5",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Blabel",
@@ -361,6 +395,7 @@
       "closedAt": "2026-08-08T22:09:57.491Z"
     },
     {
+      "gameId": "786165eaf81465842a1e29f7f40c97b2",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Pcs",
@@ -372,6 +407,7 @@
       "bookingDate": "2026-08-17"
     },
     {
+      "gameId": "0a5cbe47e5b74a14fad41ba57a4d8616",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Sakr",
@@ -383,6 +419,7 @@
       "bookingDate": "2026-08-26"
     },
     {
+      "gameId": "ee46df4b3f8a8169d4baeea47e11ef98",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Bo3a",
@@ -394,6 +431,7 @@
       "bookingDate": "2026-09-06"
     },
     {
+      "gameId": "5bb4e99334b43d45f190cb89ecb89d2b",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Zmayousha",
@@ -405,6 +443,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "82f1dfa52607fdc50d3a4f1d8e780b6a",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Gorillas and P4ki Bashers",
@@ -416,6 +455,7 @@
       "bookingDate": "2026-08-26"
     },
     {
+      "gameId": "06c87f02cc59ec5b2a5d0d5d3337dd37",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Korty El bo3bo3",
@@ -427,6 +467,7 @@
       "bookingDate": "2026-09-06"
     },
     {
+      "gameId": "8493030cc335769199936542d32c43ad",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "ZaWany",
@@ -438,6 +479,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "cda1278501051336f76fc150f113b461",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Gdfydfydfuf",
@@ -448,6 +490,7 @@
       "closedAt": "2026-08-09T19:09:59.161Z"
     },
     {
+      "gameId": "850597e2de933bfacca0f75801c9de4a",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Bajrai",
@@ -458,6 +501,7 @@
       "closedAt": "2026-08-17T16:00:44.481Z"
     },
     {
+      "gameId": "65546438151473391405319a908a5536",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "The team",
@@ -469,6 +513,7 @@
       "bookingDate": "2026-08-26"
     },
     {
+      "gameId": "8ba45bea9716a1a7ab9aef7de319d322",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Ardja",
@@ -480,6 +525,7 @@
       "bookingDate": "2026-09-06"
     },
     {
+      "gameId": "916db4267a7f47a75f409d8e502add42",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Kelab shaware3",
@@ -491,6 +537,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "f425e592ea03a7a94abbdf3f21621e9f",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Sort elbta2a",
@@ -502,6 +549,7 @@
       "bookingDate": "2026-08-17"
     },
     {
+      "gameId": "6b792aa0539d45d000464dc38ca2ce6b",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Bakabortat",
@@ -513,6 +561,7 @@
       "bookingDate": "2026-08-27"
     },
     {
+      "gameId": "555605f35c571b752b8f550c7736f1e9",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Salto7",
@@ -524,6 +573,7 @@
       "bookingDate": "2026-09-07"
     },
     {
+      "gameId": "786a98003a374f541aa46bec2c0faeb4",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Lilos hoes",
@@ -535,6 +585,7 @@
       "bookingDate": "2026-09-11"
     },
     {
+      "gameId": "28f72defdfc7e9d61403ce2a1225485c",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "",
@@ -545,6 +596,7 @@
       "closedAt": "2026-08-09T20:13:13.815Z"
     },
     {
+      "gameId": "5857ed5eb7fdd96dd6282d705bc354ce",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Dihless",
@@ -556,6 +608,7 @@
       "bookingDate": "2026-08-17"
     },
     {
+      "gameId": "f15280b86f8fc9bf54aac7234de6ec9e",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "3ala netenyahu",
@@ -567,6 +620,7 @@
       "bookingDate": "2026-08-27"
     },
     {
+      "gameId": "62e6d3bc669f374fd9836c988460125b",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "",
@@ -578,6 +632,7 @@
       "bookingDate": "2026-09-07"
     },
     {
+      "gameId": "be85898bc6d0f0982916bc248c20827d",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "El shela😈",
@@ -589,6 +644,7 @@
       "bookingDate": "2026-09-11"
     },
     {
+      "gameId": "b5a9bd7f040f03073194c3439519ae86",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Bitchbuggy",
@@ -599,6 +655,7 @@
       "closedAt": "2026-08-04T18:00:43.434Z"
     },
     {
+      "gameId": "05afa7e7531f5a7cc81b8ce4c64556c3",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Asgoon",
@@ -610,6 +667,7 @@
       "bookingDate": "2026-08-09"
     },
     {
+      "gameId": "33c73135f2d3fcf6f42d68a1650e8b3d",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "S0uls",
@@ -621,6 +679,7 @@
       "bookingDate": "2026-08-17"
     },
     {
+      "gameId": "3cb29679254fcd3249a95fa904534c50",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Segoa familia",
@@ -632,6 +691,7 @@
       "bookingDate": "2026-08-27"
     },
     {
+      "gameId": "9b9585101f79aca6737c0c4ab906b601",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Zebe",
@@ -643,6 +703,7 @@
       "bookingDate": "2026-09-07"
     },
     {
+      "gameId": "934b175f9dd62bab1c9eb485c1e2613a",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Shabab galleria",
@@ -654,6 +715,7 @@
       "bookingDate": "2026-09-11"
     },
     {
+      "gameId": "067cd7ea8ddd16354492ede073c0d842",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Pyramids",
@@ -664,6 +726,7 @@
       "closedAt": "2026-08-04T19:04:24.648Z"
     },
     {
+      "gameId": "3b48fe8e3892f2963f4122eaf95416bb",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "The machine",
@@ -674,6 +737,7 @@
       "closedAt": "2026-08-09T22:24:27.325Z"
     },
     {
+      "gameId": "b8b0fa2371abccbbe21cc9bae3799d11",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Abo sereen",
@@ -685,6 +749,7 @@
       "bookingDate": "2026-08-17"
     },
     {
+      "gameId": "bc224439a16f5bc7ec454a3b98eb2590",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Edrabona",
@@ -696,6 +761,7 @@
       "bookingDate": "2026-08-27"
     },
     {
+      "gameId": "03d1f4a0391d064cf214fbbb2a15a5cc",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Rozy",
@@ -706,6 +772,7 @@
       "closedAt": "2026-09-08T14:02:19.704Z"
     },
     {
+      "gameId": "6411c0085093ca87913077ceb2bca5f1",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "",
@@ -717,6 +784,7 @@
       "bookingDate": "2026-09-11"
     },
     {
+      "gameId": "414a123ff83636ae64f492f4c9e73b9a",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Seba3",
@@ -728,6 +796,7 @@
       "bookingDate": "2026-09-08"
     },
     {
+      "gameId": "d53a93d328ad4c36bab8770eff4ee594",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "الدهن في العتاقي",
@@ -739,6 +808,7 @@
       "bookingDate": "2026-09-11"
     },
     {
+      "gameId": "283e23766be3c0991cdf63db5dc8bedd",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "El m5wftia",
@@ -750,6 +820,7 @@
       "bookingDate": "2026-09-12"
     },
     {
+      "gameId": "a631fe53588e272161e301a2094c1188",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Met2a5areen",
@@ -760,6 +831,7 @@
       "closedAt": "2026-08-05T18:13:40.471Z"
     },
     {
+      "gameId": "5f2adbf9d8199751ed5515fc68f1d320",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Jaydah",
@@ -771,6 +843,7 @@
       "bookingDate": "2026-08-10"
     },
     {
+      "gameId": "cd39ffd5dfddb72b62c758e50e63fd9e",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Rose",
@@ -782,6 +855,7 @@
       "bookingDate": "2026-08-18"
     },
     {
+      "gameId": "287fba8c356645af23629ce52bb3dfdd",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Rio",
@@ -792,6 +866,7 @@
       "closedAt": "2026-08-27T22:01:59.013Z"
     },
     {
+      "gameId": "1ddabee64f197db942f85c89f451403e",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Worst era",
@@ -803,6 +878,7 @@
       "bookingDate": "2026-09-12"
     },
     {
+      "gameId": "3038811582c37072f34b6755e90a7d2a",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "😎",
@@ -813,6 +889,7 @@
       "closedAt": "2026-08-05T19:08:53.254Z"
     },
     {
+      "gameId": "4f47cb453ce1dfbfea59e089c2353f4b",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Jalo",
@@ -824,6 +901,7 @@
       "bookingDate": "2026-08-10"
     },
     {
+      "gameId": "3fcf98335ae2295256b06f7f7535311e",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Locked in",
@@ -835,6 +913,7 @@
       "bookingDate": "2026-08-18"
     },
     {
+      "gameId": "74ec87026bfe58291b904bdf2aaa5241",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Boraie",
@@ -846,6 +925,7 @@
       "bookingDate": "2026-08-28"
     },
     {
+      "gameId": "de86e178767e9fe2077fb7a805b9478e",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Scc",
@@ -857,6 +937,7 @@
       "bookingDate": "2026-09-12"
     },
     {
+      "gameId": "7279d02c2ce3efd8fc17679ffbf1c555",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Talal and the others",
@@ -867,6 +948,7 @@
       "closedAt": "2026-08-05T20:09:33.398Z"
     },
     {
+      "gameId": "7c35f98a93ae09a2f3e2a1ef223d938c",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Badr",
@@ -878,6 +960,7 @@
       "bookingDate": "2026-08-10"
     },
     {
+      "gameId": "087c281160beb265a386c9f9c3b94b72",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Locked in",
@@ -888,6 +971,7 @@
       "closedAt": "2026-08-18T20:00:09.407Z"
     },
     {
+      "gameId": "ff82b7ea144e4a81fea149990f715432",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Mangahat",
@@ -899,6 +983,7 @@
       "bookingDate": "2026-08-28"
     },
     {
+      "gameId": "dc2546783c5ecc6c5bf1ec3f5ea37cc0",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Topppp",
@@ -910,6 +995,7 @@
       "bookingDate": "2026-09-12"
     },
     {
+      "gameId": "f516839b5847fc9a53a2a0a6b0186cc0",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Omar kassem",
@@ -920,6 +1006,7 @@
       "closedAt": "2026-08-05T21:14:30.133Z"
     },
     {
+      "gameId": "a10b57ff705c7fff2f96147cb582c2cf",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Farida&Jannah",
@@ -931,6 +1018,7 @@
       "bookingDate": "2026-08-10"
     },
     {
+      "gameId": "2c135925cc2674a061e1fe037352a4f8",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Yasso",
@@ -942,6 +1030,7 @@
       "bookingDate": "2026-08-19"
     },
     {
+      "gameId": "eca38f18ef769f34e603661cd8fdb4c3",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Had Al ana",
@@ -953,6 +1042,7 @@
       "bookingDate": "2026-08-28"
     },
     {
+      "gameId": "4b4b71f6c2a0cfeeb9bb682d93692b1a",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "El gens",
@@ -964,6 +1054,7 @@
       "bookingDate": "2026-09-13"
     },
     {
+      "gameId": "ef839eb375a7e5cc6057c75a0c5e0654",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Bo3bo3",
@@ -974,6 +1065,7 @@
       "closedAt": "2026-08-05T22:15:37.691Z"
     },
     {
+      "gameId": "771bfdc7f211f4cfd0de27fade02aa7d",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Snoopdogs",
@@ -985,6 +1077,7 @@
       "bookingDate": "2026-08-11"
     },
     {
+      "gameId": "8555888bc02bd68ab7ed43c31d3e4490",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Al alaleet",
@@ -996,6 +1089,7 @@
       "bookingDate": "2026-08-19"
     },
     {
+      "gameId": "44fece03115df279c5e49da50327da43",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "The 6",
@@ -1007,6 +1101,7 @@
       "bookingDate": "2026-08-28"
     },
     {
+      "gameId": "4bb8acd134c3b4ad2f6b169d6dd58835",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Match. Masr",
@@ -1018,6 +1113,7 @@
       "bookingDate": "2026-09-13"
     },
     {
+      "gameId": "a88997b1bc946707e0d09f80513b4ca2",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "H&A",
@@ -1028,6 +1124,7 @@
       "closedAt": "2026-08-06T14:01:48.933Z"
     },
     {
+      "gameId": "12109e49e774eaa367036671bc2fdb1f",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Way to go",
@@ -1039,6 +1136,7 @@
       "bookingDate": "2026-08-11"
     },
     {
+      "gameId": "882631b7e6e18685a09d6033d61b977a",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Dafuq",
@@ -1050,6 +1148,7 @@
       "bookingDate": "2026-08-19"
     },
     {
+      "gameId": "03cb92f1dc8bf49c070c71776348d772",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "7ata esmak homsane",
@@ -1061,6 +1160,7 @@
       "bookingDate": "2026-08-28"
     },
     {
+      "gameId": "7292b03e7f316a34cb105edc90eb8441",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Barsouma",
@@ -1072,6 +1172,7 @@
       "bookingDate": "2026-09-13"
     },
     {
+      "gameId": "a34300ce22296ec29d256ce2c4307b8e",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Dead team",
@@ -1083,6 +1184,7 @@
       "bookingDate": "2026-08-11"
     },
     {
+      "gameId": "1619d1791af62487d081b104cf136236",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Rjnl",
@@ -1094,6 +1196,7 @@
       "bookingDate": "2026-08-19"
     },
     {
+      "gameId": "e408d1dd2c02192e674f1187e5202730",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "The shock",
@@ -1105,6 +1208,7 @@
       "bookingDate": "2026-08-29"
     },
     {
+      "gameId": "2967139acd23e466b361ff66b7abb53b",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Medo kadry.",
@@ -1116,6 +1220,7 @@
       "bookingDate": "2026-09-13"
     },
     {
+      "gameId": "d152051f28aa5aa5a098a6768dd2e980",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "El 3ein sabtna we rab El  3ar4 nagana",
@@ -1126,6 +1231,7 @@
       "closedAt": "2026-08-06T16:59:10.784Z"
     },
     {
+      "gameId": "c5e22d54daa0eaabe59735efe18bc150",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "The final round",
@@ -1137,6 +1243,7 @@
       "bookingDate": "2026-08-11"
     },
     {
+      "gameId": "3d455a59cb040c8cd094bf0acbef729c",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Superbad",
@@ -1148,6 +1255,7 @@
       "bookingDate": "2026-08-19"
     },
     {
+      "gameId": "2760e260be111a86dc2a872316258b0c",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Mohamed Abuhussein",
@@ -1158,6 +1266,7 @@
       "closedAt": "2026-08-29T05:08:08.682Z"
     },
     {
+      "gameId": "53223f4ca2ee9e5ad49948390ab2268c",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Esraa",
@@ -1169,6 +1278,7 @@
       "bookingDate": "2026-09-13"
     },
     {
+      "gameId": "fb146a7f2992c1886e8d2c0103f0f56a",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Mtkees",
@@ -1179,6 +1289,7 @@
       "closedAt": "2026-08-06T19:07:21.262Z"
     },
     {
+      "gameId": "2a65fa1f11e90ea7119bef31600dbfaa",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Koushary",
@@ -1190,6 +1301,7 @@
       "bookingDate": "2026-08-11"
     },
     {
+      "gameId": "de815d5ddd21c537c7af162d323b0d4c",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Viking",
@@ -1200,6 +1312,7 @@
       "closedAt": "2026-08-19T22:00:06.443Z"
     },
     {
+      "gameId": "39ca7c9c9ab26c1b4ff3e7dac69deb9c",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Apex",
@@ -1211,6 +1324,7 @@
       "bookingDate": "2026-08-29"
     },
     {
+      "gameId": "277de4b96f9f05543a034e8eb917a12a",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "",
@@ -1221,6 +1335,7 @@
       "closedAt": "2026-09-14T19:05:14.540Z"
     },
     {
+      "gameId": "e38c7bfebb0ad8d8dfce086234cc2893",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Hamza",
@@ -1232,6 +1347,7 @@
       "bookingDate": "2026-08-30"
     },
     {
+      "gameId": "00d5b420d243f6a530cbae099afd5697",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Superheros",
@@ -1242,6 +1358,7 @@
       "closedAt": "2026-09-14T21:04:11.778Z"
     },
     {
+      "gameId": "522402c959255169bcd9516b1f03af97",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Shehata",
@@ -1253,6 +1370,7 @@
       "bookingDate": "2026-08-12"
     },
     {
+      "gameId": "0a181cd24e230d24ff345d537efa0f50",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "3ntel L m7la",
@@ -1264,6 +1382,7 @@
       "bookingDate": "2026-08-21"
     },
     {
+      "gameId": "8b03d2c38355c5c9d1a72fe9b5577d19",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "People",
@@ -1275,6 +1394,7 @@
       "bookingDate": "2026-08-30"
     },
     {
+      "gameId": "9e3fd3a7ce67846a61bf0e4417ed1b8c",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "بوح",
@@ -1285,6 +1405,7 @@
       "closedAt": "2026-09-15T16:01:54.889Z"
     },
     {
+      "gameId": "1fdb3e685dcef38aed045a15172116f0",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Fahd",
@@ -1296,6 +1417,7 @@
       "bookingDate": "2026-08-12"
     },
     {
+      "gameId": "01356b18f8f1fe3429c350804330f72b",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Vikings",
@@ -1307,6 +1429,7 @@
       "bookingDate": "2026-08-21"
     },
     {
+      "gameId": "11949063fe7cd48f81bc7b8fd9eb110d",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Chilling",
@@ -1318,6 +1441,7 @@
       "bookingDate": "2026-08-30"
     },
     {
+      "gameId": "fc836e12bb5f66ec7a7ae0f5eb4d6220",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Chuzz nation",
@@ -1329,6 +1453,7 @@
       "bookingDate": "2026-09-15"
     },
     {
+      "gameId": "79e95893ba6625cbe4582ca7b315d19e",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "The Epsteins",
@@ -1340,6 +1465,7 @@
       "bookingDate": "2026-08-13"
     },
     {
+      "gameId": "ad03f0a1875c46eb77e3c1867ca59098",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Match masr",
@@ -1351,6 +1477,7 @@
       "bookingDate": "2026-08-22"
     },
     {
+      "gameId": "26747c96b2eac5cbc21e9def3298a17c",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "11/1",
@@ -1362,6 +1489,7 @@
       "bookingDate": "2026-08-30"
     },
     {
+      "gameId": "ef7d05eca41712fe9ba5e049574f71a9",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "El a7at🖕",
@@ -1373,6 +1501,7 @@
       "bookingDate": "2026-09-16"
     },
     {
+      "gameId": "5b8ac1db4d5bffbd5e201ce1ed31b8b9",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Dream team",
@@ -1384,6 +1513,7 @@
       "bookingDate": "2026-08-13"
     },
     {
+      "gameId": "df7d6e05f146b1c7adc37686272a268f",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Q fam",
@@ -1395,6 +1525,7 @@
       "bookingDate": "2026-08-22"
     },
     {
+      "gameId": "cb04498763f49ef96c4b933b80b3c68c",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Ezz",
@@ -1406,6 +1537,7 @@
       "bookingDate": "2026-08-31"
     },
     {
+      "gameId": "4cb32102ccfdcc8ddb71ad4a101cf748",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Dr 8abeya",
@@ -1417,6 +1549,7 @@
       "bookingDate": "2026-09-16"
     },
     {
+      "gameId": "596eb3e8caefd4f9ec61ea98ae6a04b7",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Seavia",
@@ -1428,6 +1561,7 @@
       "bookingDate": "2026-09-16"
     },
     {
+      "gameId": "f161d20786338c96dbe1c0d462192736",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Kfc",
@@ -1439,6 +1573,7 @@
       "bookingDate": "2026-08-14"
     },
     {
+      "gameId": "79497039d747e503274094f6e9d9f44d",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "El fr3na",
@@ -1450,6 +1585,7 @@
       "bookingDate": "2026-08-22"
     },
     {
+      "gameId": "5bf8b531b30e0bea3570ad5f5f22076a",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "El 3atawla",
@@ -1460,6 +1596,7 @@
       "closedAt": "2026-08-31T17:02:20.110Z"
     },
     {
+      "gameId": "3a751fd92d132748cebe452d58050a95",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Hala",
@@ -1471,6 +1608,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "41b519fc991e29592d2abb12203be311",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Gang",
@@ -1482,6 +1620,7 @@
       "bookingDate": "2026-08-31"
     },
     {
+      "gameId": "6dea48f72b925b014e35c80cbd8be18d",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "🤟🤟🤟🤟🤟",
@@ -1493,6 +1632,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "695b9063f0763f857f0ad2d9e8b39f3c",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "",
@@ -1503,6 +1643,7 @@
       "closedAt": "2026-07-18T20:15:32.724Z"
     },
     {
+      "gameId": "c5c32fa15333b79754d9dbb764de4fc2",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Hlmfs",
@@ -1514,6 +1655,7 @@
       "bookingDate": "2026-08-14"
     },
     {
+      "gameId": "176fd8ab7bce6a2514e376479f04cc1e",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Libya",
@@ -1525,6 +1667,7 @@
       "bookingDate": "2026-08-22"
     },
     {
+      "gameId": "4bedcd03f880e9896755805b0802a926",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Tt",
@@ -1536,6 +1679,7 @@
       "bookingDate": "2026-08-31"
     },
     {
+      "gameId": "e2ae507cc9dd685e52f54bd69a080999",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Myshh",
@@ -1547,6 +1691,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "4100bf04cdb6ea3e1f3a89f64cce331a",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "El 3ylaaa",
@@ -1558,6 +1703,7 @@
       "bookingDate": "2026-08-22"
     },
     {
+      "gameId": "66d83e74719529a3969872527db51e3d",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Sonion",
@@ -1569,6 +1715,7 @@
       "bookingDate": "2026-08-31"
     },
     {
+      "gameId": "8f29bb2549aad34842acee5a5a3150cd",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Ad3ly ya maa",
@@ -1580,6 +1727,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "f75bbbdd1539778790cc370f405804d9",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Blue pitch",
@@ -1590,6 +1738,7 @@
       "closedAt": "2026-08-14T20:17:34.523Z"
     },
     {
+      "gameId": "2428d13f5fae3331baee7c039ec771f1",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Choppedstick",
@@ -1601,6 +1750,7 @@
       "bookingDate": "2026-08-23"
     },
     {
+      "gameId": "9b68498c1d24fa7ee59d34d440f6e81d",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Tags",
@@ -1612,6 +1762,7 @@
       "bookingDate": "2026-08-31"
     },
     {
+      "gameId": "0e71c39fa1e345e599a8c37c873b7cd1",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "El hashasheen",
@@ -1623,6 +1774,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "59c131a2023b3ca44699f4788ab1736a",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Power",
@@ -1634,6 +1786,7 @@
       "bookingDate": "2026-08-14"
     },
     {
+      "gameId": "7c7c6858dd54c908ef242f95a560db60",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "SHUAB",
@@ -1645,6 +1798,7 @@
       "bookingDate": "2026-08-23"
     },
     {
+      "gameId": "b6824acb10aabdc92a73a52e5d58ec6c",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "خليها على الله",
@@ -1656,6 +1810,7 @@
       "bookingDate": "2026-09-01"
     },
     {
+      "gameId": "767963423ff5c0a7c0656768f3abdb7c",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Niggers",
@@ -1667,6 +1822,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "5fcb23cf044a37347e85b6403c26ef00",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Group ash",
@@ -1678,6 +1834,7 @@
       "bookingDate": "2026-08-15"
     },
     {
+      "gameId": "f0a3f31e82a0c38264d9fa3927dad0cc",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Ur butt is MINEEEEEE",
@@ -1689,6 +1846,7 @@
       "bookingDate": "2026-08-23"
     },
     {
+      "gameId": "43b6b30d5215250006c26aca2d532a37",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Hossam hassan",
@@ -1700,6 +1858,7 @@
       "bookingDate": "2026-09-01"
     },
     {
+      "gameId": "dc21c470baaaf604956f009e484b5963",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "E7na",
@@ -1711,6 +1870,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "bac556e3a20ad12ea28fcf7211c9d67b",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Sashra",
@@ -1722,6 +1882,7 @@
       "bookingDate": "2026-08-15"
     },
     {
+      "gameId": "8e77040cc35627e224101bc41e7211d2",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Zebda Khalfeya",
@@ -1733,6 +1894,7 @@
       "bookingDate": "2026-08-23"
     },
     {
+      "gameId": "53233b2a4d8be9b2d15cf35af8359162",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "",
@@ -1744,6 +1906,7 @@
       "bookingDate": "2026-09-01"
     },
     {
+      "gameId": "542ba75b2bf6dfc44d3b22008e72415b",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Red roses",
@@ -1755,6 +1918,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "02a993da2ae9afa11f9ceac26b4e2fa1",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "228 family geeks",
@@ -1766,6 +1930,7 @@
       "bookingDate": "2026-08-15"
     },
     {
+      "gameId": "cee5c5d80aa3121ec637e18c3a281377",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Asmranii",
@@ -1777,6 +1942,7 @@
       "bookingDate": "2026-08-23"
     },
     {
+      "gameId": "c0ce863ba876de2c0191f69632ec9021",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Jeloo",
@@ -1788,6 +1954,7 @@
       "bookingDate": "2026-09-01"
     },
     {
+      "gameId": "94dd5559cb2612b422a90e13fd6a09d5",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Ledih James",
@@ -1799,6 +1966,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "0c01dc8bcd0eb86d46fd3c794522b792",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Kafouri",
@@ -1810,6 +1978,7 @@
       "bookingDate": "2026-08-15"
     },
     {
+      "gameId": "13b1037639fd3ce6ed51f2f7e3e04046",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "ابو لهب و اصدقاؤه",
@@ -1821,6 +1990,7 @@
       "bookingDate": "2026-08-24"
     },
     {
+      "gameId": "c3d0d4f705ce6dfab88af5f3a7c76165",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Ay hga",
@@ -1832,6 +2002,7 @@
       "bookingDate": "2026-09-01"
     },
     {
+      "gameId": "89922a4f1bb3b9961a3590c52ac3297c",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Faqous",
@@ -1843,6 +2014,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "4cbeeb816cdbe17a3e1a36fc55741907",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Azab family",
@@ -1854,6 +2026,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "2810b56327fa6c09ce66cc3cb14bbd5f",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Yacoub",
@@ -1865,6 +2038,7 @@
       "bookingDate": "2026-08-16"
     },
     {
+      "gameId": "5ecff6cb47a1f109a51c3c83e788435f",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Hot golden balls fried sweet",
@@ -1876,6 +2050,7 @@
       "bookingDate": "2026-08-24"
     },
     {
+      "gameId": "4f6ca42cce1b5ac0592460a9dd664ba3",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Phantom team",
@@ -1887,6 +2062,7 @@
       "bookingDate": "2026-09-02"
     },
     {
+      "gameId": "67d19870a48b5336217d5c34fff89954",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Nstl",
@@ -1898,6 +2074,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "75ef66304c3bfd98b2e27adef1df1155",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "..",
@@ -1909,6 +2086,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "e60714897b81a12e406dde63deac9d35",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Tornado",
@@ -1920,6 +2098,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "cc2e9ba564dd9b4e5ec7aedf55f12334",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "NJM",
@@ -1931,6 +2110,7 @@
       "bookingDate": "2026-08-24"
     },
     {
+      "gameId": "bdb5ad41e7fa2378a9a1db94b3f131f5",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Social Responsibility",
@@ -1942,6 +2122,7 @@
       "bookingDate": "2026-09-02"
     },
     {
+      "gameId": "a62a043f1e163231866b601e47b865fd",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "💩",
@@ -1952,6 +2133,7 @@
       "closedAt": "2026-09-02T19:27:03.255Z"
     },
     {
+      "gameId": "0aa7043267642b96507eb3f61d1ce79e",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Stay🤟🤟",
@@ -1963,6 +2145,7 @@
       "bookingDate": "2026-09-02"
     },
     {
+      "gameId": "9805b3124bf647c5e70381f1fc5580e4",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Jumbo",
@@ -1974,6 +2157,7 @@
       "bookingDate": "2026-09-02"
     },
     {
+      "gameId": "5390fbef9943017ccdda1add41933ccd",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Lic",
@@ -1985,6 +2169,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "8962f0fefac24f45e5f68873966f4b89",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Geo 😂🥚 and eyad",
@@ -1996,6 +2181,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "5fcc6945d0543c84b86db8d3221f7ac4",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Hsc",
@@ -2007,6 +2193,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "ea9a4eb0e2463be8a7e0da466a00f0ff",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "3asfoor El genina",
@@ -2018,6 +2205,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "c1905b3724d2383108b519dd2303d674",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "بوم تاخ",
@@ -2029,6 +2217,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "6be85e3458c766c00fb86505b0de2b9a",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Doctors",
@@ -2040,6 +2229,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "3a5cef259ea9236048fe7fda0cf3cf75",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "",
@@ -2051,6 +2241,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "0f4daa631b381ad138f3b996416187c6",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Eyad we shenno",
@@ -2062,6 +2253,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "6ec730f94ff034d670a40f8aeff9679f",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Hussein",
@@ -2073,6 +2265,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "fd94858f85b6eefa7152edd5ca1174dc",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "The big b",
@@ -2084,6 +2277,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "9dd2f4bfa08433ebc672d8a7f9baa6e2",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Gang bangers",
@@ -2095,6 +2289,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "b4ad8bbdc26b05fa532a62046b1210bf",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Pro clubs w yassin",
@@ -2106,6 +2301,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "a1ec454aebbd4be5fb3971a4f7d963e3",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Heikal",
@@ -2117,6 +2313,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "52d54fbff7ec47bd5ee1765c06dcc9e8",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Gucci",
@@ -2128,6 +2325,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "df89f5b064f63011af1c2987d467c740",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "Bzznality 🍆 💦🍑",
@@ -2139,6 +2337,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "9c5a263d0be7cb72d98229897e1e6d67",
       "roomId": "rose",
       "roomName": "Rose",
       "teamName": "",
@@ -2151,6 +2350,7 @@
   ],
   "sabrina": [
     {
+      "gameId": "043b44990734960a3fa9d14a0e02f24a",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Omar",
@@ -2161,6 +2361,7 @@
       "closedAt": "2026-08-07T15:00:13.332Z"
     },
     {
+      "gameId": "2eab2af459ec00bc98a50d28055acc81",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "",
@@ -2171,6 +2372,7 @@
       "closedAt": "2026-08-16T13:18:55.743Z"
     },
     {
+      "gameId": "8778dee2bd2329e5d687725cc83001de",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "",
@@ -2181,6 +2383,7 @@
       "closedAt": "2026-08-24T21:35:21.699Z"
     },
     {
+      "gameId": "4c2fb3b91ab72d153d866ef30d16694d",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "3ntel El m7lah",
@@ -2192,6 +2395,7 @@
       "bookingDate": "2026-09-05"
     },
     {
+      "gameId": "b15d8452526d6cbdab5ea4fb73e4a632",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Nigger club🍆💩",
@@ -2202,6 +2406,7 @@
       "closedAt": "2026-09-09T17:07:22.548Z"
     },
     {
+      "gameId": "33bf305e206dfffa5866c12120cd64e7",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "",
@@ -2212,6 +2417,7 @@
       "closedAt": "2026-07-29T12:17:58.384Z"
     },
     {
+      "gameId": "dffe093bfe85826ee8c4f92c1e64493d",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Basss",
@@ -2222,6 +2428,7 @@
       "closedAt": "2026-08-07T19:59:36.926Z"
     },
     {
+      "gameId": "c21ca22cd03a866958c2cd103e151beb",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Jana",
@@ -2233,6 +2440,7 @@
       "bookingDate": "2026-08-17"
     },
     {
+      "gameId": "efd7c83c2b52d94f047b7ab647075a9b",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Redzz",
@@ -2244,6 +2452,7 @@
       "bookingDate": "2026-08-25"
     },
     {
+      "gameId": "7f12888b0e67ca58a6ea00df5673d242",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Abotaleb",
@@ -2255,6 +2464,7 @@
       "bookingDate": "2026-09-05"
     },
     {
+      "gameId": "56a2d69ba5b7d5983ae8cac5f570acbc",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Fg",
@@ -2265,6 +2475,7 @@
       "closedAt": "2026-09-10T16:11:33.365Z"
     },
     {
+      "gameId": "b6557a5dff634a773a5514d85a2eb2d2",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Kolo 3alah allah",
@@ -2276,6 +2487,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "9f2ffbf4697753e11986160856490358",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Walk through",
@@ -2286,6 +2498,7 @@
       "closedAt": "2026-08-08T15:06:39.005Z"
     },
     {
+      "gameId": "72bbd691bbde4e1a5cfe7b2b6bc557b8",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Star",
@@ -2297,6 +2510,7 @@
       "bookingDate": "2026-08-17"
     },
     {
+      "gameId": "7fc0b796c46eb80d71c2cfa20156f69a",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "ديلر",
@@ -2308,6 +2522,7 @@
       "bookingDate": "2026-08-26"
     },
     {
+      "gameId": "52d595a10bad289a5cc9302ba9507e41",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Basal",
@@ -2318,6 +2533,7 @@
       "closedAt": "2026-09-06T19:02:31.751Z"
     },
     {
+      "gameId": "94c02adf4a5458ff84cec3b2919955fd",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "YZLT",
@@ -2329,6 +2545,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "574d70e57e49329723e8feadb2373db9",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Alqubaisi",
@@ -2339,6 +2556,7 @@
       "closedAt": "2026-08-08T16:12:57.380Z"
     },
     {
+      "gameId": "6173807c0fe3dffdd8bc1508f402c518",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Captain Beatrice and her team",
@@ -2350,6 +2568,7 @@
       "bookingDate": "2026-08-17"
     },
     {
+      "gameId": "ea3c8f6d18d37e743d8ebdb2173f9713",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Mj",
@@ -2361,6 +2580,7 @@
       "bookingDate": "2026-08-26"
     },
     {
+      "gameId": "d0ecaa546c537c6b9e3ec4fd846bc8ad",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Rootas",
@@ -2372,6 +2592,7 @@
       "bookingDate": "2026-09-06"
     },
     {
+      "gameId": "ee6301fa63928456a416d36b78315f32",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Faty",
@@ -2383,6 +2604,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "9e8dbd9c3b76391a64fe1f773b8be27e",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "KMFYYS",
@@ -2394,6 +2616,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "079a5b87b2e27dd61c158d197bb870ce",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "The team",
@@ -2404,6 +2627,7 @@
       "closedAt": "2026-08-02T21:26:37.807Z"
     },
     {
+      "gameId": "c4e245ad97838a1e40664594be145f48",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "East",
@@ -2414,6 +2638,7 @@
       "closedAt": "2026-08-08T20:01:08.743Z"
     },
     {
+      "gameId": "344ba3fd34c45c1b6f38d00d01e539d6",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Girlies",
@@ -2425,6 +2650,7 @@
       "bookingDate": "2026-08-18"
     },
     {
+      "gameId": "ad2332aa8faded5d06a13c6e827202cb",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Logy",
@@ -2436,6 +2662,7 @@
       "bookingDate": "2026-08-26"
     },
     {
+      "gameId": "df5aa5c2afe0375a2afaa6d10ad20d03",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Abo Al agasm fc",
@@ -2447,6 +2674,7 @@
       "bookingDate": "2026-09-07"
     },
     {
+      "gameId": "eaa7f2bf3fee5c2aad51479a5f2a3518",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Thayy",
@@ -2457,6 +2685,7 @@
       "closedAt": "2026-09-11T14:15:34.966Z"
     },
     {
+      "gameId": "7c2010894e2bf503370985c75843d91c",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Hamza El hals",
@@ -2468,6 +2697,7 @@
       "bookingDate": "2026-08-18"
     },
     {
+      "gameId": "7a960400708f723db50fd4256268da1a",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Meem family",
@@ -2478,6 +2708,7 @@
       "closedAt": "2026-08-27T16:04:59.898Z"
     },
     {
+      "gameId": "b5469cfadb6ebc02be501fee5eba135f",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Yzsguh",
@@ -2489,6 +2720,7 @@
       "bookingDate": "2026-09-07"
     },
     {
+      "gameId": "d6528717a7340d1e949454c73480049e",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Al3alamia",
@@ -2500,6 +2732,7 @@
       "bookingDate": "2026-09-11"
     },
     {
+      "gameId": "6539ba819999faf786dea0268549371a",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Al aniey",
@@ -2511,6 +2744,7 @@
       "bookingDate": "2026-09-07"
     },
     {
+      "gameId": "35acd3e513df96768de38ed341d5e5f5",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Nigga🐩🍑🍆",
@@ -2522,6 +2756,7 @@
       "bookingDate": "2026-09-11"
     },
     {
+      "gameId": "0f3c8f5f41a99ce598d9b5d5d5966a66",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Four lights",
@@ -2532,6 +2767,7 @@
       "closedAt": "2026-08-09T16:10:57.483Z"
     },
     {
+      "gameId": "b48f2f2d6b883e6f912acf642b0ddbaf",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Naah",
@@ -2543,6 +2779,7 @@
       "bookingDate": "2026-08-19"
     },
     {
+      "gameId": "a53f615e29fe202ca0ad056f66a9161f",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "El garbe3",
@@ -2553,6 +2790,7 @@
       "closedAt": "2026-08-27T17:06:11.827Z"
     },
     {
+      "gameId": "bfb795eac6d0b910c24ec1914ed58127",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "DNA",
@@ -2564,6 +2802,7 @@
       "bookingDate": "2026-09-08"
     },
     {
+      "gameId": "f2c2feab950252e2efc95b3f860d560e",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Hawawshi",
@@ -2575,6 +2814,7 @@
       "bookingDate": "2026-09-11"
     },
     {
+      "gameId": "3ea6fbf5ab06a6493c573b6e411d792c",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Haka no fair",
@@ -2585,6 +2825,7 @@
       "closedAt": "2026-08-09T18:08:20.399Z"
     },
     {
+      "gameId": "3867016e6d5e8a2924e42be66e2c96d0",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Omar, s",
@@ -2596,6 +2837,7 @@
       "bookingDate": "2026-08-19"
     },
     {
+      "gameId": "8069feb5c4c96d7251c50cfe85ee643b",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Taj ub9ij",
@@ -2607,6 +2849,7 @@
       "bookingDate": "2026-08-27"
     },
     {
+      "gameId": "75bbdc54c36b76ce42a9e6231f835810",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Winners",
@@ -2617,6 +2860,7 @@
       "closedAt": "2026-09-11T19:15:10.318Z"
     },
     {
+      "gameId": "5818dd56af026190b23bc1bafb3638ca",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "عمروشيات",
@@ -2627,6 +2871,7 @@
       "closedAt": "2026-08-03T16:56:12.609Z"
     },
     {
+      "gameId": "3ad590b85ddd593556075399c4f6ce22",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "The gang",
@@ -2637,6 +2882,7 @@
       "closedAt": "2026-08-09T19:12:18.503Z"
     },
     {
+      "gameId": "3fcd57f597cd7c6cc937e661ed290957",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Dih",
@@ -2648,6 +2894,7 @@
       "bookingDate": "2026-08-19"
     },
     {
+      "gameId": "8fb3bf597c61d35314d4e345559deffe",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "El zawany El 5ams",
@@ -2659,6 +2906,7 @@
       "bookingDate": "2026-08-27"
     },
     {
+      "gameId": "daca4383c89ac371f57b403133354d69",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Good  team",
@@ -2670,6 +2918,7 @@
       "bookingDate": "2026-09-11"
     },
     {
+      "gameId": "216c658f8f54079354a887eae300af83",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "El fatahel",
@@ -2681,6 +2930,7 @@
       "bookingDate": "2026-08-20"
     },
     {
+      "gameId": "0de40f298d6f67bd71409c846bb7f9d3",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Father's fucking team",
@@ -2692,6 +2942,7 @@
       "bookingDate": "2026-08-27"
     },
     {
+      "gameId": "c27a15ffa88692f049eecaed8562f931",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Bbis",
@@ -2703,6 +2954,7 @@
       "bookingDate": "2026-09-11"
     },
     {
+      "gameId": "9703b6f91b1a9a32c16fd0ca89032681",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "The royalty family",
@@ -2714,6 +2966,7 @@
       "bookingDate": "2026-09-12"
     },
     {
+      "gameId": "e5a882a03c44fb231eeb0efcaf856b9b",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Match masr",
@@ -2724,6 +2977,7 @@
       "closedAt": "2026-08-03T20:22:10.377Z"
     },
     {
+      "gameId": "6e9bae21579ff39c4e9e66024cd72dbd",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Almadi",
@@ -2735,6 +2989,7 @@
       "bookingDate": "2026-08-10"
     },
     {
+      "gameId": "802ee6c64999b8ebcae33a43272e565f",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Tung tung tung sahur gang",
@@ -2746,6 +3001,7 @@
       "bookingDate": "2026-08-21"
     },
     {
+      "gameId": "1ac3c4831f3bd414a16351a177e47dcc",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Elt02al",
@@ -2757,6 +3013,7 @@
       "bookingDate": "2026-08-28"
     },
     {
+      "gameId": "49ddd58879ea33b0148c7e428700aa19",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Beeebah",
@@ -2768,6 +3025,7 @@
       "bookingDate": "2026-09-12"
     },
     {
+      "gameId": "54e4896303c1497a22ec379747f2469d",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Zena",
@@ -2778,6 +3036,7 @@
       "closedAt": "2026-08-03T21:19:48.745Z"
     },
     {
+      "gameId": "09cfc7c03f561dd4da2f49173f00a599",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Mozy",
@@ -2788,6 +3047,7 @@
       "closedAt": "2026-08-09T22:58:34.829Z"
     },
     {
+      "gameId": "881ee3b932b95536baa665d50734f767",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "LA peace",
@@ -2799,6 +3059,7 @@
       "bookingDate": "2026-08-21"
     },
     {
+      "gameId": "0fcf3272ebccc977d293dab1ed6e917a",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Skibidis",
@@ -2810,6 +3071,7 @@
       "bookingDate": "2026-08-28"
     },
     {
+      "gameId": "d843756edf5b910b691ccc55248de0c7",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Gooners",
@@ -2820,6 +3082,7 @@
       "closedAt": "2026-09-12T17:03:38.475Z"
     },
     {
+      "gameId": "a333b67c5b75de88165293d360b24c1f",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Spider man gang",
@@ -2830,6 +3093,7 @@
       "closedAt": "2026-08-04T16:12:05.732Z"
     },
     {
+      "gameId": "f950c0770295a2044b0fabb98d07088d",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Sabrina",
@@ -2841,6 +3105,7 @@
       "bookingDate": "2026-08-10"
     },
     {
+      "gameId": "8edc4f093b71e957b08a004799474e81",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Faat",
@@ -2852,6 +3117,7 @@
       "bookingDate": "2026-08-21"
     },
     {
+      "gameId": "6f9b9f24d6c51be06fe5ec74709f2806",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Ultimate cuties",
@@ -2863,6 +3129,7 @@
       "bookingDate": "2026-08-28"
     },
     {
+      "gameId": "d3c518b00fcd97ca8e0c2750fd01e5f6",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Shankoty",
@@ -2874,6 +3141,7 @@
       "bookingDate": "2026-09-12"
     },
     {
+      "gameId": "28adfc4363b586711942fbf96f5dae54",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "D5",
@@ -2884,6 +3152,7 @@
       "closedAt": "2026-08-04T17:07:11.056Z"
     },
     {
+      "gameId": "08e506674d9bd961663ff33f55ba5f62",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Medinah",
@@ -2895,6 +3164,7 @@
       "bookingDate": "2026-08-10"
     },
     {
+      "gameId": "4c5033f686d0049640ef6c583fd08581",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Ahfad almoktar",
@@ -2906,6 +3176,7 @@
       "bookingDate": "2026-08-21"
     },
     {
+      "gameId": "57433411ff4e8273e412dd56feb383b4",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Shosh",
@@ -2917,6 +3188,7 @@
       "bookingDate": "2026-08-28"
     },
     {
+      "gameId": "f5697cea88676451f0bee924267cc44f",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Galleria",
@@ -2927,6 +3199,7 @@
       "closedAt": "2026-09-12T19:20:02.927Z"
     },
     {
+      "gameId": "51deeea783e89d2f8e97d90de6a53184",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Gomaa",
@@ -2938,6 +3211,7 @@
       "bookingDate": "2026-08-28"
     },
     {
+      "gameId": "185602769f1de444555c25dcbed86a90",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Mafia",
@@ -2949,6 +3223,7 @@
       "bookingDate": "2026-09-12"
     },
     {
+      "gameId": "9b0ff6394b65ab1229c013c9f7769f71",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Alsarraj",
@@ -2959,6 +3234,7 @@
       "closedAt": "2026-08-04T21:02:48.040Z"
     },
     {
+      "gameId": "2b943e5f7d7107a0f21639b3be848d31",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Yus fanclub",
@@ -2970,6 +3246,7 @@
       "bookingDate": "2026-08-10"
     },
     {
+      "gameId": "00f8ea55edf2f6c3afacb2d4f0193b4d",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Roza",
@@ -2981,6 +3258,7 @@
       "bookingDate": "2026-08-21"
     },
     {
+      "gameId": "76b94be626f5f280b770e562c2df0fb5",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Fathy",
@@ -2992,6 +3270,7 @@
       "bookingDate": "2026-08-29"
     },
     {
+      "gameId": "bc4a3203a8281180005b3428552ddd47",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Kwalat",
@@ -3002,6 +3281,7 @@
       "closedAt": "2026-09-13T15:08:51.760Z"
     },
     {
+      "gameId": "efb60e13ba3ed0cd67bcd6ce53a8ee4b",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Aboelezz",
@@ -3012,6 +3292,7 @@
       "closedAt": "2026-08-04T22:00:25.086Z"
     },
     {
+      "gameId": "b42bd0cc2bfe2f2f6353140b2f773460",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Tata7",
@@ -3023,6 +3304,7 @@
       "bookingDate": "2026-08-10"
     },
     {
+      "gameId": "751c605205c62e3158f7be5cfd8025f4",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Mansoury Gang",
@@ -3034,6 +3316,7 @@
       "bookingDate": "2026-08-22"
     },
     {
+      "gameId": "64321d02367a3e7f7a648ae05e5b7109",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Kztmyjt",
@@ -3044,6 +3327,7 @@
       "closedAt": "2026-08-29T03:55:04.505Z"
     },
     {
+      "gameId": "d18b838d81349a19a1469bf1210735b3",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Failures",
@@ -3055,6 +3339,7 @@
       "bookingDate": "2026-09-13"
     },
     {
+      "gameId": "c3cbbd648d5e51d800b34878f9d8b1f5",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Hamalawy",
@@ -3066,6 +3351,7 @@
       "bookingDate": "2026-09-13"
     },
     {
+      "gameId": "edc44ab97e751421a9b0b89024a56990",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Met5azw2eeeeeen",
@@ -3076,6 +3362,7 @@
       "closedAt": "2026-08-05T17:44:18.505Z"
     },
     {
+      "gameId": "22140d9ce77be494abcf15b9470bb7d0",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Mohamed",
@@ -3087,6 +3374,7 @@
       "bookingDate": "2026-08-11"
     },
     {
+      "gameId": "430bda0d064ac5d24505819e9150e283",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Libya",
@@ -3098,6 +3386,7 @@
       "bookingDate": "2026-08-22"
     },
     {
+      "gameId": "0f5c8332b3a0615e47e750c0f71d7c14",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Eng",
@@ -3108,6 +3397,7 @@
       "closedAt": "2026-08-29T18:54:07.695Z"
     },
     {
+      "gameId": "abb1c135069afe0ae80fdafe5cb8450f",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "",
@@ -3118,6 +3408,7 @@
       "closedAt": "2026-09-13T21:04:22.785Z"
     },
     {
+      "gameId": "30779802944a0c7dabaa48f496edb684",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "الازكياء",
@@ -3128,6 +3419,7 @@
       "closedAt": "2026-09-14T21:26:39.867Z"
     },
     {
+      "gameId": "5f386fc70699f96b787fb04032cb0fab",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Goban2",
@@ -3138,6 +3430,7 @@
       "closedAt": "2026-08-05T20:54:22.067Z"
     },
     {
+      "gameId": "ebfe3a50e595cea10408e52b9c06528b",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Team 7",
@@ -3149,6 +3442,7 @@
       "bookingDate": "2026-08-12"
     },
     {
+      "gameId": "a6e6c400011ecf23e3764bda3052ddbf",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "A7A MANGA",
@@ -3159,6 +3453,7 @@
       "closedAt": "2026-08-23T15:13:39.553Z"
     },
     {
+      "gameId": "7229a5febf20fc8302164622c256ba57",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Libya",
@@ -3170,6 +3465,7 @@
       "bookingDate": "2026-08-30"
     },
     {
+      "gameId": "01576ccc1daee78e36eed6d37d7efa61",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "ا",
@@ -3180,6 +3476,7 @@
       "closedAt": "2026-09-15T16:03:27.055Z"
     },
     {
+      "gameId": "7a510af9a27430f2b1b18e7e8727c437",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "The Gang",
@@ -3191,6 +3488,7 @@
       "bookingDate": "2026-08-23"
     },
     {
+      "gameId": "7573ecc81de804ed2b28776c1538cdb9",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Aqua",
@@ -3202,6 +3500,7 @@
       "bookingDate": "2026-08-30"
     },
     {
+      "gameId": "1bb2754c83e22e1622cd4f26daa24488",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Tofa7",
@@ -3213,6 +3512,7 @@
       "bookingDate": "2026-09-15"
     },
     {
+      "gameId": "92e5f6a79dae739a5ab61a5053318430",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "",
@@ -3223,6 +3523,7 @@
       "closedAt": "2026-08-12T15:04:36.818Z"
     },
     {
+      "gameId": "1f440e0929b9b3bac429714a5f1f9cfb",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Abu hamza",
@@ -3234,6 +3535,7 @@
       "bookingDate": "2026-08-23"
     },
     {
+      "gameId": "8930a3116ac670995af9565000389c52",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Sudan",
@@ -3245,6 +3547,7 @@
       "bookingDate": "2026-08-30"
     },
     {
+      "gameId": "1eeb3e3c7be80e58fccb42eee408aa10",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Epstein",
@@ -3256,6 +3559,7 @@
       "bookingDate": "2026-09-15"
     },
     {
+      "gameId": "3c687b91c9995d085cca356d2559c67c",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "",
@@ -3266,6 +3570,7 @@
       "closedAt": "2026-08-12T15:36:02.111Z"
     },
     {
+      "gameId": "81423a56a489ecd65843572483a4ba9e",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Salma",
@@ -3277,6 +3582,7 @@
       "bookingDate": "2026-08-23"
     },
     {
+      "gameId": "5a3a5bb800d746cbf707645c04b0c2f4",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "U",
@@ -3288,6 +3594,7 @@
       "bookingDate": "2026-08-31"
     },
     {
+      "gameId": "2f3c207db74a9aa3d7596d28f0272cf9",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Kataket",
@@ -3299,6 +3606,7 @@
       "bookingDate": "2026-09-15"
     },
     {
+      "gameId": "0942341cd80e5af9a26b588922268109",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Hala & Abadi",
@@ -3309,6 +3617,7 @@
       "closedAt": "2026-08-06T15:08:07.840Z"
     },
     {
+      "gameId": "66497d2ab85c97df62e901cff203af49",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Abady",
@@ -3320,6 +3629,7 @@
       "bookingDate": "2026-08-12"
     },
     {
+      "gameId": "d367d28ba23166903aaf9e8167183a14",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "",
@@ -3331,6 +3641,7 @@
       "bookingDate": "2026-08-23"
     },
     {
+      "gameId": "c841a537ac33eae9469a7b9d5f0be073",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "No risk no fun",
@@ -3342,6 +3653,7 @@
       "bookingDate": "2026-08-31"
     },
     {
+      "gameId": "0385f17db1396e155acea4be9299a225",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "فريق القوى",
@@ -3353,6 +3665,7 @@
       "bookingDate": "2026-09-15"
     },
     {
+      "gameId": "2dae14cbad02f9ff4a801ba452a9493a",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Kemos gang",
@@ -3364,6 +3677,7 @@
       "bookingDate": "2026-09-16"
     },
     {
+      "gameId": "917863a08cb38b3f4a382156a0c98498",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Mentalists",
@@ -3375,6 +3689,7 @@
       "bookingDate": "2026-09-16"
     },
     {
+      "gameId": "736cc8453ccd63e80758c3c94d9c58a7",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Celfocus",
@@ -3385,6 +3700,7 @@
       "closedAt": "2026-08-31T18:23:59.388Z"
     },
     {
+      "gameId": "d4d2a1dcfaa64f0c919adae064b897ad",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Gangnam style",
@@ -3396,6 +3712,7 @@
       "bookingDate": "2026-09-16"
     },
     {
+      "gameId": "e6c1edfca937e57429ffa134f1fd0a3d",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Minions",
@@ -3406,6 +3723,7 @@
       "closedAt": "2026-08-06T20:05:27.953Z"
     },
     {
+      "gameId": "c28327aefaa3108fa8c4a61095c0daf9",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "El da7ee7en",
@@ -3417,6 +3735,7 @@
       "bookingDate": "2026-08-12"
     },
     {
+      "gameId": "a8b8574e41a1b1fca9223fa766068a21",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Eldahshat Team",
@@ -3427,6 +3746,7 @@
       "closedAt": "2026-08-24T16:02:58.749Z"
     },
     {
+      "gameId": "16a10c0def94898dadda05dd9e6b1bd0",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Qa",
@@ -3438,6 +3758,7 @@
       "bookingDate": "2026-08-31"
     },
     {
+      "gameId": "912236d45158a99e04fcf27d36a7a438",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Sekoseko",
@@ -3449,6 +3770,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "2943860727e438dc522a17b85d7ca425",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Bagaresh",
@@ -3459,6 +3781,7 @@
       "closedAt": "2026-08-06T20:40:50.592Z"
     },
     {
+      "gameId": "039dfd4766ac52f8e274d52128a08c2f",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Shehata's",
@@ -3470,6 +3793,7 @@
       "bookingDate": "2026-08-12"
     },
     {
+      "gameId": "56531ececf2ee4e1a727eca3d378248a",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Islam beh",
@@ -3481,6 +3805,7 @@
       "bookingDate": "2026-08-24"
     },
     {
+      "gameId": "1c1787727094f4cc51660c8bd9a62dc6",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Gooners of jiujitsu",
@@ -3492,6 +3817,7 @@
       "bookingDate": "2026-08-31"
     },
     {
+      "gameId": "3acd89b50d8cc372a5626d1771cc4418",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "The tuffest",
@@ -3503,6 +3829,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "706bf2617705d64a50d84a3d74376781",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Emtiaz beljeba",
@@ -3513,6 +3840,7 @@
       "closedAt": "2026-08-06T22:03:17.300Z"
     },
     {
+      "gameId": "6ef20768ec4ff8757c5afa126aa71b47",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Shurouq",
@@ -3524,6 +3852,7 @@
       "bookingDate": "2026-08-13"
     },
     {
+      "gameId": "63919c5e6be1d872a221c6f82a12ecf3",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Jbfk",
@@ -3535,6 +3864,7 @@
       "bookingDate": "2026-08-24"
     },
     {
+      "gameId": "784d59f45b0cdede7ceb37c13a10fcb3",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Hayoota ayota",
@@ -3545,6 +3875,7 @@
       "closedAt": "2026-08-31T22:05:56.717Z"
     },
     {
+      "gameId": "3e11d91e55d5c6849ee755d3ee0b3821",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "أشباح كابيتال",
@@ -3556,6 +3887,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "cf830239f90fbcba150f04d28a84e978",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Dicks",
@@ -3567,6 +3899,7 @@
       "bookingDate": "2026-08-13"
     },
     {
+      "gameId": "c260b78f25c0bbc2bb1e80dc0e7cef63",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Stella",
@@ -3578,6 +3911,7 @@
       "bookingDate": "2026-08-24"
     },
     {
+      "gameId": "f56927f67ee27c6412ee037d983ae414",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Strawberry",
@@ -3588,6 +3922,7 @@
       "closedAt": "2026-09-01T16:17:56.249Z"
     },
     {
+      "gameId": "4e37a360fb5108bf2be2a478c4b549b7",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Nathan",
@@ -3599,6 +3934,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "ab2f474692d2fc5f6774e6245f8c22b2",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "The big 5",
@@ -3610,6 +3946,7 @@
       "bookingDate": "2026-08-13"
     },
     {
+      "gameId": "c69c9f8dc1d3f07d91d5819350c09531",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Aboko shetos",
@@ -3621,6 +3958,7 @@
       "bookingDate": "2026-08-24"
     },
     {
+      "gameId": "c3fbda009dde1a104fe5d5f9a509bbad",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Pyramidsawyy",
@@ -3632,6 +3970,7 @@
       "bookingDate": "2026-09-01"
     },
     {
+      "gameId": "ba3e064d514ecb3d842ebb1365401840",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Giu",
@@ -3643,6 +3982,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "207bb763da5bf5d05f36cf17d2313008",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Yaghi gang",
@@ -3654,6 +3994,7 @@
       "bookingDate": "2026-08-13"
     },
     {
+      "gameId": "faf6739b5ce6f1ba98f605cb2b3da947",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "X tean",
@@ -3665,6 +4006,7 @@
       "bookingDate": "2026-08-24"
     },
     {
+      "gameId": "ea9d6e1e81e8ba2f76e7b7e0b46dd59e",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Aaa",
@@ -3676,6 +4018,7 @@
       "bookingDate": "2026-09-01"
     },
     {
+      "gameId": "599ec6df3eadc50f5a22cd41383c651b",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Da7a7een",
@@ -3687,6 +4030,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "f6c11544db9595e20e2b4167dffd224c",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "حفره",
@@ -3698,6 +4042,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "5037b539e731abc997c7cbdbcfda49b4",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Jilaalow",
@@ -3709,6 +4054,7 @@
       "bookingDate": "2026-08-13"
     },
     {
+      "gameId": "cea4335a60345de572f4c0ac2b071c3e",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "سلاحف النينجا",
@@ -3720,6 +4066,7 @@
       "bookingDate": "2026-09-02"
     },
     {
+      "gameId": "a59de4e8eed01c721aab36d37b6cb9a8",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "El 5omasy El mareh",
@@ -3731,6 +4078,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "90caa6e265b2f466293d504e215015d3",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "",
@@ -3742,6 +4090,7 @@
       "bookingDate": "2026-08-14"
     },
     {
+      "gameId": "8a85a641fec3abe3b2a758a7b10016ce",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Manga",
@@ -3753,6 +4102,7 @@
       "bookingDate": "2026-09-02"
     },
     {
+      "gameId": "01dacef157091d2e0736a324507669d8",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Ashba77 repton",
@@ -3764,6 +4114,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "096e449b90e603cdb353d58c2b893c33",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Helmy",
@@ -3775,6 +4126,7 @@
       "bookingDate": "2026-08-14"
     },
     {
+      "gameId": "26861c2c5625f030bd5d0c645f8ad5f3",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Elashbah",
@@ -3786,6 +4138,7 @@
       "bookingDate": "2026-09-02"
     },
     {
+      "gameId": "282be9c4fb95e596c78f584b4fab4411",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Flame",
@@ -3797,6 +4150,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "fd05f1b8d82e43b25d1cadde679764db",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Zuwara",
@@ -3808,6 +4162,7 @@
       "bookingDate": "2026-08-14"
     },
     {
+      "gameId": "79165cdaa6428fab0e344ce940ae8e8f",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Offline",
@@ -3819,6 +4174,7 @@
       "bookingDate": "2026-09-02"
     },
     {
+      "gameId": "22fce1a6597df7ca9686e9318623ff14",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Aala allah",
@@ -3830,6 +4186,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "51c41d27b54e0d50d4d75e529191627e",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Faten",
@@ -3841,6 +4198,7 @@
       "bookingDate": "2026-08-14"
     },
     {
+      "gameId": "a046660fd276c4c3f8b9016c5c1dbe65",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "The gang",
@@ -3852,6 +4210,7 @@
       "bookingDate": "2026-09-02"
     },
     {
+      "gameId": "2f642db6e09b8c6019dbd090112a6975",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "ليبيا",
@@ -3863,6 +4222,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "6fea2f60b734e4ceb95504486dc641c1",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Khaled",
@@ -3874,6 +4234,7 @@
       "bookingDate": "2026-08-14"
     },
     {
+      "gameId": "57a38c943bf91a1710dcdfc43bc1888e",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "El Meligy",
@@ -3885,6 +4246,7 @@
       "bookingDate": "2026-09-02"
     },
     {
+      "gameId": "859a5ec3df38d59499000ad8d63ad95d",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Nino ebsi",
@@ -3896,6 +4258,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "7a634d21d22b8a68d8d9a54eeb65ad2c",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "LA vie est belle",
@@ -3907,6 +4270,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "0510970b5eb234fce0d8ee1527f6b726",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Mganeeeeen",
@@ -3918,6 +4282,7 @@
       "bookingDate": "2026-09-19"
     },
     {
+      "gameId": "b7b0d47c3875e71c31f4f064166a9766",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "El Bawabeen and fala7een",
@@ -3929,6 +4294,7 @@
       "bookingDate": "2026-09-19"
     },
     {
+      "gameId": "16b5778c30ae1b57f36f1c27f44ee458",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Turki",
@@ -3940,6 +4306,7 @@
       "bookingDate": "2026-08-15"
     },
     {
+      "gameId": "214abba2b4a691a4037d2c5dfbe829e6",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Spicy drs",
@@ -3950,6 +4317,7 @@
       "closedAt": "2026-09-03T14:19:10.476Z"
     },
     {
+      "gameId": "e6a4f98d4c18ba529447c96cc1e99e38",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Mosh",
@@ -3960,6 +4328,7 @@
       "closedAt": "2026-09-19T16:00:02.591Z"
     },
     {
+      "gameId": "3dd324b1dc1797b91c47b06137ad1f2d",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "3ameto",
@@ -3971,6 +4340,7 @@
       "bookingDate": "2026-08-15"
     },
     {
+      "gameId": "28a2cf61ba28c75aabeb10c8d8f6a18d",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Farida",
@@ -3982,6 +4352,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "7204b30f6d76bc7bce7b83c279996048",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Alrefaee",
@@ -3993,6 +4364,7 @@
       "bookingDate": "2026-08-15"
     },
     {
+      "gameId": "bd7b0e082926798309b5f7be0ca81165",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "على الله",
@@ -4004,6 +4376,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "25abeb4e2d59b2f8aa2c416a9ed544a3",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "The sudo gyals",
@@ -4015,6 +4388,7 @@
       "bookingDate": "2026-08-15"
     },
     {
+      "gameId": "dcc4237a85fac11e5c37616efd3b6b5d",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Oesterreich",
@@ -4026,6 +4400,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "06802b75800c22ea2b48d45d5ae9e67e",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "El Regala",
@@ -4037,6 +4412,7 @@
       "bookingDate": "2026-08-15"
     },
     {
+      "gameId": "f3103c5084c4f3f6b4c66d232a8a7c56",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "FalconX",
@@ -4048,6 +4424,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "ebd1f732a0a02784cddf9b8d51548c18",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Sultans team",
@@ -4059,6 +4436,7 @@
       "bookingDate": "2026-08-16"
     },
     {
+      "gameId": "06710e4fdc8bd6b0a314d64fd6cb2b93",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Fatayat El kowa",
@@ -4070,6 +4448,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "00b990ab9edbe1dfcd96d0e701a2bb89",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Niggas",
@@ -4081,6 +4460,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "997bb4f6401e4e408acabc05e05ae118",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Chemists",
@@ -4092,6 +4472,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "b8d90bfbbe919ebf20608f0bcc70aef1",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Squad❤️👍",
@@ -4103,6 +4484,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "54eb37503fe771500601a9f5bd0316d9",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "El mnayek",
@@ -4114,6 +4496,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "9df9924d50e3c5fcba05ac408a39e593",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Batates",
@@ -4125,6 +4508,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "a849954405297932d75e54c39388adbf",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "Masaro",
@@ -4135,6 +4519,7 @@
       "closedAt": "2026-09-04T22:23:43.645Z"
     },
     {
+      "gameId": "ccdc12af624632bce9f8a3301fa7905d",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "",
@@ -4145,6 +4530,7 @@
       "closedAt": "2026-07-18T20:15:32.780Z"
     },
     {
+      "gameId": "a9021063d88641b42df4550c20a7617d",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "",
@@ -4155,6 +4541,7 @@
       "closedAt": "2026-07-18T21:19:14.514Z"
     },
     {
+      "gameId": "7d3b438e5f3af74237af19fbf70586d2",
       "roomId": "sabrina",
       "roomName": "Sabrina",
       "teamName": "",
@@ -4167,6 +4554,7 @@
   ],
   "marionettes": [
     {
+      "gameId": "8a3487412f4ff0cea301b668dc716bdf",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "مااا",
@@ -4178,6 +4566,7 @@
       "bookingDate": "2026-08-16"
     },
     {
+      "gameId": "00aab4e5bd16a6e96c99fb8cdc6d8a51",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "",
@@ -4188,6 +4577,7 @@
       "closedAt": "2026-08-24T21:35:21.541Z"
     },
     {
+      "gameId": "009855c764a741f251e5f8480ed39a30",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "TKNA",
@@ -4199,6 +4589,7 @@
       "bookingDate": "2026-09-05"
     },
     {
+      "gameId": "792aa67b784ca762a49cabbda22489a7",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Ftj",
@@ -4210,6 +4601,7 @@
       "bookingDate": "2026-09-09"
     },
     {
+      "gameId": "416b0d84107b9613104f625b1d4384b3",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Cousins+hasan",
@@ -4220,6 +4612,7 @@
       "closedAt": "2026-08-07T16:13:52.717Z"
     },
     {
+      "gameId": "85c9a97a248a3f9b7b1a95f45e4965f6",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Marwan",
@@ -4231,6 +4624,7 @@
       "bookingDate": "2026-08-16"
     },
     {
+      "gameId": "4e86655ea5609b876723b420f534bdb2",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "",
@@ -4241,6 +4635,7 @@
       "closedAt": "2026-08-24T22:10:05.762Z"
     },
     {
+      "gameId": "85ebb4a25a9c4535d67c72b9cafa85e2",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "كجس",
@@ -4252,6 +4647,7 @@
       "bookingDate": "2026-09-05"
     },
     {
+      "gameId": "f99a70cce2064552795ded0934b02c78",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Ferqet 7amo beka",
@@ -4263,6 +4659,7 @@
       "bookingDate": "2026-09-09"
     },
     {
+      "gameId": "c37aff1c4f4eab9bdb2c0c930fefc077",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "No. 1",
@@ -4273,6 +4670,7 @@
       "closedAt": "2026-08-07T17:10:56.160Z"
     },
     {
+      "gameId": "59a70038e39693973da0bc88389700ec",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Gangg",
@@ -4284,6 +4682,7 @@
       "bookingDate": "2026-08-16"
     },
     {
+      "gameId": "5f39222eb2651417d6c2c850483cf8b3",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Youssef",
@@ -4294,6 +4693,7 @@
       "closedAt": "2026-08-25T16:21:31.598Z"
     },
     {
+      "gameId": "5f27af6c17613016ab59848791ba6612",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Team El niggers",
@@ -4305,6 +4705,7 @@
       "bookingDate": "2026-09-05"
     },
     {
+      "gameId": "f4f2fadd016a222e6790246865d33280",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Tranzobr",
@@ -4316,6 +4717,7 @@
       "bookingDate": "2026-09-09"
     },
     {
+      "gameId": "57cda9ef63ad593a5812b28f5ca2e128",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Bvrez",
@@ -4326,6 +4728,7 @@
       "closedAt": "2026-08-07T18:12:17.429Z"
     },
     {
+      "gameId": "e0fe4e975850b30a0055e8b6672114a9",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Koushary",
@@ -4337,6 +4740,7 @@
       "bookingDate": "2026-08-16"
     },
     {
+      "gameId": "e0d94e632ddd63e33d58a7c9bf6a0074",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Yaluwy",
@@ -4347,6 +4751,7 @@
       "closedAt": "2026-08-25T18:02:18.593Z"
     },
     {
+      "gameId": "272088d820ee3d1c6f760e7630cc823c",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Rcis",
@@ -4358,6 +4763,7 @@
       "bookingDate": "2026-09-05"
     },
     {
+      "gameId": "a52ab8117008635f5e0e9546ab6a76ca",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Kofta",
@@ -4369,6 +4775,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "c09eb60bf2ed85d16505bb43466fa796",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "D&y",
@@ -4379,6 +4786,7 @@
       "closedAt": "2026-08-07T19:14:15.270Z"
     },
     {
+      "gameId": "47c5767ad6ab598bc40d612f102bd9d6",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Paradox escapers",
@@ -4390,6 +4798,7 @@
       "bookingDate": "2026-08-16"
     },
     {
+      "gameId": "292e0b86fe7cdce341528e1c25aeed98",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Jaydah",
@@ -4400,6 +4809,7 @@
       "closedAt": "2026-08-25T19:15:16.159Z"
     },
     {
+      "gameId": "cfea01e14ee8e63d6bf3890648950baf",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Refa3y",
@@ -4411,6 +4821,7 @@
       "bookingDate": "2026-09-05"
     },
     {
+      "gameId": "19c6b5ad8dcad0b96b01918c2291e991",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Brouj friends",
@@ -4422,6 +4833,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "53650c08a0d153120fe4f201c810210d",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "The  king",
@@ -4432,6 +4844,7 @@
       "closedAt": "2026-08-07T20:17:04.337Z"
     },
     {
+      "gameId": "fe0bd91b0c723f7f1cf5d5fc192f693b",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Etar",
@@ -4442,6 +4855,7 @@
       "closedAt": "2026-08-16T22:25:50.574Z"
     },
     {
+      "gameId": "2a4d8ead31415c601cc9e242db993af2",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Kmyd",
@@ -4453,6 +4867,7 @@
       "bookingDate": "2026-08-25"
     },
     {
+      "gameId": "08826cc569c9d75617e05dc75e2662d8",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "3ala allah",
@@ -4464,6 +4879,7 @@
       "bookingDate": "2026-09-06"
     },
     {
+      "gameId": "6da5386b58268ad298f413666629ee86",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Ggg",
@@ -4475,6 +4891,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "c140b24c0d86ac0e02c2f4d439d581fe",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Pro club",
@@ -4485,6 +4902,7 @@
       "closedAt": "2026-08-07T21:15:58.398Z"
     },
     {
+      "gameId": "c35cc4f6463bbba8a5c2f55181cde4ae",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Bodi surprised",
@@ -4496,6 +4914,7 @@
       "bookingDate": "2026-08-17"
     },
     {
+      "gameId": "30f0c608049786d986b084436fe9fbfa",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Cousins",
@@ -4507,6 +4926,7 @@
       "bookingDate": "2026-08-25"
     },
     {
+      "gameId": "00284155bd522c9b1f9b854e2ea9e168",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "5leha 3la allah",
@@ -4517,6 +4937,7 @@
       "closedAt": "2026-09-06T16:29:24.695Z"
     },
     {
+      "gameId": "3ce19d755f87f94c85d712def9ae73fa",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "McDonalds",
@@ -4528,6 +4949,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "d138043f6a53a15b6339a2d0ba7f66e8",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "El. Fager",
@@ -4538,6 +4960,7 @@
       "closedAt": "2026-08-07T22:25:36.638Z"
     },
     {
+      "gameId": "2e743685a61492bf0700185d7ba41838",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Zozo",
@@ -4549,6 +4972,7 @@
       "bookingDate": "2026-08-17"
     },
     {
+      "gameId": "12d9e02307edd4251b8b38437a331828",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "The little gang",
@@ -4560,6 +4984,7 @@
       "bookingDate": "2026-08-26"
     },
     {
+      "gameId": "cc7faf3c62fc599a77ba759118b703a6",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "The better team",
@@ -4571,6 +4996,7 @@
       "bookingDate": "2026-09-06"
     },
     {
+      "gameId": "fdd9d8d2e7c9eb3f79b9749276f3f3f2",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Shabab galleria",
@@ -4582,6 +5008,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "6ae293133bdadc33241c9feeeca9217f",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Hanna",
@@ -4593,6 +5020,7 @@
       "bookingDate": "2026-08-26"
     },
     {
+      "gameId": "5f6c9667c1c60ba8ce5c368e24223011",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Tota",
@@ -4604,6 +5032,7 @@
       "bookingDate": "2026-09-06"
     },
     {
+      "gameId": "438eddfcffe64533cb8887c181b833b5",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "زياد و شوين ناس كده",
@@ -4614,6 +5043,7 @@
       "closedAt": "2026-09-10T22:11:47.691Z"
     },
     {
+      "gameId": "07f09c3fdfe07f6820d8559dd2d1670e",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Domz w Som3a w El akhearen",
@@ -4624,6 +5054,7 @@
       "closedAt": "2026-08-02T19:54:21.201Z"
     },
     {
+      "gameId": "999f7c3698877bd9472619512316b714",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Fuck",
@@ -4634,6 +5065,7 @@
       "closedAt": "2026-08-08T18:02:50.315Z"
     },
     {
+      "gameId": "9cc6e5d8aa6f31e63fd56e51be8ec000",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "كردي بري",
@@ -4645,6 +5077,7 @@
       "bookingDate": "2026-08-18"
     },
     {
+      "gameId": "e6503f8ab94a616f820df250973b36d4",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "M3rfsh",
@@ -4656,6 +5089,7 @@
       "bookingDate": "2026-08-26"
     },
     {
+      "gameId": "b5ad6fd8c33d5612e16812d1d14932e8",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Soso",
@@ -4667,6 +5101,7 @@
       "bookingDate": "2026-09-07"
     },
     {
+      "gameId": "8f7e6e3f3c3fc34c3ded6541bc42a009",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "JJS",
@@ -4677,6 +5112,7 @@
       "closedAt": "2026-09-11T15:31:26.452Z"
     },
     {
+      "gameId": "9181d29434245f3e06bd87d36705c57e",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Bam bam",
@@ -4688,6 +5124,7 @@
       "bookingDate": "2026-09-11"
     },
     {
+      "gameId": "e2ff49e5df59d76983b9cbab306d93c5",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Fighter Larpers",
@@ -4699,6 +5136,7 @@
       "bookingDate": "2026-08-27"
     },
     {
+      "gameId": "8cf85dce4294fbc8ebc3789d959de35a",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "TO. Z",
@@ -4709,6 +5147,7 @@
       "closedAt": "2026-09-07T16:03:49.805Z"
     },
     {
+      "gameId": "a1a0e74d7a8f8d083d64f156c8121db7",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Skibidi",
@@ -4720,6 +5159,7 @@
       "bookingDate": "2026-09-11"
     },
     {
+      "gameId": "74a2201e140046b0a73e2e81b3fd7794",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Bun buns tean",
@@ -4731,6 +5171,7 @@
       "bookingDate": "2026-09-11"
     },
     {
+      "gameId": "6269bbb53fb16b75847885b20efa3d91",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Bastawesy's",
@@ -4741,6 +5182,7 @@
       "closedAt": "2026-08-18T21:58:30.396Z"
     },
     {
+      "gameId": "1a5f20aa79e940585cfc37d21a3e396c",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Edraboona",
@@ -4752,6 +5194,7 @@
       "bookingDate": "2026-08-27"
     },
     {
+      "gameId": "0412dd457fa932bb41d4174ccb594313",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Hg & Co",
@@ -4763,6 +5206,7 @@
       "bookingDate": "2026-09-07"
     },
     {
+      "gameId": "5fd32411e233a2c1cc2fe0fb75627dd6",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Regala w barbary",
@@ -4774,6 +5218,7 @@
       "bookingDate": "2026-09-11"
     },
     {
+      "gameId": "0a44e0d861a14fbbe5f52cf74d6fb7af",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Elmohandseen",
@@ -4785,6 +5230,7 @@
       "bookingDate": "2026-08-19"
     },
     {
+      "gameId": "ba5526cbb6406f4e62a768fb09d70ce8",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Abo selim. Gasser",
@@ -4796,6 +5242,7 @@
       "bookingDate": "2026-08-27"
     },
     {
+      "gameId": "6453cdb0ffde11dadf4a8af7e586dbe7",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Yohhhh",
@@ -4807,6 +5254,7 @@
       "bookingDate": "2026-09-08"
     },
     {
+      "gameId": "d2bb2f775c85baf4e909157f02bf0700",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Gang",
@@ -4818,6 +5266,7 @@
       "bookingDate": "2026-09-11"
     },
     {
+      "gameId": "e86fd84fb678dbbf8495878bd34fc398",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Gims",
@@ -4829,6 +5278,7 @@
       "bookingDate": "2026-08-19"
     },
     {
+      "gameId": "f33e80f870676b0943db24bd44fafa63",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Amd",
@@ -4840,6 +5290,7 @@
       "bookingDate": "2026-08-27"
     },
     {
+      "gameId": "e5b5091d653afd6e854f8c4121ab295e",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Ahmed",
@@ -4851,6 +5302,7 @@
       "bookingDate": "2026-09-08"
     },
     {
+      "gameId": "8c5fcd15336770606773906b7f799fe2",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Academics",
@@ -4862,6 +5314,7 @@
       "bookingDate": "2026-09-12"
     },
     {
+      "gameId": "f0b8eed49ff73bd15c2f1c6cb52f31ff",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Mammys",
@@ -4872,6 +5325,7 @@
       "closedAt": "2026-08-04T18:08:54.785Z"
     },
     {
+      "gameId": "c21ddce316cf5022da427361e2651d6f",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Pipi",
@@ -4882,6 +5336,7 @@
       "closedAt": "2026-08-09T16:02:06.239Z"
     },
     {
+      "gameId": "d7e734f56e0981bfb0d117a0e3daee23",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Get clapped",
@@ -4893,6 +5348,7 @@
       "bookingDate": "2026-08-19"
     },
     {
+      "gameId": "1aab381f07da0856b3dc7396158abcd8",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Tageldin",
@@ -4903,6 +5359,7 @@
       "closedAt": "2026-08-27T21:05:12.477Z"
     },
     {
+      "gameId": "5114de2d3dbd6480181cf9354aac1843",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "El moghaden",
@@ -4914,6 +5371,7 @@
       "bookingDate": "2026-09-12"
     },
     {
+      "gameId": "a92628d354ae1d2bccbc48655deaaf5a",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Team KG",
@@ -4925,6 +5383,7 @@
       "bookingDate": "2026-09-12"
     },
     {
+      "gameId": "66a835c9621070441b7eafe83de1dac0",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Escapers",
@@ -4935,6 +5394,7 @@
       "closedAt": "2026-08-04T20:21:58.801Z"
     },
     {
+      "gameId": "69bc6a67914c329c2af3903c9b4f8af1",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Lola",
@@ -4945,6 +5405,7 @@
       "closedAt": "2026-08-09T18:10:16.406Z"
     },
     {
+      "gameId": "18e8e3f766d7aa6ba290dc91cc8e699b",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Mo7a",
@@ -4956,6 +5417,7 @@
       "bookingDate": "2026-08-19"
     },
     {
+      "gameId": "d8dd5354442a37476add371c1efb8edd",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Tuff squad",
@@ -4967,6 +5429,7 @@
       "bookingDate": "2026-08-28"
     },
     {
+      "gameId": "db74d5f45e0ac71bf3da761285ce749a",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Aura",
@@ -4978,6 +5441,7 @@
       "bookingDate": "2026-09-12"
     },
     {
+      "gameId": "aea837b23d02ca781b8dadb89d948242",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "El da3m El sare3",
@@ -4988,6 +5452,7 @@
       "closedAt": "2026-08-04T21:19:32.850Z"
     },
     {
+      "gameId": "149aa40cea3750e657ba5dbdfbeec79a",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Shehata's",
@@ -4998,6 +5463,7 @@
       "closedAt": "2026-08-09T19:16:01.562Z"
     },
     {
+      "gameId": "f9cb4fea40710971b710ef0526f2f4e1",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Moza",
@@ -5009,6 +5475,7 @@
       "bookingDate": "2026-08-20"
     },
     {
+      "gameId": "7b7e0cb75cce0ea1f720d283581f6f82",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Mmm bobbys",
@@ -5020,6 +5487,7 @@
       "bookingDate": "2026-08-28"
     },
     {
+      "gameId": "9c20f29f5481f59c5bb918d6ef90fcfb",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "GNSY",
@@ -5031,6 +5499,7 @@
       "bookingDate": "2026-09-13"
     },
     {
+      "gameId": "06d60761ec014fe622cef0a60452065f",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "",
@@ -5041,6 +5510,7 @@
       "closedAt": "2026-08-21T13:04:20.231Z"
     },
     {
+      "gameId": "5b7cf4f23b82e2f44675270c4e59d11a",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Hero team",
@@ -5051,6 +5521,7 @@
       "closedAt": "2026-08-28T17:10:25.072Z"
     },
     {
+      "gameId": "2da04d8e3fa8fbc89e586e67667beb53",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Hemely",
@@ -5062,6 +5533,7 @@
       "bookingDate": "2026-09-13"
     },
     {
+      "gameId": "ddda8a891da27760c66431710cf39d30",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "الجحيم",
@@ -5072,6 +5544,7 @@
       "closedAt": "2026-08-05T19:00:30.124Z"
     },
     {
+      "gameId": "fd48652045a125c373b313d3488c8d0f",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "",
@@ -5083,6 +5556,7 @@
       "bookingDate": "2026-08-09"
     },
     {
+      "gameId": "8e66d0d54f429d2c3284dc53f5bfed29",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Asnan",
@@ -5093,6 +5567,7 @@
       "closedAt": "2026-08-21T14:23:41.157Z"
     },
     {
+      "gameId": "2aac13392ef5cde3e99332e52f9e99ff",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "The crousty",
@@ -5104,6 +5579,7 @@
       "bookingDate": "2026-08-28"
     },
     {
+      "gameId": "b3cd25cf928d7acb8ac65bf72a66759d",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "ENGINEERING FYE 26'",
@@ -5115,6 +5591,7 @@
       "bookingDate": "2026-09-13"
     },
     {
+      "gameId": "6ee0c4e778ea3f0cd418b064230dea25",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "7arnkash",
@@ -5125,6 +5602,7 @@
       "closedAt": "2026-08-05T21:04:01.110Z"
     },
     {
+      "gameId": "1606914cfff6d4735c1851a03eb625d1",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Farida&Jannah",
@@ -5136,6 +5614,7 @@
       "bookingDate": "2026-08-09"
     },
     {
+      "gameId": "e37a1b52547d297db4878364d9461daa",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Helmy",
@@ -5146,6 +5625,7 @@
       "closedAt": "2026-08-21T17:31:58.683Z"
     },
     {
+      "gameId": "83a67217b33e6a47d747eb0c1dc30017",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "مثلث القاهرة 😉 🇪🇬",
@@ -5157,6 +5637,7 @@
       "bookingDate": "2026-08-28"
     },
     {
+      "gameId": "88a01c227d5808ad8250d2fce6e344a5",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Hafsa",
@@ -5168,6 +5649,7 @@
       "bookingDate": "2026-09-14"
     },
     {
+      "gameId": "39dae97e4c49e077c87e0cd537d2536d",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "RX",
@@ -5178,6 +5660,7 @@
       "closedAt": "2026-08-05T22:11:42.424Z"
     },
     {
+      "gameId": "074eb52a633d34042e3c6551d3e22ea6",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Bakaboza",
@@ -5189,6 +5672,7 @@
       "bookingDate": "2026-08-10"
     },
     {
+      "gameId": "31b639476b69c6bb1ed3658ddb2eb5a5",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Hamza tamer",
@@ -5200,6 +5684,7 @@
       "bookingDate": "2026-08-21"
     },
     {
+      "gameId": "f53053cb37c393f4814bde46b1a96bf4",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Team youssef",
@@ -5211,6 +5696,7 @@
       "bookingDate": "2026-08-28"
     },
     {
+      "gameId": "c29016a49c0e5aa140bc220abed50afa",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Les foux",
@@ -5221,6 +5707,7 @@
       "closedAt": "2026-09-14T20:56:54.620Z"
     },
     {
+      "gameId": "b891a74350173c5173205d2395b4520c",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Maha",
@@ -5231,6 +5718,7 @@
       "closedAt": "2026-08-06T17:04:28.849Z"
     },
     {
+      "gameId": "92a283f8ea7d0f067021f1ff5be84921",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Karim fam",
@@ -5241,6 +5729,7 @@
       "closedAt": "2026-08-10T16:09:49.206Z"
     },
     {
+      "gameId": "b99dad9f282ceb65462796f9344543cf",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "بنات رشا",
@@ -5251,6 +5740,7 @@
       "closedAt": "2026-08-22T14:35:37.654Z"
     },
     {
+      "gameId": "819c6c1ac7ef00b8591322c453d40f88",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "67 trippel t",
@@ -5261,6 +5751,7 @@
       "closedAt": "2026-08-29T03:42:23.438Z"
     },
     {
+      "gameId": "d5af295eea14e0621c73feb655d41fd2",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Lgnd",
@@ -5272,6 +5763,7 @@
       "bookingDate": "2026-09-15"
     },
     {
+      "gameId": "d6e0a7add23e42b1b3d83d0c69be5bd1",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Maaa",
@@ -5282,6 +5774,7 @@
       "closedAt": "2026-08-06T18:06:59.740Z"
     },
     {
+      "gameId": "cc6312c08d2aa84881a3b581c259f913",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Bluesky",
@@ -5293,6 +5786,7 @@
       "bookingDate": "2026-08-10"
     },
     {
+      "gameId": "02049624938894e7a387daa97aecd36c",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Kylo",
@@ -5304,6 +5798,7 @@
       "bookingDate": "2026-08-22"
     },
     {
+      "gameId": "58042d79a877e7f63df2c6bd91bbffcf",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Aya",
@@ -5314,6 +5809,7 @@
       "closedAt": "2026-08-29T06:08:43.393Z"
     },
     {
+      "gameId": "a1171715a8106383381a7fee495af75c",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Funkies",
@@ -5325,6 +5821,7 @@
       "bookingDate": "2026-09-15"
     },
     {
+      "gameId": "9a6c9b4a4642fbd8010d664975d1b83c",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Kmaamd",
@@ -5336,6 +5833,7 @@
       "bookingDate": "2026-08-10"
     },
     {
+      "gameId": "93ae233beadae319074535d91e0d032a",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Gp",
@@ -5347,6 +5845,7 @@
       "bookingDate": "2026-08-22"
     },
     {
+      "gameId": "fd16316b31bffc8be9b8edfbb4b24a77",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "El pyramidswya",
@@ -5357,6 +5856,7 @@
       "closedAt": "2026-08-29T18:54:07.212Z"
     },
     {
+      "gameId": "977d30d4a68239c78d7ec80c7b4892af",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "الخوافين",
@@ -5368,6 +5868,7 @@
       "bookingDate": "2026-09-15"
     },
     {
+      "gameId": "8fd3c2d73f07ce16b928770febd11e20",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Sefelek",
@@ -5378,6 +5879,7 @@
       "closedAt": "2026-08-06T20:09:59.841Z"
     },
     {
+      "gameId": "0f3572e49af56ae844885b6da9126155",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "B",
@@ -5389,6 +5891,7 @@
       "bookingDate": "2026-08-10"
     },
     {
+      "gameId": "39b4e41d17e5e059224afb00e5a38c0b",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Yalla bena",
@@ -5400,6 +5903,7 @@
       "bookingDate": "2026-08-22"
     },
     {
+      "gameId": "946819424011af9e4c9df5859d9c7269",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "",
@@ -5410,6 +5914,7 @@
       "closedAt": "2026-08-29T19:18:49.881Z"
     },
     {
+      "gameId": "eafc053a8cd96efcb65993aaa2a18279",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Rftll",
@@ -5421,6 +5926,7 @@
       "bookingDate": "2026-09-16"
     },
     {
+      "gameId": "e0fe27a980ac28dca9546e8b18d48f50",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Diddy",
@@ -5431,6 +5937,7 @@
       "closedAt": "2026-08-06T21:11:37.755Z"
     },
     {
+      "gameId": "92d339c5de3227ff729334dcb2660b3d",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Alawlaqi",
@@ -5442,6 +5949,7 @@
       "bookingDate": "2026-08-10"
     },
     {
+      "gameId": "78a933c0338d35343fa277642808a53c",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "She no wl 3eyal",
@@ -5453,6 +5961,7 @@
       "bookingDate": "2026-08-22"
     },
     {
+      "gameId": "133b28babac54720b490b44c70380d8a",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Abuhiss",
@@ -5464,6 +5973,7 @@
       "bookingDate": "2026-08-29"
     },
     {
+      "gameId": "cf05e00db3e602b8e6b54794326f816f",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Bzznality🍑🍆💦💦💦",
@@ -5475,6 +5985,7 @@
       "bookingDate": "2026-09-16"
     },
     {
+      "gameId": "977769c50033125cc5bca13e2318601e",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Jaban",
@@ -5485,6 +5996,7 @@
       "closedAt": "2026-08-06T22:24:03.784Z"
     },
     {
+      "gameId": "477960177639d95922cbcef3b8c963b5",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "FMAH",
@@ -5496,6 +6008,7 @@
       "bookingDate": "2026-08-10"
     },
     {
+      "gameId": "4f6d7362518527dc92e0c72846c8a6c0",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Malagat",
@@ -5507,6 +6020,7 @@
       "bookingDate": "2026-08-22"
     },
     {
+      "gameId": "7a15449d28555e6b616bd1dc84563b95",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Chilling",
@@ -5517,6 +6031,7 @@
       "closedAt": "2026-08-30T14:04:58.743Z"
     },
     {
+      "gameId": "83ee705969066285eede6db45d03a5eb",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Odai",
@@ -5528,6 +6043,7 @@
       "bookingDate": "2026-09-16"
     },
     {
+      "gameId": "1d1cba023216259bc8e4cbe81f086c4a",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Family horror",
@@ -5539,6 +6055,7 @@
       "bookingDate": "2026-08-11"
     },
     {
+      "gameId": "ee8adec14d538792f1334f444da271aa",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "El fagreen",
@@ -5550,6 +6067,7 @@
       "bookingDate": "2026-08-23"
     },
     {
+      "gameId": "ea9481ea25f7efc116ebca2056a55f1e",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Locaz",
@@ -5561,6 +6079,7 @@
       "bookingDate": "2026-08-30"
     },
     {
+      "gameId": "779c6bc9b2a25c49c1f3544ca36decd0",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "El gamdeen",
@@ -5572,6 +6091,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "a62b8a2741389b88cebc3d7cb63961a0",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Yala",
@@ -5583,6 +6103,7 @@
       "bookingDate": "2026-08-30"
     },
     {
+      "gameId": "89107691c004366f9ca718ac0b80873a",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Ashba7 paradox",
@@ -5594,6 +6115,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "d4f3a7d07f9bba69e2430bc229fb7f0b",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Elzoz",
@@ -5605,6 +6127,7 @@
       "bookingDate": "2026-08-30"
     },
     {
+      "gameId": "cf71ab9c32c75d2dfc1c8913869a29dd",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Oasis",
@@ -5616,6 +6139,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "956549a8e4064c6ac8819b8299a9b1ba",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Zed",
@@ -5627,6 +6151,7 @@
       "bookingDate": "2026-08-11"
     },
     {
+      "gameId": "d9d9e74a738b70ffd2a52b7668f89028",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Bekeeper",
@@ -5637,6 +6162,7 @@
       "closedAt": "2026-08-23T14:11:40.733Z"
     },
     {
+      "gameId": "3278f0402cba53c1f8afe52c8f623c15",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Kda bga",
@@ -5648,6 +6174,7 @@
       "bookingDate": "2026-08-30"
     },
     {
+      "gameId": "1b1e1cd359fd894c1937ae0bf56ce4a3",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Gng",
@@ -5659,6 +6186,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "a972ece1eb3bc71b6dcfc3a9aa1595e6",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Habib din omy",
@@ -5670,6 +6198,7 @@
       "bookingDate": "2026-08-11"
     },
     {
+      "gameId": "2b4df6cdbac562209ef4f13df5770b28",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "3elet Bazabeezo",
@@ -5681,6 +6210,7 @@
       "bookingDate": "2026-08-23"
     },
     {
+      "gameId": "0ea394cb3c1d01c4dbf04862e9eb6b2a",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Mohamed",
@@ -5692,6 +6222,7 @@
       "bookingDate": "2026-08-31"
     },
     {
+      "gameId": "69e543ac83e51a7ce3389b58d4f683e3",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Epstein recruites",
@@ -5703,6 +6234,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "5d05da9bc4737d20f9c43d53cc79e68f",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Bazabeezo",
@@ -5714,6 +6246,7 @@
       "bookingDate": "2026-08-23"
     },
     {
+      "gameId": "0ecfd51dee7938ecc0ca2ef7bb88ad81",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Tia",
@@ -5725,6 +6258,7 @@
       "bookingDate": "2026-08-31"
     },
     {
+      "gameId": "b3738da45f483070a48a786d80089487",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Dttdyth",
@@ -5736,6 +6270,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "efadac9bf920872c9a866415ab2ef17f",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Burgerssssssss",
@@ -5746,6 +6281,7 @@
       "closedAt": "2026-08-12T17:01:09.929Z"
     },
     {
+      "gameId": "5ac15d08b5f427d91ee05802f6581127",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Gang",
@@ -5757,6 +6293,7 @@
       "bookingDate": "2026-08-23"
     },
     {
+      "gameId": "8324085013d5e6526cccaf3b428a0002",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Nails",
@@ -5768,6 +6305,7 @@
       "bookingDate": "2026-08-31"
     },
     {
+      "gameId": "d26b739670f1dddb37b25c4d3aba2103",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "الحريفه",
@@ -5779,6 +6317,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "2c740d8490cffc1d04b1128090abfd3c",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "S ft yuuoi",
@@ -5790,6 +6329,7 @@
       "bookingDate": "2026-08-12"
     },
     {
+      "gameId": "b149d5f64e08f27320d8bc6b0f911a4e",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Gayar",
@@ -5801,6 +6341,7 @@
       "bookingDate": "2026-08-23"
     },
     {
+      "gameId": "4eb41f10e1a2d46f190e278658880b2b",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Karim",
@@ -5812,6 +6353,7 @@
       "bookingDate": "2026-08-31"
     },
     {
+      "gameId": "c3bc4056cf5a414c031111f9cb91db4d",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Stars",
@@ -5823,6 +6365,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "3f88fe20999087910fb0e7106a46194b",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "3ezbet Jayjay",
@@ -5834,6 +6377,7 @@
       "bookingDate": "2026-08-31"
     },
     {
+      "gameId": "9cb3d60f1904723893b985a6b41157df",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Hussien",
@@ -5845,6 +6389,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "0d325f31af3fe8910fdb14c8d026dee4",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Lag2een",
@@ -5855,6 +6400,7 @@
       "closedAt": "2026-08-12T19:58:48.219Z"
     },
     {
+      "gameId": "6133b2afd884e2c2b761fb7a373d846b",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "67",
@@ -5865,6 +6411,7 @@
       "closedAt": "2026-08-24T14:01:28.943Z"
     },
     {
+      "gameId": "988e3c95a460b59d19703f61fc01ce36",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Milkcheke",
@@ -5876,6 +6423,7 @@
       "bookingDate": "2026-09-01"
     },
     {
+      "gameId": "ad6e65b90f3dbac7f5df7e2d2f98f46e",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Raghad",
@@ -5886,6 +6434,7 @@
       "closedAt": "2026-09-18T17:26:06.052Z"
     },
     {
+      "gameId": "33b593d7e40b5096161fc3e5fc7e1b08",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Way.to fatooh",
@@ -5897,6 +6446,7 @@
       "bookingDate": "2026-08-13"
     },
     {
+      "gameId": "3a8374edbaefda13cbdb8f4de28ffa96",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Palestine",
@@ -5908,6 +6458,7 @@
       "bookingDate": "2026-08-24"
     },
     {
+      "gameId": "945bf55bdb24cbf80d437946217e2058",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Domz w Som3a w El tanyen",
@@ -5919,6 +6470,7 @@
       "bookingDate": "2026-09-01"
     },
     {
+      "gameId": "76cd7d36448d275e16a5834eb0bab97c",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Cool kids",
@@ -5929,6 +6481,7 @@
       "closedAt": "2026-09-18T18:53:00.770Z"
     },
     {
+      "gameId": "54ed40ed68340382b74ea97d84ae95fe",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Eteyaz🍆🍆🍑🍑🍑🍑💦💦💦🖕🖕",
@@ -5940,6 +6493,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "3d81556a2d3e2dc6e3130e69cf483bd6",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Tigers",
@@ -5951,6 +6505,7 @@
       "bookingDate": "2026-09-19"
     },
     {
+      "gameId": "25819105c2877edbfca0535ad63f64fc",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "جيم",
@@ -5961,6 +6516,7 @@
       "closedAt": "2026-09-02T15:09:09.965Z"
     },
     {
+      "gameId": "dd1c3457550dfcce2d832da9c735073e",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "The neighbors",
@@ -5972,6 +6528,7 @@
       "bookingDate": "2026-09-19"
     },
     {
+      "gameId": "6d4553adb92deb9b231c041bdba1bec3",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Power",
@@ -5982,6 +6539,7 @@
       "closedAt": "2026-08-13T22:03:49.570Z"
     },
     {
+      "gameId": "8e2a42f35135545c7afad6a5df7f4a57",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Aflfa",
@@ -5993,6 +6551,7 @@
       "bookingDate": "2026-09-02"
     },
     {
+      "gameId": "19bba73db2cfa7a6b4f3082484681185",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Team Dalal",
@@ -6004,6 +6563,7 @@
       "bookingDate": "2026-08-14"
     },
     {
+      "gameId": "e467e023078ead2adda29faedf6e52af",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Gay niggers",
@@ -6015,6 +6575,7 @@
       "bookingDate": "2026-09-02"
     },
     {
+      "gameId": "6c85c5032986a501eaa3d7b7a09f3b4c",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Moha",
@@ -6026,6 +6587,7 @@
       "bookingDate": "2026-08-14"
     },
     {
+      "gameId": "72cf5069962d339d2e6ef5e7f95e3cf1",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Elashbah",
@@ -6037,6 +6599,7 @@
       "bookingDate": "2026-09-02"
     },
     {
+      "gameId": "6c4627d313b53930590ac9427da7afa4",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "The 4 pact",
@@ -6048,6 +6611,7 @@
       "bookingDate": "2026-08-14"
     },
     {
+      "gameId": "fd1d5ac2a77f6e2ba637785a2bbd3e41",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Dominican papis",
@@ -6059,6 +6623,7 @@
       "bookingDate": "2026-09-02"
     },
     {
+      "gameId": "bd86e8a1fabe9d961730d84d7224adc0",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Zero IQ",
@@ -6070,6 +6635,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "d42e5dc75f569eb2e5041268cd73c038",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Best family",
@@ -6081,6 +6647,7 @@
       "bookingDate": "2026-08-14"
     },
     {
+      "gameId": "b09e6d2bd2ef1b02a2332cdc63f52820",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Conan",
@@ -6091,6 +6658,7 @@
       "closedAt": "2026-09-03T14:52:28.484Z"
     },
     {
+      "gameId": "a55d5573b7a507e1245eb7e56c6f6ad9",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Lmd",
@@ -6102,6 +6670,7 @@
       "bookingDate": "2026-08-14"
     },
     {
+      "gameId": "508596a7b696eb30a453a3c186aa4919",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Tuffest gc",
@@ -6113,6 +6682,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "1b92544c9e4f99326b45202571ea3f12",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Znaga",
@@ -6124,6 +6694,7 @@
       "bookingDate": "2026-08-15"
     },
     {
+      "gameId": "72f611fb9012ec98e0abb021058144d7",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "💩💩💩💩💩💩💩💩",
@@ -6135,6 +6706,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "83a5700b888fb2fe59bbdb17e25df373",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "3laa Allah insha2allah",
@@ -6146,6 +6718,7 @@
       "bookingDate": "2026-08-15"
     },
     {
+      "gameId": "7dde57c48f14adb103c21425b2f483b9",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "لمونه",
@@ -6156,6 +6729,7 @@
       "closedAt": "2026-09-03T18:02:21.854Z"
     },
     {
+      "gameId": "813e99520a20195ae1f89e8e185128fb",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Jtnztkz",
@@ -6167,6 +6741,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "6ccbf7aea98fb78c832d5dbbb613326c",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Elga3an",
@@ -6178,6 +6753,7 @@
       "bookingDate": "2026-08-15"
     },
     {
+      "gameId": "833613912b25e12ea85f17b1a41f1077",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Pure 2",
@@ -6188,6 +6764,7 @@
       "closedAt": "2026-09-03T20:08:45.340Z"
     },
     {
+      "gameId": "ab2c738a2dd2d2910f8c11ba5bb8c014",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Fahd",
@@ -6199,6 +6776,7 @@
       "bookingDate": "2026-08-16"
     },
     {
+      "gameId": "8c7d86ac24bf2d710d8c95be337f4add",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "4 dogs",
@@ -6210,6 +6788,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "b8bf688d3ee999910fc12f13b26c1dad",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Brinkies",
@@ -6221,6 +6800,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "02fc986dbb0f21bd1a1035b65f7bc5a1",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Tifa fc",
@@ -6232,6 +6812,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "e62e861f75138c63281379332b00393b",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Egyptian Kings",
@@ -6243,6 +6824,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "dad88786730d4f4dea0ca716841dc5e8",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "El Morshedy",
@@ -6254,6 +6836,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "1d1bd26544ed14ab1b0d9b4af420339e",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "Gooners",
@@ -6265,6 +6848,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "a7c3e6ccb8ab5f6aef7389f613d48844",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "",
@@ -6275,6 +6859,7 @@
       "closedAt": "2026-09-04T22:17:33.009Z"
     },
     {
+      "gameId": "42e0c3aabc2933b5bda9f41c895495d8",
       "roomId": "marionettes",
       "roomName": "Marionettes",
       "teamName": "",
@@ -6287,6 +6872,7 @@
   ],
   "alcatraz": [
     {
+      "gameId": "cbc46a052c71c3ba4e47d6c5f3f8de4f",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "the chaos",
@@ -6297,6 +6883,7 @@
       "closedAt": "2026-08-25T17:06:38.654Z"
     },
     {
+      "gameId": "03dd9d787ed8894fea82ee79a1b9545c",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "عرسان الجنة",
@@ -6308,6 +6895,7 @@
       "bookingDate": "2026-09-05"
     },
     {
+      "gameId": "bc3170dd730636a9c4071773d666420b",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Fakehat albashaer",
@@ -6319,6 +6907,7 @@
       "bookingDate": "2026-09-09"
     },
     {
+      "gameId": "62a787e2784f99cc2ef1777e9d3ad5c2",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Elite",
@@ -6329,6 +6918,7 @@
       "closedAt": "2026-08-07T19:00:19.593Z"
     },
     {
+      "gameId": "cdc41aa5729ef7ad4c55a90dbc1aaa49",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "خليها على الله",
@@ -6340,6 +6930,7 @@
       "bookingDate": "2026-08-16"
     },
     {
+      "gameId": "7936a54d0d6e781dd1d3bcadf05f2c55",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Casa",
@@ -6350,6 +6941,7 @@
       "closedAt": "2026-08-25T19:20:53.358Z"
     },
     {
+      "gameId": "4e9d22743771e1d9b3ef0aae15bd7b88",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "عشاق مطعم بلبن",
@@ -6361,6 +6953,7 @@
       "bookingDate": "2026-09-05"
     },
     {
+      "gameId": "4f25282f83cd9fb9116576ed8c51a7be",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "القفع",
@@ -6371,6 +6964,7 @@
       "closedAt": "2026-09-09T17:34:43.453Z"
     },
     {
+      "gameId": "97e4c55f2995902159d7e2c1dd8a46c7",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Reer cartan",
@@ -6381,6 +6975,7 @@
       "closedAt": "2026-08-02T17:05:35.735Z"
     },
     {
+      "gameId": "67e5e72a7d3d5affd118f3a5ff29cf09",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Sefelek",
@@ -6391,6 +6986,7 @@
       "closedAt": "2026-08-07T21:13:34.588Z"
     },
     {
+      "gameId": "262eb671c791a97abb9a13adf803a49f",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Abdullah",
@@ -6402,6 +6998,7 @@
       "bookingDate": "2026-08-16"
     },
     {
+      "gameId": "76f5053c58ec8788a15dca19210b5159",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Zomorred",
@@ -6413,6 +7010,7 @@
       "bookingDate": "2026-08-25"
     },
     {
+      "gameId": "14111c800379fc3ecbb9fb5be28f9fd2",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Bzznality 🍆💦🍑",
@@ -6424,6 +7022,7 @@
       "bookingDate": "2026-09-05"
     },
     {
+      "gameId": "5432ee54a93501815e4eb22731cc8c4a",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Aala Allah insha'allah",
@@ -6435,6 +7034,7 @@
       "bookingDate": "2026-09-09"
     },
     {
+      "gameId": "6b327b06f7972cdd07278760beb95044",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "El mesayefeen",
@@ -6446,6 +7046,7 @@
       "bookingDate": "2026-08-16"
     },
     {
+      "gameId": "9700758d98241431775f782f6d974253",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Esk",
@@ -6457,6 +7058,7 @@
       "bookingDate": "2026-08-26"
     },
     {
+      "gameId": "5a14a5f95c4e1bfdc65da55b17f80111",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Nour we shwayet Nas",
@@ -6468,6 +7070,7 @@
       "bookingDate": "2026-09-05"
     },
     {
+      "gameId": "54087922c06e29ed83d177bf6d1cec5d",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "The OGs",
@@ -6479,6 +7082,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "66cc12d7a71a14fd7197e474825af9bc",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Yuhu",
@@ -6489,6 +7093,7 @@
       "closedAt": "2026-08-02T18:58:55.945Z"
     },
     {
+      "gameId": "cb3fb81fa993ad4d6c5c3805c7e35c24",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Fashleen",
@@ -6499,6 +7104,7 @@
       "closedAt": "2026-08-07T22:27:54.991Z"
     },
     {
+      "gameId": "dc92b6906a17c666c740ed24711b9899",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Elw7osh",
@@ -6510,6 +7116,7 @@
       "bookingDate": "2026-08-16"
     },
     {
+      "gameId": "dc965c38121f54f486fea359dbf2c683",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Btats",
@@ -6521,6 +7128,7 @@
       "bookingDate": "2026-08-26"
     },
     {
+      "gameId": "528aabe9a904e754bd8d465d4febee27",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "الجركر",
@@ -6531,6 +7139,7 @@
       "closedAt": "2026-09-06T16:41:37.588Z"
     },
     {
+      "gameId": "dff8676107343c7d7b7616fb4f1e4b43",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Sherif rad",
@@ -6542,6 +7151,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "5c891f8b9f56f6b8e32186409a38e684",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Balloons",
@@ -6553,6 +7163,7 @@
       "bookingDate": "2026-09-06"
     },
     {
+      "gameId": "ef1249718f826452bafb4adfc44f5ac4",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Sfy",
@@ -6564,6 +7175,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "d3ca4a370ed9b637d88b66db2f3bb887",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Batates m7amara",
@@ -6574,6 +7186,7 @@
       "closedAt": "2026-08-02T21:09:36.941Z"
     },
     {
+      "gameId": "cb15e166d59ea97b68dadbf29ac1a357",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Skills",
@@ -6584,6 +7197,7 @@
       "closedAt": "2026-08-08T15:52:20.652Z"
     },
     {
+      "gameId": "9f9634afd652da8a5d0dcddd660c79b2",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Momos",
@@ -6594,6 +7208,7 @@
       "closedAt": "2026-08-17T17:30:57.348Z"
     },
     {
+      "gameId": "fff1537102f1263716a3dc9834a8895d",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "جيصة السدات",
@@ -6605,6 +7220,7 @@
       "bookingDate": "2026-08-27"
     },
     {
+      "gameId": "07d01292a3c2a6a91c497646975c049d",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Ninja fatties",
@@ -6616,6 +7232,7 @@
       "bookingDate": "2026-09-06"
     },
     {
+      "gameId": "39e8eb88685063b16a04e1e3f7bbee4e",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Isc",
@@ -6627,6 +7244,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "a82f4a4f9fbeb7cf22d2c856ea21b2c6",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Sooryeen",
@@ -6637,6 +7255,7 @@
       "closedAt": "2026-08-03T18:09:02.175Z"
     },
     {
+      "gameId": "7c25a72675736d573e5901aaf689bb0a",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Peaky blinders",
@@ -6647,6 +7266,7 @@
       "closedAt": "2026-08-08T17:59:32.986Z"
     },
     {
+      "gameId": "e1334487f6cb2faf0e72d263ad7cd172",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Daniel emad",
@@ -6658,6 +7278,7 @@
       "bookingDate": "2026-08-17"
     },
     {
+      "gameId": "ce9b1deec5bc3ea3ccf9c1244c158252",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "3anateel",
@@ -6669,6 +7290,7 @@
       "bookingDate": "2026-08-27"
     },
     {
+      "gameId": "514a5087402d3008f35e2ea5175d65b7",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Elmohamsheen",
@@ -6680,6 +7302,7 @@
       "bookingDate": "2026-09-06"
     },
     {
+      "gameId": "ab99109c5a217952e4689731217cbe69",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Adham ebnena",
@@ -6691,6 +7314,7 @@
       "bookingDate": "2026-09-10"
     },
     {
+      "gameId": "20909e2e8b961eee60f23a0166e39f72",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Elshikabola",
@@ -6701,6 +7325,7 @@
       "closedAt": "2026-08-03T19:16:37.204Z"
     },
     {
+      "gameId": "a4521287283c589d872cce8521968187",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Retards",
@@ -6711,6 +7336,7 @@
       "closedAt": "2026-08-08T19:02:15.046Z"
     },
     {
+      "gameId": "464b5822007b6c94d89f212df8c62ee6",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "7arnksh",
@@ -6722,6 +7348,7 @@
       "bookingDate": "2026-08-17"
     },
     {
+      "gameId": "076793ac5dc7357a8925b3d978619a8e",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Ksa",
@@ -6733,6 +7360,7 @@
       "bookingDate": "2026-08-27"
     },
     {
+      "gameId": "0bd25378356cd6f8740382969b272f04",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Niggas in paris",
@@ -6744,6 +7372,7 @@
       "bookingDate": "2026-09-06"
     },
     {
+      "gameId": "c9dacc16ff69073bd9aff02721bbdde0",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Niggas",
@@ -6755,6 +7384,7 @@
       "bookingDate": "2026-09-11"
     },
     {
+      "gameId": "bf3526ce3982d276c217a1a6610654cb",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "A7BAB diddy",
@@ -6766,6 +7396,7 @@
       "bookingDate": "2026-09-11"
     },
     {
+      "gameId": "f0c45adc5ba1887d60c372b4d3765fc6",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Khanafes",
@@ -6777,6 +7408,7 @@
       "bookingDate": "2026-09-11"
     },
     {
+      "gameId": "81280ec2a7cfb1315b22c2d1731ae8fd",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Khalil",
@@ -6787,6 +7419,7 @@
       "closedAt": "2026-08-04T15:00:56.642Z"
     },
     {
+      "gameId": "c612e49feea300f57e610fff296d132c",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Team 10 king hany",
@@ -6797,6 +7430,7 @@
       "closedAt": "2026-08-08T22:14:56.905Z"
     },
     {
+      "gameId": "932e659c2234a53f435513001f17359e",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "شنغل و منغل",
@@ -6808,6 +7442,7 @@
       "bookingDate": "2026-08-18"
     },
     {
+      "gameId": "8b4387e29aee681b146507c709b4927a",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "🚔 ولاد رزق🚨",
@@ -6819,6 +7454,7 @@
       "bookingDate": "2026-08-28"
     },
     {
+      "gameId": "230c452a4e027d89fa1aca38e7b9c0b4",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Farag",
@@ -6829,6 +7465,7 @@
       "closedAt": "2026-09-07T18:39:39.307Z"
     },
     {
+      "gameId": "52cc31573eca67b9f4982cd0963fe556",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Bonnieblue",
@@ -6840,6 +7477,7 @@
       "bookingDate": "2026-09-11"
     },
     {
+      "gameId": "39a7bc98345fded8ae9c80143aa1b08b",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Odaai",
@@ -6851,6 +7489,7 @@
       "bookingDate": "2026-09-11"
     },
     {
+      "gameId": "8ed88a82c6fab3be669481616ee77040",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Fock valley",
@@ -6861,6 +7500,7 @@
       "closedAt": "2026-08-04T17:04:54.001Z"
     },
     {
+      "gameId": "690ef2d12caaab02e23de6d86815a5c7",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Saif we awlado",
@@ -6871,6 +7511,7 @@
       "closedAt": "2026-08-09T19:19:12.072Z"
     },
     {
+      "gameId": "45d98688867c4da46c0aa4db3c5bad70",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Adham",
@@ -6882,6 +7523,7 @@
       "bookingDate": "2026-08-18"
     },
     {
+      "gameId": "33512f034bfa3da50e8f2ff5740317b5",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "El gamdeen",
@@ -6893,6 +7535,7 @@
       "bookingDate": "2026-08-28"
     },
     {
+      "gameId": "bd59980622ed10b137ac9e4bf1003e54",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "regalet w setat El diplo",
@@ -6904,6 +7547,7 @@
       "bookingDate": "2026-09-08"
     },
     {
+      "gameId": "163d3941ed7960982474571d2bfb26e7",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Amjad",
@@ -6915,6 +7559,7 @@
       "bookingDate": "2026-09-12"
     },
     {
+      "gameId": "f43ef992b6a8433bd52a471b255835e7",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Mohanad and Hanna and halaa",
@@ -6925,6 +7570,7 @@
       "closedAt": "2026-08-04T18:39:09.403Z"
     },
     {
+      "gameId": "f3c5bd945a755289bf059d9b94be75ca",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "5M",
@@ -6936,6 +7582,7 @@
       "bookingDate": "2026-08-09"
     },
     {
+      "gameId": "659e177c0f53c911be72479a22e53ec3",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Bdan deya2 El 3awady",
@@ -6947,6 +7594,7 @@
       "bookingDate": "2026-08-18"
     },
     {
+      "gameId": "f94e357b8b0830608e996305d2da4283",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Padel gang",
@@ -6958,6 +7606,7 @@
       "bookingDate": "2026-08-28"
     },
     {
+      "gameId": "3a37c1528c1814b7b16fa796223b5896",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Squash auc",
@@ -6969,6 +7618,7 @@
       "bookingDate": "2026-09-08"
     },
     {
+      "gameId": "fcc7c272943c64b7ce3f0b4f53835bb4",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "We mog marlon",
@@ -6980,6 +7630,7 @@
       "bookingDate": "2026-09-12"
     },
     {
+      "gameId": "ce39d024a951c56fc38840db7aed5b3b",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Almadi",
@@ -6990,6 +7641,7 @@
       "closedAt": "2026-08-04T19:59:28.487Z"
     },
     {
+      "gameId": "63489b6931c4fbe3f35b4fa8ee697a8b",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Gang biz",
@@ -7001,6 +7653,7 @@
       "bookingDate": "2026-08-09"
     },
     {
+      "gameId": "623e9386ec9a830dd7d9c60777b6a9c8",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "El Mezab3reen",
@@ -7012,6 +7665,7 @@
       "bookingDate": "2026-08-18"
     },
     {
+      "gameId": "a40f156d77fa8dbc899464e0af38496c",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Mother and sons",
@@ -7023,6 +7677,7 @@
       "bookingDate": "2026-08-29"
     },
     {
+      "gameId": "6ec77f76d74cf74776dbf26d59223775",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Gatagangia",
@@ -7034,6 +7689,7 @@
       "bookingDate": "2026-09-08"
     },
     {
+      "gameId": "d14eae4c8f3775518fe009f1a8a9f47a",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Marabella",
@@ -7045,6 +7701,7 @@
       "bookingDate": "2026-09-12"
     },
     {
+      "gameId": "e8a2d693716013dd79067ec577907ece",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Hamed",
@@ -7056,6 +7713,7 @@
       "bookingDate": "2026-08-19"
     },
     {
+      "gameId": "6028c919b6ddc06102f8ca24b0842187",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Eleqenawy",
@@ -7066,6 +7724,7 @@
       "closedAt": "2026-08-29T02:54:12.261Z"
     },
     {
+      "gameId": "80c4c3adbe3c58d84497d81cced65f21",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Asasy",
@@ -7077,6 +7736,7 @@
       "bookingDate": "2026-09-13"
     },
     {
+      "gameId": "a88e8e155512ce7732302ac15223ccb2",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Ahly boys",
@@ -7087,6 +7747,7 @@
       "closedAt": "2026-08-05T15:00:07.681Z"
     },
     {
+      "gameId": "3a1d9a05668c0a8b4852f936360c5090",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Fahd",
@@ -7097,6 +7758,7 @@
       "closedAt": "2026-08-09T22:16:59.800Z"
     },
     {
+      "gameId": "8fce4d8cced78aeaa866b20a3e0826c6",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Kylo",
@@ -7108,6 +7770,7 @@
       "bookingDate": "2026-08-19"
     },
     {
+      "gameId": "d6d98b3b809107d06fe45faaecfe3ff7",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Tom",
@@ -7119,6 +7782,7 @@
       "bookingDate": "2026-08-30"
     },
     {
+      "gameId": "a446d300cf4c15092fe152428ccfccb9",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Bgfnghc",
@@ -7130,6 +7794,7 @@
       "bookingDate": "2026-09-13"
     },
     {
+      "gameId": "32507ffebdea2308867a85377d02309b",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Dickensons",
@@ -7141,6 +7806,7 @@
       "bookingDate": "2026-08-29"
     },
     {
+      "gameId": "499e8ce96d455a563d17450322ac9903",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Eisawy Team",
@@ -7152,6 +7818,7 @@
       "bookingDate": "2026-09-15"
     },
     {
+      "gameId": "d8e94d004d9a277e4ba8b79e5e2de266",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Hamada",
@@ -7162,6 +7829,7 @@
       "closedAt": "2026-08-05T21:04:45.759Z"
     },
     {
+      "gameId": "25ab127b1b44adf260bfe4ea9d8e4017",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Viking",
@@ -7173,6 +7841,7 @@
       "bookingDate": "2026-08-10"
     },
     {
+      "gameId": "b7b2c240969c454e9d6706b942a8cbfe",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Toota",
@@ -7184,6 +7853,7 @@
       "bookingDate": "2026-08-19"
     },
     {
+      "gameId": "7283af432bf9c9d668676223c115e324",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Hana",
@@ -7195,6 +7865,7 @@
       "bookingDate": "2026-08-30"
     },
     {
+      "gameId": "5990a9d28d229feff3e7adcd2072774a",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Khalefa we shwyt nas",
@@ -7205,6 +7876,7 @@
       "closedAt": "2026-09-15T17:49:21.320Z"
     },
     {
+      "gameId": "f529e9ec0a6332c17d39e1176f3df0da",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Sixflex",
@@ -7215,6 +7887,7 @@
       "closedAt": "2026-08-05T22:14:04.204Z"
     },
     {
+      "gameId": "3510ce7d3b9caf82a484649e426c135e",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Heros",
@@ -7226,6 +7899,7 @@
       "bookingDate": "2026-08-10"
     },
     {
+      "gameId": "a68dd8ebb64da4b80b99337a7520add5",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Hot goldenballs",
@@ -7237,6 +7911,7 @@
       "bookingDate": "2026-08-19"
     },
     {
+      "gameId": "30842cd5d2f052ac71f79962b5273b61",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Zeko",
@@ -7248,6 +7923,7 @@
       "bookingDate": "2026-08-30"
     },
     {
+      "gameId": "2e4a1f0adfd0b9d1338d51a3a146084a",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "وادي الذئاب",
@@ -7259,6 +7935,7 @@
       "bookingDate": "2026-09-15"
     },
     {
+      "gameId": "70e978e46735d45c4d45d1b0f303060b",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Die Schwizer",
@@ -7270,6 +7947,7 @@
       "bookingDate": "2026-09-16"
     },
     {
+      "gameId": "58ceca1df6c329d15e4c99f74700d5e1",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Ali and the others",
@@ -7280,6 +7958,7 @@
       "closedAt": "2026-08-06T18:05:07.167Z"
     },
     {
+      "gameId": "db1aa93b9955c75067a2e5c1baf61ff9",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Ahmedsaad",
@@ -7291,6 +7970,7 @@
       "bookingDate": "2026-08-11"
     },
     {
+      "gameId": "a4dc7ad459dd879765af3f7143c21c87",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Za3bola",
@@ -7302,6 +7982,7 @@
       "bookingDate": "2026-08-19"
     },
     {
+      "gameId": "3352359be10b0d2ff2e0b3d2cf066bd9",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "",
@@ -7312,6 +7993,7 @@
       "closedAt": "2026-08-30T18:12:27.730Z"
     },
     {
+      "gameId": "ffd8532e44a7901f5dd7a1ac5126dff7",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "7yy",
@@ -7323,6 +8005,7 @@
       "bookingDate": "2026-09-16"
     },
     {
+      "gameId": "73b9b60f0bf9bd84064c89646eab1c06",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "W. A. P",
@@ -7334,6 +8017,7 @@
       "bookingDate": "2026-09-16"
     },
     {
+      "gameId": "3f000c3a4fe77dbb4a242592ffdec384",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Adham",
@@ -7344,6 +8028,7 @@
       "closedAt": "2026-08-06T21:08:10.627Z"
     },
     {
+      "gameId": "393396d12b8a30c68dc0d35e8ed2a0e4",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Som3a wel 2a5ryn",
@@ -7355,6 +8040,7 @@
       "bookingDate": "2026-08-11"
     },
     {
+      "gameId": "9caf1acad16b4d0918162ec180790ecd",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Thhy",
@@ -7366,6 +8052,7 @@
       "bookingDate": "2026-08-21"
     },
     {
+      "gameId": "46d5cf7edbb226a466f9fa4ba4017a87",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "",
@@ -7376,6 +8063,7 @@
       "closedAt": "2026-08-30T20:13:22.952Z"
     },
     {
+      "gameId": "1a3d2ba41b02e23a022dbafedc05d527",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Sallam's huzz🤟😉",
@@ -7386,6 +8074,7 @@
       "closedAt": "2026-09-16T20:18:22.166Z"
     },
     {
+      "gameId": "19ef10e858f420124142e5ea34f679aa",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Morocco Team",
@@ -7397,6 +8086,7 @@
       "bookingDate": "2026-08-11"
     },
     {
+      "gameId": "157368a710832071d4a0c9568d117b1a",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "ZJf",
@@ -7408,6 +8098,7 @@
       "bookingDate": "2026-08-21"
     },
     {
+      "gameId": "e8a718a0087d6f1c1b6a6f7115626f45",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Miro",
@@ -7419,6 +8110,7 @@
       "bookingDate": "2026-08-31"
     },
     {
+      "gameId": "f8bb5637ddc0af0fa72151efdb8b20e8",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Ghyg",
@@ -7430,6 +8122,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "c8787c187c8174bda4c8b60a3701f80d",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "B",
@@ -7441,6 +8134,7 @@
       "bookingDate": "2026-08-11"
     },
     {
+      "gameId": "ed12666f6742a5785e63bc16ade08fb4",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Bakbortat",
@@ -7452,6 +8146,7 @@
       "bookingDate": "2026-08-21"
     },
     {
+      "gameId": "7d27eb841e70421feeeb88da3853b27f",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "💩💩💩💩",
@@ -7463,6 +8158,7 @@
       "bookingDate": "2026-08-31"
     },
     {
+      "gameId": "60016655d34255dd90561a50354d31ad",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Icon",
@@ -7474,6 +8170,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "638057cca5a37dd0df94b2d8142dabe3",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Toto",
@@ -7485,6 +8182,7 @@
       "bookingDate": "2026-08-12"
     },
     {
+      "gameId": "af0f5dcbadfd7c54ec5d0bdbe7ee8e6f",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Step",
@@ -7496,6 +8194,7 @@
       "bookingDate": "2026-08-21"
     },
     {
+      "gameId": "77c1ddec296cb00b1f67fe4a2a72086a",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Faggot",
@@ -7507,6 +8206,7 @@
       "bookingDate": "2026-08-31"
     },
     {
+      "gameId": "4190922b5444193d5c8fed5eebe76afa",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "NJTSD",
@@ -7518,6 +8218,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "00849ef44aa0d4b5e7036836f61002e5",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Brave",
@@ -7529,6 +8230,7 @@
       "bookingDate": "2026-08-12"
     },
     {
+      "gameId": "07e25e17d9b610c32bbca1fe991b017a",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Tarek",
@@ -7540,6 +8242,7 @@
       "bookingDate": "2026-08-21"
     },
     {
+      "gameId": "1929c07b352e542b1f53709b7e875a31",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Had. Al ehna",
@@ -7551,6 +8254,7 @@
       "bookingDate": "2026-08-31"
     },
     {
+      "gameId": "27544971d017f65c3e8b9febbedf3d52",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Ed3eely ya mama",
@@ -7562,6 +8266,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "775c264e9dad0169a34ff1b742049633",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Azkt",
@@ -7573,6 +8278,7 @@
       "bookingDate": "2026-08-12"
     },
     {
+      "gameId": "93f307f8178af58d185fde296a106cc8",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Platinum777",
@@ -7584,6 +8290,7 @@
       "bookingDate": "2026-08-22"
     },
     {
+      "gameId": "9b0a6bf640a5a23dea659c24d4a91795",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "67",
@@ -7595,6 +8302,7 @@
       "bookingDate": "2026-08-31"
     },
     {
+      "gameId": "a5c330c09713890557929d34a039881e",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "El cinco",
@@ -7606,6 +8314,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "8fafa743ea1aeed9174c8688d645ff11",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "TALIA team",
@@ -7617,6 +8326,7 @@
       "bookingDate": "2026-08-31"
     },
     {
+      "gameId": "0c8bdada4235ca44f7ebcfcbd56ff770",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Sha2ye2",
@@ -7628,6 +8338,7 @@
       "bookingDate": "2026-09-17"
     },
     {
+      "gameId": "d467d39d8715483e22bbc8627a3bc263",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Yala",
@@ -7639,6 +8350,7 @@
       "bookingDate": "2026-09-01"
     },
     {
+      "gameId": "751e16992bec2fbd96e5643fe0fd8afd",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "العفاريت",
@@ -7650,6 +8362,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "2101f6f9d6c593726cdd98e0ad9aca2e",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Soviets",
@@ -7661,6 +8374,7 @@
       "bookingDate": "2026-08-12"
     },
     {
+      "gameId": "56f5074a69dfcab7e54a1c01bbcb3688",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "",
@@ -7671,6 +8385,7 @@
       "closedAt": "2026-08-22T17:08:11.159Z"
     },
     {
+      "gameId": "1029cfb5dc0338f121702175c0293537",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Yousri",
@@ -7682,6 +8397,7 @@
       "bookingDate": "2026-09-01"
     },
     {
+      "gameId": "08567fb72a14b79dcbfe8f352ce421ee",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Laila",
@@ -7693,6 +8409,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "f6ad298092e2c6aa5b50e105d287dcc1",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Alzamiel",
@@ -7704,6 +8421,7 @@
       "bookingDate": "2026-08-12"
     },
     {
+      "gameId": "7606e083b806fd3ee8341a696d1ad28c",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Alia",
@@ -7715,6 +8433,7 @@
       "bookingDate": "2026-08-22"
     },
     {
+      "gameId": "4c0b82fc7573c016208bd250f5ef61d7",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Basem. El shartaweely",
@@ -7726,6 +8445,7 @@
       "bookingDate": "2026-09-01"
     },
     {
+      "gameId": "fd781a396a7e266ab38223ada5a390e8",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Niggers",
@@ -7737,6 +8457,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "f17bf77920e99a580c71aec53979a55f",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Alpha",
@@ -7748,6 +8469,7 @@
       "bookingDate": "2026-08-12"
     },
     {
+      "gameId": "c4d5f86753d0417a0906e048efc801d8",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Sharks",
@@ -7759,6 +8481,7 @@
       "bookingDate": "2026-08-22"
     },
     {
+      "gameId": "31acb601da2a7ba50d8bc086fc6c081c",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "He's very scarce",
@@ -7770,6 +8493,7 @@
       "bookingDate": "2026-09-01"
     },
     {
+      "gameId": "cd33126ec0d13f16569a84b1531c3759",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Koiuyhyyy",
@@ -7781,6 +8505,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "59b5b985a00240766dfe84d72f947c54",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Eh Da",
@@ -7792,6 +8517,7 @@
       "bookingDate": "2026-08-13"
     },
     {
+      "gameId": "7a96edb760b9aeb1689205aa224f0e07",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "El hatem",
@@ -7803,6 +8529,7 @@
       "bookingDate": "2026-08-22"
     },
     {
+      "gameId": "351e48486952c5b1d645a759fd3fa50e",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Lzkmla",
@@ -7814,6 +8541,7 @@
       "bookingDate": "2026-09-02"
     },
     {
+      "gameId": "21fdad819fd7efb8992685f9cbe9b46e",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "الزرازير",
@@ -7825,6 +8553,7 @@
       "bookingDate": "2026-09-18"
     },
     {
+      "gameId": "fb2614bea70dbd2fdac6b931e07090e9",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "KoghZ",
@@ -7836,6 +8565,7 @@
       "bookingDate": "2026-08-23"
     },
     {
+      "gameId": "5cd6cfdd7bee8868f230362631104d51",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Good morning",
@@ -7847,6 +8577,7 @@
       "bookingDate": "2026-09-02"
     },
     {
+      "gameId": "3ea93b8a194e12f45a05cd2ad8e7a13e",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Badr",
@@ -7858,6 +8589,7 @@
       "bookingDate": "2026-09-19"
     },
     {
+      "gameId": "8d66c86d6126397893ca9b380e774c24",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "ALCATRAZ TEAM",
@@ -7869,6 +8601,7 @@
       "bookingDate": "2026-08-23"
     },
     {
+      "gameId": "b24580a6665792d3e1af08b421169093",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Al tybat",
@@ -7880,6 +8613,7 @@
       "bookingDate": "2026-09-02"
     },
     {
+      "gameId": "6d1a077dea85b71a88ec397ea41cefe2",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Guc",
@@ -7891,6 +8625,7 @@
       "bookingDate": "2026-08-13"
     },
     {
+      "gameId": "12938514eac739bf1886022e95363909",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "El naymeen",
@@ -7902,6 +8637,7 @@
       "bookingDate": "2026-08-23"
     },
     {
+      "gameId": "3f8d354ab603c20c814227b92661232a",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Yassin moaz sa3eed saged fares",
@@ -7913,6 +8649,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "5ea1e8f46717e8280596155d181a1099",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Ddaam",
@@ -7924,6 +8661,7 @@
       "bookingDate": "2026-08-13"
     },
     {
+      "gameId": "d11ff6029a3b53013394cba9f0ac5939",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Kolat",
@@ -7935,6 +8673,7 @@
       "bookingDate": "2026-08-23"
     },
     {
+      "gameId": "5604569fc1121f57a56fa271743263be",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "3ala allah",
@@ -7946,6 +8685,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "d8b19fa63ca9e5dba73e99ab758bff35",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Nyahhhhhh",
@@ -7957,6 +8697,7 @@
       "bookingDate": "2026-08-13"
     },
     {
+      "gameId": "f603e9ec87e42c6ff706cab2952fbfc7",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Zed",
@@ -7968,6 +8709,7 @@
       "bookingDate": "2026-08-24"
     },
     {
+      "gameId": "778485d4eb3a72d5d6a2d7ecc0633394",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "خليها علي الله",
@@ -7978,6 +8720,7 @@
       "closedAt": "2026-09-03T16:07:03.021Z"
     },
     {
+      "gameId": "c7bca245cd7b7121db9b512aa12b182b",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Kroom",
@@ -7989,6 +8732,7 @@
       "bookingDate": "2026-08-24"
     },
     {
+      "gameId": "d9a0ec679a9485e06dd15ccd750cf75d",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "الفارات",
@@ -7999,6 +8743,7 @@
       "closedAt": "2026-09-03T18:10:34.071Z"
     },
     {
+      "gameId": "eeb0a3ff4bf48826ff53fc9ab0233319",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Platinum",
@@ -8010,6 +8755,7 @@
       "bookingDate": "2026-08-14"
     },
     {
+      "gameId": "8c7286a663452e213b8d3a66ca12f189",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "El bezoz",
@@ -8021,6 +8767,7 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "c603a85fd7805ae3f957a8b73087d2ee",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "ADJ",
@@ -8032,6 +8779,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "b12988af5e95678f8d7ece0a87071ae7",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Bitches",
@@ -8042,6 +8790,7 @@
       "closedAt": "2026-09-04T16:08:35.680Z"
     },
     {
+      "gameId": "e14b5b1b1f7fbfec21188e5bb0076f98",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Gaza",
@@ -8052,6 +8801,7 @@
       "closedAt": "2026-08-14T19:06:13.484Z"
     },
     {
+      "gameId": "963bfda12e48cdce05ac864abca51fdd",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Sophia",
@@ -8063,6 +8813,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "eab5beb356e33472b3b20d4a095b8f8d",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Abonura",
@@ -8074,6 +8825,7 @@
       "bookingDate": "2026-08-14"
     },
     {
+      "gameId": "b45138e160f19b9558ad6f207d1918df",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Group",
@@ -8085,6 +8837,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "e74e34993be89ffb21d98e754a50293e",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Maroze",
@@ -8096,6 +8849,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "93acc7afcff36e9e934eb5944006c6ba",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Locked in",
@@ -8106,6 +8860,7 @@
       "closedAt": "2026-08-14T21:16:19.107Z"
     },
     {
+      "gameId": "1d47494a3722f3554abce75b07b175d0",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Abtal",
@@ -8117,6 +8872,7 @@
       "bookingDate": "2026-09-04"
     },
     {
+      "gameId": "595e31ca66e2df0356277a0b8dca362e",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Al otaibi",
@@ -8128,6 +8884,7 @@
       "bookingDate": "2026-08-15"
     },
     {
+      "gameId": "5d0aa79ac15107dfe005fb403eafa633",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "",
@@ -8138,6 +8895,7 @@
       "closedAt": "2026-09-04T22:17:34.840Z"
     },
     {
+      "gameId": "5406d1d08c22b957f8fd0185c3eda679",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Fufu",
@@ -8149,6 +8907,7 @@
       "bookingDate": "2026-08-15"
     },
     {
+      "gameId": "3fdf2b5a49c84d1a024d1d600d0363b7",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Kfc",
@@ -8160,6 +8919,7 @@
       "bookingDate": "2026-08-15"
     },
     {
+      "gameId": "4f260c9bf3a79acc75aceb53e4d9fbd2",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Group1",
@@ -8171,6 +8931,7 @@
       "bookingDate": "2026-08-15"
     },
     {
+      "gameId": "d32221620f8e41d7982db2a3b560db50",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "S0uls",
@@ -8182,6 +8943,7 @@
       "bookingDate": "2026-08-15"
     },
     {
+      "gameId": "bef162736a39e04527ec0d3293ff8209",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Katakeet",
@@ -8193,6 +8955,7 @@
       "bookingDate": "2026-08-15"
     },
     {
+      "gameId": "389e91788ca93e1b4c1421502d505e02",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "Bahlola",
@@ -8204,6 +8967,7 @@
       "bookingDate": "2026-08-15"
     },
     {
+      "gameId": "e9d154ac3891c6a50f01e8cbc1145d0e",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
       "teamName": "الدعاديع",
