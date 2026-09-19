@@ -4352,6 +4352,18 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "5eba14962b86668cabc5d8b56d14e231",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Radio dyrb negm",
+      "slotResult": "WINNER",
+      "totalScore": 98,
+      "escapeTime": 46,
+      "helpCount": 1,
+      "closedAt": "2026-09-19T16:50:32.144Z",
+      "bookingDate": "2026-09-19"
+    },
+    {
       "gameId": "7204b30f6d76bc7bce7b83c279996048",
       "roomId": "sabrina",
       "roomName": "Sabrina",
