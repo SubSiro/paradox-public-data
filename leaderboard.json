@@ -6634,6 +6634,18 @@
       "closedAt": "2026-09-19T19:10:52.439Z"
     },
     {
+      "gameId": "e9aaf4879183f059759ccf2189be0d7d",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Gffg",
+      "slotResult": "WINNER",
+      "totalScore": 78,
+      "escapeTime": 56,
+      "helpCount": 6,
+      "closedAt": "2026-09-19T20:12:24.272Z",
+      "bookingDate": "2026-09-19"
+    },
+    {
       "gameId": "6c85c5032986a501eaa3d7b7a09f3b4c",
       "roomId": "marionettes",
       "roomName": "Marionettes",
