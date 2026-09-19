@@ -6611,6 +6611,17 @@
       "bookingDate": "2026-09-02"
     },
     {
+      "gameId": "b399de35f6bc7acb29b4afb4c112bfab",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Douha",
+      "slotResult": "LOSER",
+      "totalScore": 50,
+      "escapeTime": 46,
+      "helpCount": 2,
+      "closedAt": "2026-09-19T19:10:52.439Z"
+    },
+    {
       "gameId": "6c85c5032986a501eaa3d7b7a09f3b4c",
       "roomId": "marionettes",
       "roomName": "Marionettes",
