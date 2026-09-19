@@ -4376,6 +4376,18 @@
       "bookingDate": "2026-09-19"
     },
     {
+      "gameId": "a9d6c1d7cb68cbb395be109a2679a6ae",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "A7o7aat",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 51,
+      "helpCount": 0,
+      "closedAt": "2026-09-19T19:42:51.975Z",
+      "bookingDate": "2026-09-19"
+    },
+    {
       "gameId": "7204b30f6d76bc7bce7b83c279996048",
       "roomId": "sabrina",
       "roomName": "Sabrina",
