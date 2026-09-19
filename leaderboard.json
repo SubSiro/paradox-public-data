@@ -5953,6 +5953,17 @@
     {
       "roomId": "marionettes",
       "roomName": "Marionettes",
+      "teamName": "The neighbors",
+      "slotResult": "LOSER",
+      "totalScore": 51,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-09-19T14:08:26.140Z",
+      "bookingDate": "2026-09-19"
+    },
+    {
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
       "teamName": "Power",
       "slotResult": "LOSER",
       "totalScore": 54,
