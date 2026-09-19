@@ -8625,6 +8625,18 @@
       "bookingDate": "2026-09-02"
     },
     {
+      "gameId": "5dbb88eb65e1534b606a23e9063f2ad1",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "El baanat wel ba2y",
+      "slotResult": "LOSER",
+      "totalScore": 38,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-09-19T17:08:25.445Z",
+      "bookingDate": "2026-09-19"
+    },
+    {
       "gameId": "6d1a077dea85b71a88ec397ea41cefe2",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
