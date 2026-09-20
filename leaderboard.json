@@ -6693,6 +6693,18 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "d07180fd2ba9737c6cf946863cdeeb9d",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Ethnykwetmnyk",
+      "slotResult": "LOSER",
+      "totalScore": 48,
+      "escapeTime": 54,
+      "helpCount": 2,
+      "closedAt": "2026-09-20T21:10:04.148Z",
+      "bookingDate": "2026-09-20"
+    },
+    {
       "gameId": "d42e5dc75f569eb2e5041268cd73c038",
       "roomId": "marionettes",
       "roomName": "Marionettes",
