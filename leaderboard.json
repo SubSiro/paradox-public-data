@@ -4400,30 +4400,6 @@
       "bookingDate": "2026-09-19"
     },
     {
-      "gameId": "7204b30f6d76bc7bce7b83c279996048",
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
-      "teamName": "Alrefaee",
-      "slotResult": "WINNER",
-      "totalScore": 100,
-      "escapeTime": 50,
-      "helpCount": 0,
-      "closedAt": "2026-08-15T18:54:52.035Z",
-      "bookingDate": "2026-08-15"
-    },
-    {
-      "gameId": "bd7b0e082926798309b5f7be0ca81165",
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
-      "teamName": "على الله",
-      "slotResult": "WINNER",
-      "totalScore": 98,
-      "escapeTime": 48,
-      "helpCount": 1,
-      "closedAt": "2026-09-03T17:51:26.268Z",
-      "bookingDate": "2026-09-03"
-    },
-    {
       "gameId": "25abeb4e2d59b2f8aa2c416a9ed544a3",
       "roomId": "sabrina",
       "roomName": "Sabrina",
