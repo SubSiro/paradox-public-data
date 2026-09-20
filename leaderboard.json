@@ -4495,6 +4495,18 @@
       "closedAt": "2026-09-04T22:23:43.645Z"
     },
     {
+      "gameId": "c6f35810ac190175b7fe1820522c9a72",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Elarbgeya",
+      "slotResult": "LOSER",
+      "totalScore": 61,
+      "escapeTime": 59,
+      "helpCount": 2,
+      "closedAt": "2026-09-20T19:11:25.378Z",
+      "bookingDate": "2026-09-20"
+    },
+    {
       "gameId": "ccdc12af624632bce9f8a3301fa7905d",
       "roomId": "sabrina",
       "roomName": "Sabrina",
