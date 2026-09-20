@@ -4400,30 +4400,6 @@
       "bookingDate": "2026-09-19"
     },
     {
-      "gameId": "06802b75800c22ea2b48d45d5ae9e67e",
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
-      "teamName": "El Regala",
-      "slotResult": "LOSER",
-      "totalScore": 75,
-      "escapeTime": 56,
-      "helpCount": 2,
-      "closedAt": "2026-08-15T21:03:26.280Z",
-      "bookingDate": "2026-08-15"
-    },
-    {
-      "gameId": "f3103c5084c4f3f6b4c66d232a8a7c56",
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
-      "teamName": "FalconX",
-      "slotResult": "LOSER",
-      "totalScore": 68,
-      "escapeTime": 60,
-      "helpCount": 2,
-      "closedAt": "2026-09-03T20:00:41.103Z",
-      "bookingDate": "2026-09-03"
-    },
-    {
       "gameId": "ebd1f732a0a02784cddf9b8d51548c18",
       "roomId": "sabrina",
       "roomName": "Sabrina",
