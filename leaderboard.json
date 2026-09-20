@@ -4400,30 +4400,6 @@
       "bookingDate": "2026-09-19"
     },
     {
-      "gameId": "ebd1f732a0a02784cddf9b8d51548c18",
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
-      "teamName": "Sultans team",
-      "slotResult": "LOSER",
-      "totalScore": 30,
-      "escapeTime": 55,
-      "helpCount": 4,
-      "closedAt": "2026-08-15T22:09:01.300Z",
-      "bookingDate": "2026-08-16"
-    },
-    {
-      "gameId": "06710e4fdc8bd6b0a314d64fd6cb2b93",
-      "roomId": "sabrina",
-      "roomName": "Sabrina",
-      "teamName": "Fatayat El kowa",
-      "slotResult": "WINNER",
-      "totalScore": 94,
-      "escapeTime": 56,
-      "helpCount": 3,
-      "closedAt": "2026-09-03T21:02:48.509Z",
-      "bookingDate": "2026-09-03"
-    },
-    {
       "gameId": "00b990ab9edbe1dfcd96d0e701a2bb89",
       "roomId": "sabrina",
       "roomName": "Sabrina",
