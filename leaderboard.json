@@ -6752,6 +6752,17 @@
       "closedAt": "2026-09-03T14:52:28.484Z"
     },
     {
+      "gameId": "3ecb2af88f5bee346a8704240d4d3b4c",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Diddy Gods🖕",
+      "slotResult": "LOSER",
+      "totalScore": 57,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-09-21T18:49:50.270Z"
+    },
+    {
       "gameId": "a55d5573b7a507e1245eb7e56c6f6ad9",
       "roomId": "marionettes",
       "roomName": "Marionettes",
