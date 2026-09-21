@@ -8908,6 +8908,18 @@
       "closedAt": "2026-09-03T18:10:34.071Z"
     },
     {
+      "gameId": "d35d1a434623f4a55f28a0cbfbd11ba2",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Marketny",
+      "slotResult": "LOSER",
+      "totalScore": 32,
+      "escapeTime": 58,
+      "helpCount": 2,
+      "closedAt": "2026-09-21T18:17:01.078Z",
+      "bookingDate": "2026-09-21"
+    },
+    {
       "gameId": "eeb0a3ff4bf48826ff53fc9ab0233319",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
