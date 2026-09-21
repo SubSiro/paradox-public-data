@@ -2168,6 +2168,18 @@
       "closedAt": "2026-09-02T19:27:03.255Z"
     },
     {
+      "gameId": "a389cd04fe0d1e77512c8c712d8780c7",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Ali",
+      "slotResult": "WINNER",
+      "totalScore": 96,
+      "escapeTime": 57,
+      "helpCount": 2,
+      "closedAt": "2026-09-21T18:02:57.917Z",
+      "bookingDate": "2026-09-21"
+    },
+    {
       "gameId": "0aa7043267642b96507eb3f61d1ce79e",
       "roomId": "rose",
       "roomName": "Rose",
