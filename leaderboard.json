@@ -8991,6 +8991,17 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "7cd9a2a59dadf039334192107472c9a7",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "عفريت نبيل خايف",
+      "slotResult": "WINNER",
+      "totalScore": 93,
+      "escapeTime": 59,
+      "helpCount": 3,
+      "closedAt": "2026-09-21T21:20:07.527Z"
+    },
+    {
       "gameId": "c603a85fd7805ae3f957a8b73087d2ee",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
