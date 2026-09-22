@@ -4576,6 +4576,18 @@
       "closedAt": "2026-09-21T21:37:02.296Z"
     },
     {
+      "gameId": "cdd6dd7a0826018dc48b48b82c6cf73f",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "زروق+العال",
+      "slotResult": "LOSER",
+      "totalScore": 36,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-09-22T19:08:24.149Z",
+      "bookingDate": "2026-09-22"
+    },
+    {
       "gameId": "ccdc12af624632bce9f8a3301fa7905d",
       "roomId": "sabrina",
       "roomName": "Sabrina",
