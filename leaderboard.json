@@ -9082,6 +9082,18 @@
       "closedAt": "2026-09-04T16:08:35.680Z"
     },
     {
+      "gameId": "9d0b834f6c1408a9682eda247c6aa390",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "249 buds",
+      "slotResult": "LOSER",
+      "totalScore": 45,
+      "escapeTime": 60,
+      "helpCount": 1,
+      "closedAt": "2026-09-22T19:42:35.102Z",
+      "bookingDate": "2026-09-22"
+    },
+    {
       "gameId": "e14b5b1b1f7fbfec21188e5bb0076f98",
       "roomId": "alcatraz",
       "roomName": "Alcatraz",
