@@ -2275,6 +2275,17 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "1c7bcea9e0190a63e9c1d00efe935660",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "عيلة العمدة",
+      "slotResult": "LOSER",
+      "totalScore": 59,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-09-22T19:18:13.852Z"
+    },
+    {
       "gameId": "c1905b3724d2383108b519dd2303d674",
       "roomId": "rose",
       "roomName": "Rose",
