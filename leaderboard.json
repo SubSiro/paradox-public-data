@@ -6869,6 +6869,18 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "0b065b61e87c24b619c120c68de56f49",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "السلاعوة",
+      "slotResult": "LOSER",
+      "totalScore": 37,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-09-22T19:14:34.023Z",
+      "bookingDate": "2026-09-22"
+    },
+    {
       "gameId": "83a5700b888fb2fe59bbdb17e25df373",
       "roomId": "marionettes",
       "roomName": "Marionettes",
