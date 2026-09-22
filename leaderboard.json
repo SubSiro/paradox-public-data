@@ -2252,6 +2252,17 @@
       "bookingDate": "2026-09-03"
     },
     {
+      "gameId": "9fbeb5d55caaf16c7c38e70a9ea7d9e1",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "",
+      "slotResult": "LOSER",
+      "totalScore": 29,
+      "escapeTime": 60,
+      "helpCount": 1,
+      "closedAt": "2026-09-22T17:11:11.380Z"
+    },
+    {
       "gameId": "ea9a4eb0e2463be8a7e0da466a00f0ff",
       "roomId": "rose",
       "roomName": "Rose",
