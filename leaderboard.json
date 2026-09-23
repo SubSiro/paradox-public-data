@@ -2451,6 +2451,18 @@
       "helpCount": 2,
       "closedAt": "2026-09-23T15:58:49.941Z",
       "bookingDate": "2026-09-23"
+    },
+    {
+      "gameId": "5595da675a6b57ed208796979b81dcb8",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Choueifat guest",
+      "slotResult": "WINNER",
+      "totalScore": 88,
+      "escapeTime": 59,
+      "helpCount": 3,
+      "closedAt": "2026-09-23T18:35:44.848Z",
+      "bookingDate": "2026-09-23"
     }
   ],
   "sabrina": [
