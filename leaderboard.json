@@ -4714,6 +4714,18 @@
       "helpCount": 4,
       "closedAt": "2026-09-24T14:03:03.623Z",
       "bookingDate": "2026-09-24"
+    },
+    {
+      "gameId": "f28a82b88e9a347e11167a008a65f3e6",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Attia",
+      "slotResult": "LOSER",
+      "totalScore": 47,
+      "escapeTime": 54,
+      "helpCount": 2,
+      "closedAt": "2026-09-24T16:05:02.099Z",
+      "bookingDate": "2026-09-24"
     }
   ],
   "marionettes": [
