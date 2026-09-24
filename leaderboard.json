@@ -7306,6 +7306,18 @@
       "helpCount": 2,
       "closedAt": "2026-09-24T18:04:49.318Z",
       "bookingDate": "2026-09-24"
+    },
+    {
+      "gameId": "66badd45321f09d584f50f1764d1c39c",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Mostfa Jibril",
+      "slotResult": "LOSER",
+      "totalScore": 28,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-09-24T19:04:30.829Z",
+      "bookingDate": "2026-09-24"
     }
   ],
   "alcatraz": [
