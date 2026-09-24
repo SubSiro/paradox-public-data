@@ -4762,6 +4762,18 @@
       "helpCount": 3,
       "closedAt": "2026-09-24T17:05:43.379Z",
       "bookingDate": "2026-09-24"
+    },
+    {
+      "gameId": "ba1677c19ee753ed7eee09846fb871df",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "13",
+      "slotResult": "LOSER",
+      "totalScore": 40,
+      "escapeTime": 55,
+      "helpCount": 2,
+      "closedAt": "2026-09-24T18:04:51.467Z",
+      "bookingDate": "2026-09-24"
     }
   ],
   "marionettes": [
@@ -7257,6 +7269,18 @@
       "escapeTime": 60,
       "helpCount": 7,
       "closedAt": "2026-09-24T17:05:39.208Z",
+      "bookingDate": "2026-09-24"
+    },
+    {
+      "gameId": "f4495332aff4d7b0ef6e40eca4e0c7df",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Kishk fc",
+      "slotResult": "LOSER",
+      "totalScore": 81,
+      "escapeTime": 53,
+      "helpCount": 2,
+      "closedAt": "2026-09-24T18:04:49.318Z",
       "bookingDate": "2026-09-24"
     }
   ],
