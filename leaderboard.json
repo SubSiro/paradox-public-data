@@ -4892,6 +4892,18 @@
       "helpCount": 6,
       "closedAt": "2026-09-25T18:07:37.847Z",
       "bookingDate": "2026-09-25"
+    },
+    {
+      "gameId": "d5d7283b40cdd1da0928dd5dbcdb8d68",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Hana and tamaras minions",
+      "slotResult": "WINNER",
+      "totalScore": 91,
+      "escapeTime": 49,
+      "helpCount": 1,
+      "closedAt": "2026-09-25T19:03:46.040Z",
+      "bookingDate": "2026-09-25"
     }
   ],
   "marionettes": [
