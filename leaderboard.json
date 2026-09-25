@@ -2570,6 +2570,17 @@
       "helpCount": 4,
       "closedAt": "2026-09-25T20:09:30.632Z",
       "bookingDate": "2026-09-25"
+    },
+    {
+      "gameId": "a6a88cefc3a11a42a302d880b0a691bd",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Si shumi team",
+      "slotResult": "LOSER",
+      "totalScore": 63,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-09-25T21:38:45.313Z"
     }
   ],
   "sabrina": [
