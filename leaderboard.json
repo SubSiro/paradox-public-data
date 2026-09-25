@@ -7401,6 +7401,18 @@
       "helpCount": 0,
       "closedAt": "2026-09-25T14:05:18.429Z",
       "bookingDate": "2026-09-25"
+    },
+    {
+      "gameId": "23df7a7527d516ddb729701152385d19",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Diddys. Servants",
+      "slotResult": "LOSER",
+      "totalScore": 59,
+      "escapeTime": 60,
+      "helpCount": 7,
+      "closedAt": "2026-09-25T15:09:50.616Z",
+      "bookingDate": "2026-09-25"
     }
   ],
   "alcatraz": [
