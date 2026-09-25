@@ -2523,6 +2523,18 @@
       "helpCount": 5,
       "closedAt": "2026-09-25T14:50:11.587Z",
       "bookingDate": "2026-09-25"
+    },
+    {
+      "gameId": "f4d4c99ba286b008b4bff9b0f34cb305",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Gang bang",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 36,
+      "helpCount": 0,
+      "closedAt": "2026-09-25T15:54:09.745Z",
+      "bookingDate": "2026-09-25"
     }
   ],
   "sabrina": [
