@@ -2581,6 +2581,17 @@
       "helpCount": 4,
       "closedAt": "2026-09-26T17:41:42.370Z",
       "bookingDate": "2026-09-26"
+    },
+    {
+      "gameId": "4da5d49ef54317a8f4117a4664d4f281",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Abna2 alferdaws",
+      "slotResult": "LOSER",
+      "totalScore": 55,
+      "escapeTime": 58,
+      "helpCount": 4,
+      "closedAt": "2026-09-26T20:16:41.967Z"
     }
   ],
   "sabrina": [
