@@ -4951,6 +4951,18 @@
       "helpCount": 3,
       "closedAt": "2026-09-25T21:08:49.443Z",
       "bookingDate": "2026-09-25"
+    },
+    {
+      "gameId": "2c123abc7b66bd6e62fbd4f6351414bc",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "French tacos",
+      "slotResult": "LOSER",
+      "totalScore": 75,
+      "escapeTime": 60,
+      "helpCount": 1,
+      "closedAt": "2026-09-26T15:19:33.735Z",
+      "bookingDate": "2026-09-26"
     }
   ],
   "marionettes": [
