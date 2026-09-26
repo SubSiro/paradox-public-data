@@ -10091,6 +10091,17 @@
       "escapeTime": 60,
       "helpCount": 1,
       "closedAt": "2026-09-26T19:02:58.552Z"
+    },
+    {
+      "gameId": "c4ebaf0b6389daf09e50301215fc0159",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "4",
+      "slotResult": "WINNER",
+      "totalScore": 91,
+      "escapeTime": 57,
+      "helpCount": 2,
+      "closedAt": "2026-09-26T20:10:16.157Z"
     }
   ]
 }
