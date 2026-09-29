@@ -5064,6 +5064,17 @@
       "escapeTime": 60,
       "helpCount": 2,
       "closedAt": "2026-09-28T19:08:03.204Z"
+    },
+    {
+      "gameId": "38fa57dbdd57f489f7b0cbcec555af16",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Gezira",
+      "slotResult": "LOSER",
+      "totalScore": 36,
+      "escapeTime": 58,
+      "helpCount": 3,
+      "closedAt": "2026-09-29T17:02:46.179Z"
     }
   ],
   "marionettes": [
