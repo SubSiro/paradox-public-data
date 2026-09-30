@@ -5130,6 +5130,17 @@
       "escapeTime": 58,
       "helpCount": 1,
       "closedAt": "2026-09-29T21:18:21.475Z"
+    },
+    {
+      "gameId": "3f2a12acde624315120c4740ce655cf8",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Bedoon hareem",
+      "slotResult": "LOSER",
+      "totalScore": 48,
+      "escapeTime": 60,
+      "helpCount": 0,
+      "closedAt": "2026-09-30T18:10:53.656Z"
     }
   ],
   "marionettes": [
