@@ -7835,6 +7835,17 @@
       "escapeTime": 60,
       "helpCount": 2,
       "closedAt": "2026-09-29T21:16:43.694Z"
+    },
+    {
+      "gameId": "10feb9a750de4e8bafeee894e2f2cda5",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Chips and crisps",
+      "slotResult": "WINNER",
+      "totalScore": 84,
+      "escapeTime": 58,
+      "helpCount": 5,
+      "closedAt": "2026-09-30T19:26:25.459Z"
     }
   ],
   "alcatraz": [
