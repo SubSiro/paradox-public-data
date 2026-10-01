@@ -2702,6 +2702,17 @@
       "escapeTime": 45,
       "helpCount": 1,
       "closedAt": "2026-10-01T18:59:40.171Z"
+    },
+    {
+      "gameId": "845330e20a8647ed0d9d67373d87588a",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "****",
+      "slotResult": "LOSER",
+      "totalScore": 24,
+      "escapeTime": 59,
+      "helpCount": 5,
+      "closedAt": "2026-10-01T20:05:01.918Z"
     }
   ],
   "sabrina": [
@@ -5273,6 +5284,17 @@
       "escapeTime": 49,
       "helpCount": 1,
       "closedAt": "2026-10-01T19:02:06.304Z"
+    },
+    {
+      "gameId": "7fde8e6954a36bc9d6dd32c20bfa59fb",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "The",
+      "slotResult": "LOSER",
+      "totalScore": 38,
+      "escapeTime": 57,
+      "helpCount": 2,
+      "closedAt": "2026-10-01T20:05:00.128Z"
     }
   ],
   "marionettes": [
