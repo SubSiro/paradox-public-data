@@ -10619,6 +10619,17 @@
       "escapeTime": 57,
       "helpCount": 3,
       "closedAt": "2026-10-01T18:05:47.608Z"
+    },
+    {
+      "gameId": "aaec3094f2c3f056017ee1360fae1e07",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Gigigdy. Ah go",
+      "slotResult": "LOSER",
+      "totalScore": 24,
+      "escapeTime": 51,
+      "helpCount": 3,
+      "closedAt": "2026-10-01T19:05:23.751Z"
     }
   ]
 }
