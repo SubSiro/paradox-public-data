@@ -5229,6 +5229,17 @@
       "escapeTime": 51,
       "helpCount": 2,
       "closedAt": "2026-10-01T17:01:30.063Z"
+    },
+    {
+      "gameId": "0ce98b8288a45b9b3ab5b2709af6fa48",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Mozzaz fc",
+      "slotResult": "WINNER",
+      "totalScore": 83,
+      "escapeTime": 58,
+      "helpCount": 3,
+      "closedAt": "2026-10-01T18:04:53.203Z"
     }
   ],
   "marionettes": [
