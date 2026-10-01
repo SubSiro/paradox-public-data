@@ -7923,6 +7923,17 @@
       "escapeTime": 58,
       "helpCount": 4,
       "closedAt": "2026-10-01T16:02:41.321Z"
+    },
+    {
+      "gameId": "ef0cd86a0720055b3d8bcb821a64b6ab",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "El papi 3.0",
+      "slotResult": "WINNER",
+      "totalScore": 87,
+      "escapeTime": 54,
+      "helpCount": 2,
+      "closedAt": "2026-10-01T17:01:38.546Z"
     }
   ],
   "alcatraz": [
