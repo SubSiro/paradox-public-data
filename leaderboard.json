@@ -2658,6 +2658,17 @@
       "escapeTime": 58,
       "helpCount": 2,
       "closedAt": "2026-09-30T20:41:14.159Z"
+    },
+    {
+      "gameId": "3fe9117dca709835fae5d1c037d8c7ee",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Kolll",
+      "slotResult": "LOSER",
+      "totalScore": 22,
+      "escapeTime": 58,
+      "helpCount": 5,
+      "closedAt": "2026-10-01T16:02:38.343Z"
     }
   ],
   "sabrina": [
@@ -7879,6 +7890,17 @@
       "escapeTime": 58,
       "helpCount": 5,
       "closedAt": "2026-09-30T19:26:25.459Z"
+    },
+    {
+      "gameId": "b00dd8a3c6c681a232c796977e0cbc7f",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "El ma3lemeen",
+      "slotResult": "LOSER",
+      "totalScore": 66,
+      "escapeTime": 58,
+      "helpCount": 4,
+      "closedAt": "2026-10-01T16:02:41.321Z"
     }
   ],
   "alcatraz": [
@@ -10454,6 +10476,17 @@
       "escapeTime": 60,
       "helpCount": 4,
       "closedAt": "2026-09-30T19:36:41.592Z"
+    },
+    {
+      "gameId": "71520943ba71714461d58b85eb416a07",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Skibidi",
+      "slotResult": "LOSER",
+      "totalScore": 4,
+      "escapeTime": 58,
+      "helpCount": 4,
+      "closedAt": "2026-10-01T16:02:39.860Z"
     }
   ]
 }
