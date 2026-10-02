@@ -2746,6 +2746,17 @@
       "escapeTime": 58,
       "helpCount": 2,
       "closedAt": "2026-10-02T17:17:15.939Z"
+    },
+    {
+      "gameId": "76f49c0386375ad13b633c226216263c",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Kkjk",
+      "slotResult": "LOSER",
+      "totalScore": 56,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-10-02T18:20:40.131Z"
     }
   ],
   "sabrina": [
