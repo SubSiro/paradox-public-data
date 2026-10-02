@@ -2724,6 +2724,17 @@
       "escapeTime": 59,
       "helpCount": 2,
       "closedAt": "2026-10-01T21:11:56.393Z"
+    },
+    {
+      "gameId": "224806bd45234c4fd5feefaa940a3fb9",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Zao Shang hao",
+      "slotResult": "LOSER",
+      "totalScore": 76,
+      "escapeTime": 57,
+      "helpCount": 2,
+      "closedAt": "2026-10-02T15:49:27.519Z"
     }
   ],
   "sabrina": [
