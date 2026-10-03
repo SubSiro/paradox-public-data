@@ -5508,6 +5508,18 @@
       "escapeTime": 58,
       "helpCount": 1,
       "closedAt": "2026-10-03T16:45:00.744Z"
+    },
+    {
+      "gameId": "d96540a39847f6d2187f391a4ecdc4a3",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Brittania",
+      "slotResult": "LOSER",
+      "totalScore": 53,
+      "escapeTime": 60,
+      "helpCount": 1,
+      "closedAt": "2026-10-03T19:42:35.567Z",
+      "bookingDate": "2026-10-03"
     }
   ],
   "marionettes": [
