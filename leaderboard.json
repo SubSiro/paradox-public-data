@@ -8431,6 +8431,18 @@
       "helpCount": 3,
       "closedAt": "2026-10-03T21:06:54.180Z",
       "bookingDate": "2026-10-03"
+    },
+    {
+      "gameId": "a0e078063c50bc97b3e06b33e66f5396",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "The Unfuckables 🍑",
+      "slotResult": "WINNER",
+      "totalScore": 95,
+      "escapeTime": 59,
+      "helpCount": 2,
+      "closedAt": "2026-10-04T20:02:24.785Z",
+      "bookingDate": "2026-10-04"
     }
   ],
   "alcatraz": [
