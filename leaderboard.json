@@ -5647,6 +5647,17 @@
       "escapeTime": 35,
       "helpCount": 0,
       "closedAt": "2026-10-06T05:01:19.661Z"
+    },
+    {
+      "gameId": "15f058ec6f8a03db70b39b28c920bd7f",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Didas slaves",
+      "slotResult": "WINNER",
+      "totalScore": 84,
+      "escapeTime": 58,
+      "helpCount": 5,
+      "closedAt": "2026-10-06T06:26:00.806Z"
     }
   ],
   "marionettes": [
