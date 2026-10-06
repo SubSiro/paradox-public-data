@@ -5625,6 +5625,17 @@
       "escapeTime": 58,
       "helpCount": 1,
       "closedAt": "2026-10-06T04:05:02.450Z"
+    },
+    {
+      "gameId": "d3ee8c253d2d7cde0da9c3b6c157ffb5",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Paradox lovers",
+      "slotResult": "WINNER",
+      "totalScore": 97,
+      "escapeTime": 35,
+      "helpCount": 0,
+      "closedAt": "2026-10-06T05:01:19.661Z"
     }
   ],
   "marionettes": [
