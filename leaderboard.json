@@ -8746,6 +8746,18 @@
       "helpCount": 5,
       "closedAt": "2026-10-08T14:01:24.613Z",
       "bookingDate": "2026-10-08"
+    },
+    {
+      "gameId": "94d487b155b115de0895cd5a7f91b02c",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Nemm Nemm to gloryy",
+      "slotResult": "LOSER",
+      "totalScore": 33,
+      "escapeTime": 50,
+      "helpCount": 3,
+      "closedAt": "2026-10-08T15:10:03.369Z",
+      "bookingDate": "2026-10-08"
     }
   ],
   "alcatraz": [
