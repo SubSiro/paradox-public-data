@@ -2945,6 +2945,17 @@
       "helpCount": 4,
       "closedAt": "2026-10-08T14:01:29.648Z",
       "bookingDate": "2026-10-08"
+    },
+    {
+      "gameId": "0ec95fdf53e4300a3201206e15ff54ce",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "MegaMind",
+      "slotResult": "LOSER",
+      "totalScore": 62,
+      "escapeTime": 56,
+      "helpCount": 4,
+      "closedAt": "2026-10-08T15:35:37.246Z"
     }
   ],
   "sabrina": [
