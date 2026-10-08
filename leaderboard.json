@@ -2956,6 +2956,18 @@
       "escapeTime": 56,
       "helpCount": 4,
       "closedAt": "2026-10-08T15:35:37.246Z"
+    },
+    {
+      "gameId": "de45129d3572d7c00124b2f9fbb0eddb",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Boraie team",
+      "slotResult": "WINNER",
+      "totalScore": 99,
+      "escapeTime": 45,
+      "helpCount": 2,
+      "closedAt": "2026-10-08T16:52:12.867Z",
+      "bookingDate": "2026-10-08"
     }
   ],
   "sabrina": [
