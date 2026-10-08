@@ -2992,6 +2992,18 @@
       "helpCount": 4,
       "closedAt": "2026-10-08T18:59:06.025Z",
       "bookingDate": "2026-10-08"
+    },
+    {
+      "gameId": "9e6c58e0411d357faf5c07e79558af1b",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "El Kings",
+      "slotResult": "LOSER",
+      "totalScore": 51,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-10-08T20:03:50.993Z",
+      "bookingDate": "2026-10-08"
     }
   ],
   "sabrina": [
