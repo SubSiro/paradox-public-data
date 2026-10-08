@@ -11629,6 +11629,18 @@
       "helpCount": 4,
       "closedAt": "2026-10-08T15:23:38.828Z",
       "bookingDate": "2026-10-08"
+    },
+    {
+      "gameId": "7df936ec9600c41de2f4ccb72339ae2d",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "El Shela El kdaba",
+      "slotResult": "LOSER",
+      "totalScore": 35,
+      "escapeTime": 49,
+      "helpCount": 3,
+      "closedAt": "2026-10-08T16:18:17.598Z",
+      "bookingDate": "2026-10-08"
     }
   ]
 }
