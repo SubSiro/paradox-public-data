@@ -5920,6 +5920,18 @@
       "helpCount": 2,
       "closedAt": "2026-10-08T19:54:30.340Z",
       "bookingDate": "2026-10-08"
+    },
+    {
+      "gameId": "f642e24c1d4b10584ff8efc8edb65684",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Dominican papis",
+      "slotResult": "WINNER",
+      "totalScore": 98,
+      "escapeTime": 31,
+      "helpCount": 0,
+      "closedAt": "2026-10-08T21:00:00.702Z",
+      "bookingDate": "2026-10-08"
     }
   ],
   "marionettes": [
