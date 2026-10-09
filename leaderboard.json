@@ -6016,6 +6016,18 @@
       "helpCount": 3,
       "closedAt": "2026-10-09T16:01:40.632Z",
       "bookingDate": "2026-10-09"
+    },
+    {
+      "gameId": "868b9cdea64c241fe873035c1206d7b3",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Messi 3amak",
+      "slotResult": "LOSER",
+      "totalScore": 50,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-10-09T17:11:23.571Z",
+      "bookingDate": "2026-10-09"
     }
   ],
   "marionettes": [
