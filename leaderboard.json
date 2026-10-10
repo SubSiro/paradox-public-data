@@ -3147,6 +3147,18 @@
       "escapeTime": 60,
       "helpCount": 3,
       "closedAt": "2026-10-10T20:15:24.602Z"
+    },
+    {
+      "gameId": "5026eccdfe6d9cdc3dbb3f371303ff6a",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Eue w Al akharon",
+      "slotResult": "WINNER",
+      "totalScore": 98,
+      "escapeTime": 53,
+      "helpCount": 2,
+      "closedAt": "2026-10-10T21:12:32.278Z",
+      "bookingDate": "2026-10-10"
     }
   ],
   "sabrina": [
