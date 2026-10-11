@@ -9402,6 +9402,18 @@
       "helpCount": 1,
       "closedAt": "2026-10-10T17:59:52.526Z",
       "bookingDate": "2026-10-10"
+    },
+    {
+      "gameId": "c3f72bf80bacdc555eda2162380dbd09",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Nazzy",
+      "slotResult": "LOSER",
+      "totalScore": 63,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-10-11T20:05:26.131Z",
+      "bookingDate": "2026-10-11"
     }
   ],
   "alcatraz": [
