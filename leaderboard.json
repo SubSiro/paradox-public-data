@@ -6277,6 +6277,18 @@
       "escapeTime": 59,
       "helpCount": 3,
       "closedAt": "2026-10-10T21:27:39.815Z"
+    },
+    {
+      "gameId": "6fe1ce261ad91ee439b6b6cb231c25a4",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Elmasaken",
+      "slotResult": "LOSER",
+      "totalScore": 62,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-10-12T19:02:50.199Z",
+      "bookingDate": "2026-10-12"
     }
   ],
   "marionettes": [
