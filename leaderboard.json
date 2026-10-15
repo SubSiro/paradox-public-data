@@ -3279,6 +3279,18 @@
       "helpCount": 2,
       "closedAt": "2026-10-15T19:01:55.527Z",
       "bookingDate": "2026-10-15"
+    },
+    {
+      "gameId": "d9a2deae4977673814bf89a1218e787c",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "IJF world champions",
+      "slotResult": "LOSER",
+      "totalScore": 44,
+      "escapeTime": 59,
+      "helpCount": 7,
+      "closedAt": "2026-10-15T20:04:58.253Z",
+      "bookingDate": "2026-10-15"
     }
   ],
   "sabrina": [
