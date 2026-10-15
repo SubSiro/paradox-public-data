@@ -3243,6 +3243,18 @@
       "helpCount": 5,
       "closedAt": "2026-10-15T15:53:15.535Z",
       "bookingDate": "2026-10-15"
+    },
+    {
+      "gameId": "73e3bbee44055b5244fdfa665dece741",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Maarafsh",
+      "slotResult": "LOSER",
+      "totalScore": 78,
+      "escapeTime": 53,
+      "helpCount": 2,
+      "closedAt": "2026-10-15T17:00:41.241Z",
+      "bookingDate": "2026-10-15"
     }
   ],
   "sabrina": [
@@ -12820,6 +12832,18 @@
       "escapeTime": 60,
       "helpCount": 5,
       "closedAt": "2026-10-15T15:28:03.502Z",
+      "bookingDate": "2026-10-15"
+    },
+    {
+      "gameId": "61b9f854d05f3cc89617a7f313b5f955",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Daniel baylyn Farida",
+      "slotResult": "LOSER",
+      "totalScore": 31,
+      "escapeTime": 53,
+      "helpCount": 2,
+      "closedAt": "2026-10-15T17:00:39.690Z",
       "bookingDate": "2026-10-15"
     }
   ]
