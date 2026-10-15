@@ -6442,6 +6442,18 @@
       "helpCount": 3,
       "closedAt": "2026-10-15T14:04:20.677Z",
       "bookingDate": "2026-10-15"
+    },
+    {
+      "gameId": "733bab696cd68f7e2b93a57641b48971",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "67",
+      "slotResult": "LOSER",
+      "totalScore": 43,
+      "escapeTime": 53,
+      "helpCount": 1,
+      "closedAt": "2026-10-15T17:00:36.732Z",
+      "bookingDate": "2026-10-15"
     }
   ],
   "marionettes": [
@@ -9660,6 +9672,18 @@
       "escapeTime": 55,
       "helpCount": 2,
       "closedAt": "2026-10-15T16:03:45.208Z",
+      "bookingDate": "2026-10-15"
+    },
+    {
+      "gameId": "f6b1ccf50d0182547362b28c25cf722f",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Og",
+      "slotResult": "LOSER",
+      "totalScore": 55,
+      "escapeTime": 54,
+      "helpCount": 1,
+      "closedAt": "2026-10-15T17:00:38.155Z",
       "bookingDate": "2026-10-15"
     }
   ],
