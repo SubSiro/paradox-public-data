@@ -6418,6 +6418,18 @@
       "escapeTime": 42,
       "helpCount": 1,
       "closedAt": "2026-10-14T19:47:26.535Z"
+    },
+    {
+      "gameId": "8b6baeabfbe8287819a6d500c43f2a9c",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Dof3a 6",
+      "slotResult": "LOSER",
+      "totalScore": 32,
+      "escapeTime": 57,
+      "helpCount": 3,
+      "closedAt": "2026-10-15T14:04:20.677Z",
+      "bookingDate": "2026-10-15"
     }
   ],
   "marionettes": [
