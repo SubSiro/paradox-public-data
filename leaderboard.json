@@ -13144,6 +13144,18 @@
       "helpCount": 3,
       "closedAt": "2026-10-16T17:05:53.181Z",
       "bookingDate": "2026-10-16"
+    },
+    {
+      "gameId": "8e6cce03468e74b683f30b93e9831194",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "GURREN LAGAAN",
+      "slotResult": "LOSER",
+      "totalScore": 25,
+      "escapeTime": 56,
+      "helpCount": 4,
+      "closedAt": "2026-10-16T18:14:18.823Z",
+      "bookingDate": "2026-10-16"
     }
   ]
 }
