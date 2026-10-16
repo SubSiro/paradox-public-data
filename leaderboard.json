@@ -9936,6 +9936,17 @@
       "escapeTime": 53,
       "helpCount": 1,
       "closedAt": "2026-10-16T18:04:36.439Z"
+    },
+    {
+      "gameId": "059ace7babd5ec92fa333209f2b55b58",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Zanger2",
+      "slotResult": "WINNER",
+      "totalScore": 82,
+      "escapeTime": 57,
+      "helpCount": 4,
+      "closedAt": "2026-10-16T19:16:06.194Z"
     }
   ],
   "alcatraz": [
