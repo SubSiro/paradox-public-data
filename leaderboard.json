@@ -10055,6 +10055,18 @@
       "helpCount": 0,
       "closedAt": "2026-10-16T21:32:48.353Z",
       "bookingDate": "2026-10-16"
+    },
+    {
+      "gameId": "7c9a2f22c06d644e1b6c4af1ae28c401",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Gouna cool boys",
+      "slotResult": "LOSER",
+      "totalScore": 67,
+      "escapeTime": 57,
+      "helpCount": 1,
+      "closedAt": "2026-10-17T18:09:44.550Z",
+      "bookingDate": "2026-10-17"
     }
   ],
   "alcatraz": [
