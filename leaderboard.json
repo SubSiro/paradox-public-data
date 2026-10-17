@@ -10079,6 +10079,18 @@
       "helpCount": 1,
       "closedAt": "2026-10-17T18:09:44.550Z",
       "bookingDate": "2026-10-17"
+    },
+    {
+      "gameId": "43b1e1fda32f2744098c966bfd01db05",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Edraboona",
+      "slotResult": "WINNER",
+      "totalScore": 96,
+      "escapeTime": 36,
+      "helpCount": 1,
+      "closedAt": "2026-10-17T18:55:15.869Z",
+      "bookingDate": "2026-10-17"
     }
   ],
   "alcatraz": [
