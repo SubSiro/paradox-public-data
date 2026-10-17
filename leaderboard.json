@@ -3411,6 +3411,18 @@
       "helpCount": 3,
       "closedAt": "2026-10-17T18:12:01.734Z",
       "bookingDate": "2026-10-17"
+    },
+    {
+      "gameId": "5cada224595bbf17f37086b88acecbb1",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "El ostora",
+      "slotResult": "LOSER",
+      "totalScore": 72,
+      "escapeTime": 58,
+      "helpCount": 3,
+      "closedAt": "2026-10-17T19:16:43.620Z",
+      "bookingDate": "2026-10-17"
     }
   ],
   "sabrina": [
