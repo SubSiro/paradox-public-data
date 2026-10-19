@@ -3446,6 +3446,17 @@
       "escapeTime": 52,
       "helpCount": 3,
       "closedAt": "2026-10-18T20:01:35.642Z"
+    },
+    {
+      "gameId": "fad5167556de7197c5a590efe933caf5",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Lamine yamal",
+      "slotResult": "LOSER",
+      "totalScore": 54,
+      "escapeTime": 59,
+      "helpCount": 2,
+      "closedAt": "2026-10-19T03:38:01.769Z"
     }
   ],
   "sabrina": [
