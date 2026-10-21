@@ -6868,6 +6868,18 @@
       "escapeTime": 60,
       "helpCount": 2,
       "closedAt": "2026-10-21T16:57:46.753Z"
+    },
+    {
+      "gameId": "a847dcc42e3d521f7001994d52464afc",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "El maltesers",
+      "slotResult": "WINNER",
+      "totalScore": 92,
+      "escapeTime": 55,
+      "helpCount": 2,
+      "closedAt": "2026-10-21T19:02:13.983Z",
+      "bookingDate": "2026-10-21"
     }
   ],
   "marionettes": [
