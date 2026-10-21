@@ -10322,6 +10322,18 @@
       "escapeTime": 39,
       "helpCount": 1,
       "closedAt": "2026-10-21T18:47:51.726Z"
+    },
+    {
+      "gameId": "a747b0636e8988b3a399ae85c17f2ad0",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "The retired mafia",
+      "slotResult": "LOSER",
+      "totalScore": 71,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-10-21T19:50:33.654Z",
+      "bookingDate": "2026-10-21"
     }
   ],
   "alcatraz": [
