@@ -10287,6 +10287,17 @@
       "helpCount": 5,
       "closedAt": "2026-10-21T15:17:27.780Z",
       "bookingDate": "2026-10-21"
+    },
+    {
+      "gameId": "366a17834183ce5915388328b0ef720a",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Paradox lovers",
+      "slotResult": "WINNER",
+      "totalScore": 96,
+      "escapeTime": 39,
+      "helpCount": 1,
+      "closedAt": "2026-10-21T18:47:51.726Z"
     }
   ],
   "alcatraz": [
