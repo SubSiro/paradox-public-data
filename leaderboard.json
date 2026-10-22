@@ -3553,6 +3553,18 @@
       "helpCount": 0,
       "closedAt": "2026-10-22T18:45:51.369Z",
       "bookingDate": "2026-10-22"
+    },
+    {
+      "gameId": "e1ef3c0ac3b7651316463c6ffadee36e",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Innerdemons",
+      "slotResult": "LOSER",
+      "totalScore": 69,
+      "escapeTime": 53,
+      "helpCount": 2,
+      "closedAt": "2026-10-22T20:00:03.527Z",
+      "bookingDate": "2026-10-22"
     }
   ],
   "sabrina": [
