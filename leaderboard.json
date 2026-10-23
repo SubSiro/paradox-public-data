@@ -3601,6 +3601,18 @@
       "helpCount": 3,
       "closedAt": "2026-10-23T17:44:33.413Z",
       "bookingDate": "2026-10-23"
+    },
+    {
+      "gameId": "286d6ca1134fb5bbdaf94ddba5929419",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Welad 3am",
+      "slotResult": "WINNER",
+      "totalScore": 93,
+      "escapeTime": 56,
+      "helpCount": 1,
+      "closedAt": "2026-10-23T18:56:46.208Z",
+      "bookingDate": "2026-10-23"
     }
   ],
   "sabrina": [
