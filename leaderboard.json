@@ -3625,6 +3625,18 @@
       "helpCount": 4,
       "closedAt": "2026-10-23T20:04:20.607Z",
       "bookingDate": "2026-10-23"
+    },
+    {
+      "gameId": "6c3fde5cce521f872469de2f2b3536b0",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Ostor ya dawly",
+      "slotResult": "LOSER",
+      "totalScore": 45,
+      "escapeTime": 59,
+      "helpCount": 3,
+      "closedAt": "2026-10-23T21:06:41.356Z",
+      "bookingDate": "2026-10-23"
     }
   ],
   "sabrina": [
