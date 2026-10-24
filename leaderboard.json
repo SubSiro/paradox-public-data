@@ -3637,6 +3637,18 @@
       "helpCount": 3,
       "closedAt": "2026-10-23T21:06:41.356Z",
       "bookingDate": "2026-10-23"
+    },
+    {
+      "gameId": "2c44d0388afc2b68fee7c8d2d7190c53",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Moreey's team",
+      "slotResult": "LOSER",
+      "totalScore": 40,
+      "escapeTime": 42,
+      "helpCount": 3,
+      "closedAt": "2026-10-24T17:11:38.729Z",
+      "bookingDate": "2026-10-24"
     }
   ],
   "sabrina": [
