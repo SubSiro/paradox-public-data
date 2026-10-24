@@ -7251,6 +7251,18 @@
       "escapeTime": 60,
       "helpCount": 1,
       "closedAt": "2026-10-24T17:35:35.688Z"
+    },
+    {
+      "gameId": "6077eeb42e3f2a4da0684d0a638f3071",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Baba doner",
+      "slotResult": "WINNER",
+      "totalScore": 84,
+      "escapeTime": 52,
+      "helpCount": 4,
+      "closedAt": "2026-10-24T18:49:44.308Z",
+      "bookingDate": "2026-10-24"
     }
   ],
   "marionettes": [
