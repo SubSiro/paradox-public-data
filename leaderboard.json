@@ -3685,6 +3685,18 @@
       "helpCount": 2,
       "closedAt": "2026-10-25T16:15:19.758Z",
       "bookingDate": "2026-10-25"
+    },
+    {
+      "gameId": "415573522107714c16e710c8cbc2bf9a",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Kafr 3l sheikh",
+      "slotResult": "LOSER",
+      "totalScore": 40,
+      "escapeTime": 55,
+      "helpCount": 2,
+      "closedAt": "2026-10-25T17:12:50.580Z",
+      "bookingDate": "2026-10-25"
     }
   ],
   "sabrina": [
