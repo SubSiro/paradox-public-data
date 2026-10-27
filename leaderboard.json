@@ -14714,6 +14714,18 @@
       "helpCount": 2,
       "closedAt": "2026-10-27T17:07:20.417Z",
       "bookingDate": "2026-10-27"
+    },
+    {
+      "gameId": "2b97f2a41de4f640ed39101ab165de92",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Edraboona",
+      "slotResult": "WINNER",
+      "totalScore": 90,
+      "escapeTime": 53,
+      "helpCount": 1,
+      "closedAt": "2026-10-27T18:20:31.569Z",
+      "bookingDate": "2026-10-27"
     }
   ]
 }
