@@ -3768,6 +3768,18 @@
       "helpCount": 6,
       "closedAt": "2026-10-27T17:20:29.073Z",
       "bookingDate": "2026-10-27"
+    },
+    {
+      "gameId": "fc62541b4057cf2870b3b498e6cb3ca9",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Gergawy",
+      "slotResult": "LOSER",
+      "totalScore": 29,
+      "escapeTime": 56,
+      "helpCount": 4,
+      "closedAt": "2026-10-27T18:35:45.346Z",
+      "bookingDate": "2026-10-27"
     }
   ],
   "sabrina": [
