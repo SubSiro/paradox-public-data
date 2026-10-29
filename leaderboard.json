@@ -3791,6 +3791,18 @@
       "escapeTime": 60,
       "helpCount": 5,
       "closedAt": "2026-10-28T19:22:16.467Z"
+    },
+    {
+      "gameId": "24e9e4457313e5e57d4810c296860d3a",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Kafr eldawar1",
+      "slotResult": "LOSER",
+      "totalScore": 36,
+      "escapeTime": 30,
+      "helpCount": 5,
+      "closedAt": "2026-10-29T17:09:56.756Z",
+      "bookingDate": "2026-10-29"
     }
   ],
   "sabrina": [
