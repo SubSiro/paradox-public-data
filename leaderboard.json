@@ -11374,6 +11374,18 @@
       "helpCount": 3,
       "closedAt": "2026-10-29T14:17:32.415Z",
       "bookingDate": "2026-10-29"
+    },
+    {
+      "gameId": "f27c6beca9def38bebaf76a8be1833b8",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Tagamo3 El osod",
+      "slotResult": "LOSER",
+      "totalScore": 59,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-10-29T17:53:20.377Z",
+      "bookingDate": "2026-10-29"
     }
   ],
   "alcatraz": [
