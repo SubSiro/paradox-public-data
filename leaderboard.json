@@ -7824,6 +7824,18 @@
       "helpCount": 1,
       "closedAt": "2026-10-30T18:57:09.885Z",
       "bookingDate": "2026-10-30"
+    },
+    {
+      "gameId": "f42267d10db57ab9237e8b370965c220",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Zobrina",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 38,
+      "helpCount": 0,
+      "closedAt": "2026-10-30T19:40:16.946Z",
+      "bookingDate": "2026-10-30"
     }
   ],
   "marionettes": [
