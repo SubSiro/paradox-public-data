@@ -15300,6 +15300,18 @@
       "helpCount": 4,
       "closedAt": "2026-10-30T16:09:54.629Z",
       "bookingDate": "2026-10-30"
+    },
+    {
+      "gameId": "b246c9637a1bdfea27f4467f475c7c18",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "The group",
+      "slotResult": "WINNER",
+      "totalScore": 90,
+      "escapeTime": 55,
+      "helpCount": 3,
+      "closedAt": "2026-10-30T17:41:23.297Z",
+      "bookingDate": "2026-10-30"
     }
   ]
 }
