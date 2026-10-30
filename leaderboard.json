@@ -3898,6 +3898,18 @@
       "helpCount": 6,
       "closedAt": "2026-10-30T19:19:16.441Z",
       "bookingDate": "2026-10-30"
+    },
+    {
+      "gameId": "6c78b43df1f2120685dfe4fa93d65c8b",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Sebha Ala Allah",
+      "slotResult": "LOSER",
+      "totalScore": 56,
+      "escapeTime": 60,
+      "helpCount": 0,
+      "closedAt": "2026-10-30T20:23:41.363Z",
+      "bookingDate": "2026-10-30"
     }
   ],
   "sabrina": [
