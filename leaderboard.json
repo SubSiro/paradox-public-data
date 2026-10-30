@@ -3875,6 +3875,17 @@
       "helpCount": 2,
       "closedAt": "2026-10-30T17:11:08.079Z",
       "bookingDate": "2026-10-30"
+    },
+    {
+      "gameId": "264f1732bc806728fb4e71dd8158ecb9",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "7bayb El ryes",
+      "slotResult": "LOSER",
+      "totalScore": 51,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-10-30T18:16:10.023Z"
     }
   ],
   "sabrina": [
