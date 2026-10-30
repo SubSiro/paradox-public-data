@@ -3886,6 +3886,18 @@
       "escapeTime": 60,
       "helpCount": 3,
       "closedAt": "2026-10-30T18:16:10.023Z"
+    },
+    {
+      "gameId": "9f40f41dc444976566a4e32fef5fc5cf",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "El Morshedy",
+      "slotResult": "LOSER",
+      "totalScore": 47,
+      "escapeTime": 59,
+      "helpCount": 6,
+      "closedAt": "2026-10-30T19:19:16.441Z",
+      "bookingDate": "2026-10-30"
     }
   ],
   "sabrina": [
