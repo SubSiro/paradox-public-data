@@ -7729,6 +7729,18 @@
       "helpCount": 4,
       "closedAt": "2026-10-29T22:04:52.588Z",
       "bookingDate": "2026-10-30"
+    },
+    {
+      "gameId": "bd68e33a0fa8bf808322292edbeccc2d",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Betngana FC",
+      "slotResult": "WINNER",
+      "totalScore": 73,
+      "escapeTime": 55,
+      "helpCount": 4,
+      "closedAt": "2026-10-30T15:08:27.721Z",
+      "bookingDate": "2026-10-30"
     }
   ],
   "marionettes": [
