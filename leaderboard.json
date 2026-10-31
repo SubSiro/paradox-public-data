@@ -7896,6 +7896,18 @@
       "helpCount": 1,
       "closedAt": "2026-10-31T15:11:44.754Z",
       "bookingDate": "2026-10-31"
+    },
+    {
+      "gameId": "9e2e6a5429f9f55ec530d62fac1a369c",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Scorbion",
+      "slotResult": "LOSER",
+      "totalScore": 44,
+      "escapeTime": 59,
+      "helpCount": 2,
+      "closedAt": "2026-10-31T17:05:26.751Z",
+      "bookingDate": "2026-10-31"
     }
   ],
   "marionettes": [
@@ -15539,6 +15551,18 @@
       "helpCount": 4,
       "closedAt": "2026-10-30T22:10:51.226Z",
       "bookingDate": "2026-10-30"
+    },
+    {
+      "gameId": "5b18d7e433791105655bbacc0e2976e1",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Mase",
+      "slotResult": "LOSER",
+      "totalScore": 39,
+      "escapeTime": 59,
+      "helpCount": 4,
+      "closedAt": "2026-10-31T17:05:25.453Z",
+      "bookingDate": "2026-10-31"
     }
   ]
 }
