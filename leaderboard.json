@@ -7932,6 +7932,18 @@
       "helpCount": 1,
       "closedAt": "2026-10-31T18:53:16.464Z",
       "bookingDate": "2026-10-31"
+    },
+    {
+      "gameId": "6c08867f5b4489fbc2b5a33b23b4cbe4",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Bestie for the resties",
+      "slotResult": "LOSER",
+      "totalScore": 66,
+      "escapeTime": 58,
+      "helpCount": 2,
+      "closedAt": "2026-10-31T20:00:08.047Z",
+      "bookingDate": "2026-10-31"
     }
   ],
   "marionettes": [
