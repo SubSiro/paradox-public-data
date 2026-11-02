@@ -11996,6 +11996,18 @@
       "escapeTime": 43,
       "helpCount": 2,
       "closedAt": "2026-11-01T22:30:47.093Z"
+    },
+    {
+      "gameId": "202e08a66a12d81b545a5585bdc2cbae",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "El kodwa",
+      "slotResult": "WINNER",
+      "totalScore": 84,
+      "escapeTime": 48,
+      "helpCount": 2,
+      "closedAt": "2026-11-02T18:47:57.373Z",
+      "bookingDate": "2026-11-02"
     }
   ],
   "alcatraz": [
