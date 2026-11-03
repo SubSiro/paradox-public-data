@@ -3958,6 +3958,18 @@
       "helpCount": 3,
       "closedAt": "2026-11-03T19:11:09.875Z",
       "bookingDate": "2026-11-03"
+    },
+    {
+      "gameId": "b8befe84b39dafb65bc13820fe3cc2c6",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Domz w Som3a w tots w El akhareen",
+      "slotResult": "LOSER",
+      "totalScore": 47,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-11-03T20:15:17.735Z",
+      "bookingDate": "2026-11-03"
     }
   ],
   "sabrina": [
