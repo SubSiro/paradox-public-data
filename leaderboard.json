@@ -3982,6 +3982,18 @@
       "helpCount": 3,
       "closedAt": "2026-11-03T21:20:46.703Z",
       "bookingDate": "2026-11-03"
+    },
+    {
+      "gameId": "bf3a30e0fec4e61461040151497f456b",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Giu",
+      "slotResult": "LOSER",
+      "totalScore": 55,
+      "escapeTime": 60,
+      "helpCount": 1,
+      "closedAt": "2026-11-04T19:00:23.813Z",
+      "bookingDate": "2026-11-04"
     }
   ],
   "sabrina": [
