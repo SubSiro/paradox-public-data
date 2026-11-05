@@ -8207,6 +8207,18 @@
       "helpCount": 0,
       "closedAt": "2026-11-05T15:50:25.170Z",
       "bookingDate": "2026-11-05"
+    },
+    {
+      "gameId": "c783e8d8062a51638d04c0926fa9a40b",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Salma El gamda and alexia the tuff team",
+      "slotResult": "LOSER",
+      "totalScore": 38,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-11-05T17:00:21.146Z",
+      "bookingDate": "2026-11-05"
     }
   ],
   "marionettes": [
