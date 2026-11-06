@@ -16495,6 +16495,18 @@
       "helpCount": 3,
       "closedAt": "2026-11-06T17:01:01.010Z",
       "bookingDate": "2026-11-06"
+    },
+    {
+      "gameId": "7e6925f6fd8e5418e9ae97ba9bea7b3f",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "El farafeer",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 35,
+      "helpCount": 1,
+      "closedAt": "2026-11-06T17:38:46.795Z",
+      "bookingDate": "2026-11-06"
     }
   ]
 }
