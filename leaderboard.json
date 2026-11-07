@@ -12652,6 +12652,18 @@
       "helpCount": 3,
       "closedAt": "2026-11-06T22:58:59.358Z",
       "bookingDate": "2026-11-07"
+    },
+    {
+      "gameId": "12696457b2a1c7b92a07f2fbf2fbea75",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Core 4",
+      "slotResult": "LOSER",
+      "totalScore": 51,
+      "escapeTime": 59,
+      "helpCount": 2,
+      "closedAt": "2026-11-07T17:08:19.307Z",
+      "bookingDate": "2026-11-07"
     }
   ],
   "alcatraz": [
