@@ -4184,6 +4184,18 @@
       "helpCount": 3,
       "closedAt": "2026-11-07T17:08:23.854Z",
       "bookingDate": "2026-11-07"
+    },
+    {
+      "gameId": "3dc8ef5e3df5ed6ca38740074e845dc2",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "ASHBA7 EL GEEL",
+      "slotResult": "LOSER",
+      "totalScore": 23,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-11-07T20:03:12.287Z",
+      "bookingDate": "2026-11-07"
     }
   ],
   "sabrina": [
