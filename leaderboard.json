@@ -4208,6 +4208,18 @@
       "helpCount": 3,
       "closedAt": "2026-11-07T21:27:22.632Z",
       "bookingDate": "2026-11-07"
+    },
+    {
+      "gameId": "a918510968e159f92791377d859e761e",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Hamokeh",
+      "slotResult": "WINNER",
+      "totalScore": 96,
+      "escapeTime": 56,
+      "helpCount": 2,
+      "closedAt": "2026-11-08T20:31:24.979Z",
+      "bookingDate": "2026-11-08"
     }
   ],
   "sabrina": [
