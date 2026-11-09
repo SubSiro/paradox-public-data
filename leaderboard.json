@@ -4232,6 +4232,18 @@
       "helpCount": 4,
       "closedAt": "2026-11-08T21:47:16.576Z",
       "bookingDate": "2026-11-08"
+    },
+    {
+      "gameId": "cb6f083b3cecbccbbbdd952bf99c5fdc",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "El papat",
+      "slotResult": "LOSER",
+      "totalScore": 59,
+      "escapeTime": 58,
+      "helpCount": 2,
+      "closedAt": "2026-11-09T19:03:15.664Z",
+      "bookingDate": "2026-11-09"
     }
   ],
   "sabrina": [
