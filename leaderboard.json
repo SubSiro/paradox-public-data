@@ -16926,6 +16926,18 @@
       "helpCount": 2,
       "closedAt": "2026-11-09T18:11:11.387Z",
       "bookingDate": "2026-11-09"
+    },
+    {
+      "gameId": "639a5a3afed088989a4958905689843f",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Candy girls and the boysssss 😝❤️💪🍭",
+      "slotResult": "LOSER",
+      "totalScore": 54,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-11-09T20:01:24.775Z",
+      "bookingDate": "2026-11-09"
     }
   ]
 }
