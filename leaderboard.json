@@ -4244,6 +4244,18 @@
       "helpCount": 2,
       "closedAt": "2026-11-09T19:03:15.664Z",
       "bookingDate": "2026-11-09"
+    },
+    {
+      "gameId": "8c382f69a039cb282ca4c28f0d8e2bce",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Low cortisol",
+      "slotResult": "LOSER",
+      "totalScore": 38,
+      "escapeTime": 59,
+      "helpCount": 5,
+      "closedAt": "2026-11-09T22:00:32.390Z",
+      "bookingDate": "2026-11-09"
     }
   ],
   "sabrina": [
