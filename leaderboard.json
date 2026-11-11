@@ -4316,6 +4316,18 @@
       "helpCount": 4,
       "closedAt": "2026-11-11T19:07:07.624Z",
       "bookingDate": "2026-11-11"
+    },
+    {
+      "gameId": "b4ac63a18caa3b095f84ce26ee8817a4",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Nigga clan",
+      "slotResult": "LOSER",
+      "totalScore": 60,
+      "escapeTime": 56,
+      "helpCount": 3,
+      "closedAt": "2026-11-11T20:18:55.650Z",
+      "bookingDate": "2026-11-11"
     }
   ],
   "sabrina": [
