@@ -8866,6 +8866,18 @@
       "helpCount": 1,
       "closedAt": "2026-11-12T18:45:13.929Z",
       "bookingDate": "2026-11-12"
+    },
+    {
+      "gameId": "91c6c18eff9b5ff00ce6dc8ea7969b62",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "غزل المحله",
+      "slotResult": "LOSER",
+      "totalScore": 57,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-11-12T20:07:29.132Z",
+      "bookingDate": "2026-11-12"
     }
   ],
   "marionettes": [
