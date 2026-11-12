@@ -13083,6 +13083,18 @@
       "escapeTime": 60,
       "helpCount": 3,
       "closedAt": "2026-11-11T22:05:04.946Z"
+    },
+    {
+      "gameId": "316f38a0a35c3ac95e6e3aaaa1f57c33",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Maya and others",
+      "slotResult": "LOSER",
+      "totalScore": 87,
+      "escapeTime": 54,
+      "helpCount": 2,
+      "closedAt": "2026-11-12T16:02:21.087Z",
+      "bookingDate": "2026-11-12"
     }
   ],
   "alcatraz": [
@@ -17332,6 +17344,18 @@
       "escapeTime": 58,
       "helpCount": 4,
       "closedAt": "2026-11-12T15:04:01.936Z",
+      "bookingDate": "2026-11-12"
+    },
+    {
+      "gameId": "f500abe1458ee702befa45dbcbe7a6bd",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Bitches",
+      "slotResult": "LOSER",
+      "totalScore": 42,
+      "escapeTime": 53,
+      "helpCount": 7,
+      "closedAt": "2026-11-12T16:02:22.560Z",
       "bookingDate": "2026-11-12"
     }
   ]
