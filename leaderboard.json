@@ -4388,6 +4388,18 @@
       "helpCount": 5,
       "closedAt": "2026-11-12T21:13:21.505Z",
       "bookingDate": "2026-11-12"
+    },
+    {
+      "gameId": "0277856139abc76b9622eb8dbd7dd3e1",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Ashba7 summits",
+      "slotResult": "LOSER",
+      "totalScore": 24,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-11-12T22:20:50.269Z",
+      "bookingDate": "2026-11-12"
     }
   ],
   "sabrina": [
