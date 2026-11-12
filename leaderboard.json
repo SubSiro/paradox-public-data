@@ -4340,6 +4340,18 @@
       "helpCount": 2,
       "closedAt": "2026-11-11T21:45:57.776Z",
       "bookingDate": "2026-11-11"
+    },
+    {
+      "gameId": "3a18345831cecb165cbc2dff604ccf98",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Edraboona gamid",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 48,
+      "helpCount": 1,
+      "closedAt": "2026-11-12T16:53:16.424Z",
+      "bookingDate": "2026-11-12"
     }
   ],
   "sabrina": [
