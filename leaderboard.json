@@ -4400,6 +4400,18 @@
       "helpCount": 2,
       "closedAt": "2026-11-12T22:20:50.269Z",
       "bookingDate": "2026-11-12"
+    },
+    {
+      "gameId": "0fdbbac05ccde978c0839fb5e04a2db5",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Dominican papis",
+      "slotResult": "LOSER",
+      "totalScore": 56,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-11-13T18:03:11.330Z",
+      "bookingDate": "2026-11-13"
     }
   ],
   "sabrina": [
