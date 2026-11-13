@@ -17909,6 +17909,18 @@
       "helpCount": 1,
       "closedAt": "2026-11-13T21:08:45.580Z",
       "bookingDate": "2026-11-13"
+    },
+    {
+      "gameId": "3d7586fa827a12c0d2fdce64f676582b",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Power bank",
+      "slotResult": "LOSER",
+      "totalScore": 58,
+      "escapeTime": 60,
+      "helpCount": 1,
+      "closedAt": "2026-11-13T22:12:28.846Z",
+      "bookingDate": "2026-11-13"
     }
   ]
 }
