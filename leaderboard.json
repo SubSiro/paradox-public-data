@@ -9034,6 +9034,18 @@
       "helpCount": 2,
       "closedAt": "2026-11-13T20:00:51.122Z",
       "bookingDate": "2026-11-13"
+    },
+    {
+      "gameId": "fbd93eb92f178a08a45a7402f4f904f4",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "The dark",
+      "slotResult": "LOSER",
+      "totalScore": 34,
+      "escapeTime": 59,
+      "helpCount": 6,
+      "closedAt": "2026-11-13T21:04:44.986Z",
+      "bookingDate": "2026-11-13"
     }
   ],
   "marionettes": [
