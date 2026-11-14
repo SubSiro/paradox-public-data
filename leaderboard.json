@@ -18027,6 +18027,18 @@
       "escapeTime": 59,
       "helpCount": 5,
       "closedAt": "2026-11-14T16:46:43.261Z"
+    },
+    {
+      "gameId": "e9a4493c4bfd757a5991f717c072cda5",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Neegy. Fc",
+      "slotResult": "WINNER",
+      "totalScore": 95,
+      "escapeTime": 55,
+      "helpCount": 3,
+      "closedAt": "2026-11-14T18:03:40.904Z",
+      "bookingDate": "2026-11-14"
     }
   ]
 }
