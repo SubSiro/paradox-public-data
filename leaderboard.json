@@ -18073,6 +18073,18 @@
       "helpCount": 3,
       "closedAt": "2026-11-14T18:03:40.904Z",
       "bookingDate": "2026-11-14"
+    },
+    {
+      "gameId": "cb151fe1837f6b0257413ce08a63dfac",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Juju day",
+      "slotResult": "LOSER",
+      "totalScore": 41,
+      "escapeTime": 67,
+      "helpCount": 4,
+      "closedAt": "2026-11-14T20:21:58.167Z",
+      "bookingDate": "2026-11-14"
     }
   ]
 }
