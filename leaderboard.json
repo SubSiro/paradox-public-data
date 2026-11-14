@@ -9082,6 +9082,18 @@
       "helpCount": 1,
       "closedAt": "2026-11-13T23:01:30.796Z",
       "bookingDate": "2026-11-14"
+    },
+    {
+      "gameId": "819b2f7141ba0c293da429770d96f46a",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Hamza is hot",
+      "slotResult": "WINNER",
+      "totalScore": 86,
+      "escapeTime": 59,
+      "helpCount": 5,
+      "closedAt": "2026-11-14T15:21:26.259Z",
+      "bookingDate": "2026-11-14"
     }
   ],
   "marionettes": [
