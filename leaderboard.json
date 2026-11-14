@@ -18097,6 +18097,18 @@
       "helpCount": 4,
       "closedAt": "2026-11-14T20:21:58.167Z",
       "bookingDate": "2026-11-14"
+    },
+    {
+      "gameId": "1c243bf4ecb5799eb2495b8c5265e0b3",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Fat chickens",
+      "slotResult": "WINNER",
+      "totalScore": 94,
+      "escapeTime": 56,
+      "helpCount": 3,
+      "closedAt": "2026-11-14T22:08:19.443Z",
+      "bookingDate": "2026-11-14"
     }
   ]
 }
