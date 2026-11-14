@@ -4460,6 +4460,18 @@
       "helpCount": 4,
       "closedAt": "2026-11-13T22:07:54.120Z",
       "bookingDate": "2026-11-13"
+    },
+    {
+      "gameId": "64a2ac01379f97961a1220f76b845a7c",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "The indepece of Alex",
+      "slotResult": "WINNER",
+      "totalScore": 94,
+      "escapeTime": 56,
+      "helpCount": 2,
+      "closedAt": "2026-11-14T15:27:19.898Z",
+      "bookingDate": "2026-11-14"
     }
   ],
   "sabrina": [
