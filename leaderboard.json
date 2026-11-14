@@ -9152,6 +9152,18 @@
       "escapeTime": 56,
       "helpCount": 1,
       "closedAt": "2026-11-14T19:25:37.503Z"
+    },
+    {
+      "gameId": "27294540481ff7579c50fbc4a1023c1c",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Tagtoga",
+      "slotResult": "WINNER",
+      "totalScore": 88,
+      "escapeTime": 56,
+      "helpCount": 4,
+      "closedAt": "2026-11-14T21:41:40.805Z",
+      "bookingDate": "2026-11-14"
     }
   ],
   "marionettes": [
