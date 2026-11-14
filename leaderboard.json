@@ -17945,6 +17945,18 @@
       "helpCount": 1,
       "closedAt": "2026-11-13T22:12:28.846Z",
       "bookingDate": "2026-11-13"
+    },
+    {
+      "gameId": "7e0c82bc6b24ed903ed6c9fca7c50a0c",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Bazabeezo mango",
+      "slotResult": "LOSER",
+      "totalScore": 45,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-11-14T15:18:29.304Z",
+      "bookingDate": "2026-11-14"
     }
   ]
 }
