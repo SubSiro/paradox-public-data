@@ -9176,6 +9176,18 @@
       "helpCount": 4,
       "closedAt": "2026-11-14T21:41:40.805Z",
       "bookingDate": "2026-11-14"
+    },
+    {
+      "gameId": "96ee9cd76c2a0808143040ca20fa50bc",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Rod El Farag",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 52,
+      "helpCount": 1,
+      "closedAt": "2026-11-15T18:36:04.294Z",
+      "bookingDate": "2026-11-15"
     }
   ],
   "marionettes": [
