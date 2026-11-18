@@ -4555,6 +4555,17 @@
       "helpCount": 4,
       "closedAt": "2026-11-17T21:24:46.347Z",
       "bookingDate": "2026-11-17"
+    },
+    {
+      "gameId": "1c2a5490d0f6d81c6c667f64ee9bd228",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Ff",
+      "slotResult": "WINNER",
+      "totalScore": 98,
+      "escapeTime": 56,
+      "helpCount": 1,
+      "closedAt": "2026-11-18T05:43:15.767Z"
     }
   ],
   "sabrina": [
@@ -13763,6 +13774,17 @@
       "escapeTime": 59,
       "helpCount": 4,
       "closedAt": "2026-11-18T05:41:24.271Z"
+    },
+    {
+      "gameId": "2239d36a3f728e80ff7de7587d21ff16",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Karmawjoud",
+      "slotResult": "LOSER",
+      "totalScore": 42,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-11-18T07:11:06.776Z"
     }
   ],
   "alcatraz": [
@@ -18288,6 +18310,17 @@
       "helpCount": 5,
       "closedAt": "2026-11-17T20:33:17.912Z",
       "bookingDate": "2026-11-17"
+    },
+    {
+      "gameId": "cdf5e16981d613d530b124623f822f64",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Lucia",
+      "slotResult": "WINNER",
+      "totalScore": 97,
+      "escapeTime": 55,
+      "helpCount": 2,
+      "closedAt": "2026-11-18T07:35:14.318Z"
     }
   ]
 }
