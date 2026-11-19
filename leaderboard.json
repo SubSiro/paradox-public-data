@@ -4626,6 +4626,18 @@
       "helpCount": 3,
       "closedAt": "2026-11-19T21:10:09.514Z",
       "bookingDate": "2026-11-19"
+    },
+    {
+      "gameId": "5489c3e036cc72a5b0bd255fb007de14",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "El Mosakna",
+      "slotResult": "LOSER",
+      "totalScore": 68,
+      "escapeTime": 58,
+      "helpCount": 1,
+      "closedAt": "2026-11-19T22:11:40.328Z",
+      "bookingDate": "2026-11-19"
     }
   ],
   "sabrina": [
