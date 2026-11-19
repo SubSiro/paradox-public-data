@@ -18368,6 +18368,18 @@
       "helpCount": 5,
       "closedAt": "2026-11-19T17:00:03.688Z",
       "bookingDate": "2026-11-19"
+    },
+    {
+      "gameId": "604b27ac69e0cee7f883be2a2b08459f",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "ENTITY LIRADOX",
+      "slotResult": "LOSER",
+      "totalScore": 24,
+      "escapeTime": 55,
+      "helpCount": 6,
+      "closedAt": "2026-11-19T18:00:35.707Z",
+      "bookingDate": "2026-11-19"
     }
   ]
 }
