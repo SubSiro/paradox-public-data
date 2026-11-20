@@ -14000,6 +14000,18 @@
       "helpCount": 3,
       "closedAt": "2026-11-19T22:48:08.717Z",
       "bookingDate": "2026-11-20"
+    },
+    {
+      "gameId": "f0d419ca9e224922793d8bed42e45afe",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "The quatro",
+      "slotResult": "LOSER",
+      "totalScore": 65,
+      "escapeTime": 60,
+      "helpCount": 5,
+      "closedAt": "2026-11-20T17:01:28.586Z",
+      "bookingDate": "2026-11-20"
     }
   ],
   "alcatraz": [
