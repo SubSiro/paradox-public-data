@@ -18620,6 +18620,18 @@
       "helpCount": 5,
       "closedAt": "2026-11-19T23:08:56.270Z",
       "bookingDate": "2026-11-20"
+    },
+    {
+      "gameId": "6878346ca3575ff13be72203e8339e6c",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "RAS El bar",
+      "slotResult": "LOSER",
+      "totalScore": 28,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-11-20T16:01:21.232Z",
+      "bookingDate": "2026-11-20"
     }
   ]
 }
