@@ -9451,6 +9451,18 @@
       "helpCount": 4,
       "closedAt": "2026-11-20T16:01:06.945Z",
       "bookingDate": "2026-11-20"
+    },
+    {
+      "gameId": "6aee02a2e4c59a6114048fe11539dda4",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Sasa El baba",
+      "slotResult": "LOSER",
+      "totalScore": 51,
+      "escapeTime": 51,
+      "helpCount": 1,
+      "closedAt": "2026-11-20T17:01:36.838Z",
+      "bookingDate": "2026-11-20"
     }
   ],
   "marionettes": [
