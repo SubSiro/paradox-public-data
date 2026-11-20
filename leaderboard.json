@@ -4686,6 +4686,18 @@
       "helpCount": 1,
       "closedAt": "2026-11-20T18:06:29.776Z",
       "bookingDate": "2026-11-20"
+    },
+    {
+      "gameId": "908c33c13442b0011cb20a0f5bf83c5b",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Olaserag",
+      "slotResult": "LOSER",
+      "totalScore": 25,
+      "escapeTime": 59,
+      "helpCount": 4,
+      "closedAt": "2026-11-20T19:09:32.801Z",
+      "bookingDate": "2026-11-20"
     }
   ],
   "sabrina": [
@@ -18751,6 +18763,18 @@
       "escapeTime": 59,
       "helpCount": 2,
       "closedAt": "2026-11-20T18:06:31.989Z",
+      "bookingDate": "2026-11-20"
+    },
+    {
+      "gameId": "e43fc869f34359b322caac758b02f622",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "🤪",
+      "slotResult": "LOSER",
+      "totalScore": 31,
+      "escapeTime": 59,
+      "helpCount": 3,
+      "closedAt": "2026-11-20T19:09:27.930Z",
       "bookingDate": "2026-11-20"
     }
   ]
