@@ -4674,6 +4674,18 @@
       "helpCount": 3,
       "closedAt": "2026-11-20T17:01:45.188Z",
       "bookingDate": "2026-11-20"
+    },
+    {
+      "gameId": "261ae08acd5369e26a490e4f9d32fad4",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Real oviado",
+      "slotResult": "LOSER",
+      "totalScore": 61,
+      "escapeTime": 59,
+      "helpCount": 1,
+      "closedAt": "2026-11-20T18:06:29.776Z",
+      "bookingDate": "2026-11-20"
     }
   ],
   "sabrina": [
