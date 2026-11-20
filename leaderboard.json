@@ -14144,6 +14144,18 @@
       "helpCount": 2,
       "closedAt": "2026-11-20T20:10:47.223Z",
       "bookingDate": "2026-11-20"
+    },
+    {
+      "gameId": "501cc3a30e6a170b16d5b92e062d0b60",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Chilling with the bros",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 41,
+      "helpCount": 1,
+      "closedAt": "2026-11-20T20:58:34.411Z",
+      "bookingDate": "2026-11-20"
     }
   ],
   "alcatraz": [
