@@ -4734,6 +4734,18 @@
       "helpCount": 4,
       "closedAt": "2026-11-20T22:18:59.759Z",
       "bookingDate": "2026-11-20"
+    },
+    {
+      "gameId": "09974f11165ea3f3a07e65b578d67d30",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Modern family",
+      "slotResult": "LOSER",
+      "totalScore": 67,
+      "escapeTime": 53,
+      "helpCount": 5,
+      "closedAt": "2026-11-20T23:20:10.685Z",
+      "bookingDate": "2026-11-21"
     }
   ],
   "sabrina": [
