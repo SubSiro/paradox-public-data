@@ -14120,6 +14120,18 @@
       "helpCount": 0,
       "closedAt": "2026-11-20T19:09:25.340Z",
       "bookingDate": "2026-11-20"
+    },
+    {
+      "gameId": "186a94f0d91a9e264f95411cdc92ca58",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Sophie",
+      "slotResult": "LOSER",
+      "totalScore": 49,
+      "escapeTime": 57,
+      "helpCount": 2,
+      "closedAt": "2026-11-20T20:10:47.223Z",
+      "bookingDate": "2026-11-20"
     }
   ],
   "alcatraz": [
@@ -18787,6 +18799,18 @@
       "escapeTime": 59,
       "helpCount": 3,
       "closedAt": "2026-11-20T19:09:27.930Z",
+      "bookingDate": "2026-11-20"
+    },
+    {
+      "gameId": "7572cea9c6a1649c217d666ee62963fd",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Real fekhedo",
+      "slotResult": "LOSER",
+      "totalScore": 30,
+      "escapeTime": 57,
+      "helpCount": 4,
+      "closedAt": "2026-11-20T20:10:49.034Z",
       "bookingDate": "2026-11-20"
     }
   ]
