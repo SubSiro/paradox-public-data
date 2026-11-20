@@ -18884,6 +18884,18 @@
       "helpCount": 5,
       "closedAt": "2026-11-20T21:14:54.204Z",
       "bookingDate": "2026-11-20"
+    },
+    {
+      "gameId": "08ab13a647a641493038bea1afdaeffd",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Modern family 2",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 37,
+      "helpCount": 0,
+      "closedAt": "2026-11-20T21:58:19.720Z",
+      "bookingDate": "2026-11-20"
     }
   ]
 }
