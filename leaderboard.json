@@ -4770,6 +4770,18 @@
       "helpCount": 5,
       "closedAt": "2026-11-21T19:01:35.055Z",
       "bookingDate": "2026-11-21"
+    },
+    {
+      "gameId": "3423d7795bea3d5143e08f1bc823bb34",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Natour",
+      "slotResult": "LOSER",
+      "totalScore": 43,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-11-21T20:08:12.123Z",
+      "bookingDate": "2026-11-21"
     }
   ],
   "sabrina": [
