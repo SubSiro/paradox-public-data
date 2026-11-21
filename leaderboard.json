@@ -9643,6 +9643,18 @@
       "helpCount": 0,
       "closedAt": "2026-11-21T15:07:44.803Z",
       "bookingDate": "2026-11-21"
+    },
+    {
+      "gameId": "5cf0450ec4b07a0d2051cd9fb80d6d8d",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Zomoroda",
+      "slotResult": "LOSER",
+      "totalScore": 48,
+      "escapeTime": 60,
+      "helpCount": 2,
+      "closedAt": "2026-11-21T16:18:37.262Z",
+      "bookingDate": "2026-11-21"
     }
   ],
   "marionettes": [
@@ -14275,6 +14287,18 @@
       "escapeTime": 60,
       "helpCount": 6,
       "closedAt": "2026-11-20T23:02:23.946Z",
+      "bookingDate": "2026-11-21"
+    },
+    {
+      "gameId": "02817ee7d32992ee4f37188af36763e6",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Abtal paradox🏆🏆🏅🥇",
+      "slotResult": "LOSER",
+      "totalScore": 69,
+      "escapeTime": 56,
+      "helpCount": 2,
+      "closedAt": "2026-11-21T16:18:36.253Z",
       "bookingDate": "2026-11-21"
     }
   ],
