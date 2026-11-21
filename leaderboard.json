@@ -18980,6 +18980,18 @@
       "helpCount": 0,
       "closedAt": "2026-11-20T21:58:19.720Z",
       "bookingDate": "2026-11-20"
+    },
+    {
+      "gameId": "f477180202b73ce35c0d5b3844ff6247",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Odoo dk",
+      "slotResult": "LOSER",
+      "totalScore": 38,
+      "escapeTime": 59,
+      "helpCount": 1,
+      "closedAt": "2026-11-21T15:29:42.813Z",
+      "bookingDate": "2026-11-21"
     }
   ]
 }
