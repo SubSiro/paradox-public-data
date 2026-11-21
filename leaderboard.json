@@ -9667,6 +9667,18 @@
       "helpCount": 2,
       "closedAt": "2026-11-21T16:18:37.262Z",
       "bookingDate": "2026-11-21"
+    },
+    {
+      "gameId": "39ebbc1f35e5cb0faf919518fcd061a7",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Funky kids🤙",
+      "slotResult": "LOSER",
+      "totalScore": 42,
+      "escapeTime": 59,
+      "helpCount": 0,
+      "closedAt": "2026-11-21T19:01:45.817Z",
+      "bookingDate": "2026-11-21"
     }
   ],
   "marionettes": [
@@ -19039,6 +19051,18 @@
       "escapeTime": 58,
       "helpCount": 2,
       "closedAt": "2026-11-21T17:59:35.178Z",
+      "bookingDate": "2026-11-21"
+    },
+    {
+      "gameId": "90f17c4fe57fd902031a51ca1bd7fc92",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "HanScore🌿 🌿 🌿",
+      "slotResult": "LOSER",
+      "totalScore": 36,
+      "escapeTime": 59,
+      "helpCount": 3,
+      "closedAt": "2026-11-21T19:01:44.241Z",
       "bookingDate": "2026-11-21"
     }
   ]
