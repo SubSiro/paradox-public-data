@@ -19146,6 +19146,18 @@
       "helpCount": 1,
       "closedAt": "2026-11-21T19:50:15.532Z",
       "bookingDate": "2026-11-21"
+    },
+    {
+      "gameId": "c6c0f24fd2b2e3e46adfe680922a4529",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "El Mazaryta",
+      "slotResult": "WINNER",
+      "totalScore": 85,
+      "escapeTime": 57,
+      "helpCount": 5,
+      "closedAt": "2026-11-22T21:57:26.046Z",
+      "bookingDate": "2026-11-22"
     }
   ]
 }
