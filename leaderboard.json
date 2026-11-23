@@ -19170,6 +19170,18 @@
       "helpCount": 5,
       "closedAt": "2026-11-22T21:57:26.046Z",
       "bookingDate": "2026-11-22"
+    },
+    {
+      "gameId": "bdea7eeb072c261e1299dfa35da815d9",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Lil boy nigger taker",
+      "slotResult": "LOSER",
+      "totalScore": 43,
+      "escapeTime": 60,
+      "helpCount": 3,
+      "closedAt": "2026-11-23T16:14:22.420Z",
+      "bookingDate": "2026-11-23"
     }
   ]
 }
