@@ -9761,6 +9761,18 @@
       "helpCount": 2,
       "closedAt": "2026-11-23T21:00:15.632Z",
       "bookingDate": "2026-11-23"
+    },
+    {
+      "gameId": "11ea0fa64112ffccac64ab77884acc17",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Faree2 El bakbortat",
+      "slotResult": "WINNER",
+      "totalScore": 95,
+      "escapeTime": 54,
+      "helpCount": 3,
+      "closedAt": "2026-11-23T22:03:02.823Z",
+      "bookingDate": "2026-11-23"
     }
   ],
   "marionettes": [
