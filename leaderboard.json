@@ -4840,6 +4840,18 @@
       "helpCount": 2,
       "closedAt": "2026-11-25T16:06:58.234Z",
       "bookingDate": "2026-11-25"
+    },
+    {
+      "gameId": "bc82fce00b0f107bab9653d9f79a144e",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Nasser on top",
+      "slotResult": "LOSER",
+      "totalScore": 36,
+      "escapeTime": 59,
+      "helpCount": 3,
+      "closedAt": "2026-11-25T18:02:32.926Z",
+      "bookingDate": "2026-11-25"
     }
   ],
   "sabrina": [
