@@ -4852,6 +4852,18 @@
       "helpCount": 3,
       "closedAt": "2026-11-25T18:02:32.926Z",
       "bookingDate": "2026-11-25"
+    },
+    {
+      "gameId": "06103f7de2307ebda5b208bc223abba1",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Epstein disciples",
+      "slotResult": "WINNER",
+      "totalScore": 85,
+      "escapeTime": 58,
+      "helpCount": 2,
+      "closedAt": "2026-11-25T21:03:43.357Z",
+      "bookingDate": "2026-11-25"
     }
   ],
   "sabrina": [
