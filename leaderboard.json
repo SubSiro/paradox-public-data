@@ -19419,6 +19419,18 @@
       "escapeTime": 60,
       "helpCount": 5,
       "closedAt": "2026-11-25T16:10:02.959Z"
+    },
+    {
+      "gameId": "0d38fd4a6ef3bc6504d1240b59ff6987",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Primo",
+      "slotResult": "WINNER",
+      "totalScore": 93,
+      "escapeTime": 57,
+      "helpCount": 3,
+      "closedAt": "2026-11-25T21:02:26.515Z",
+      "bookingDate": "2026-11-25"
     }
   ]
 }
