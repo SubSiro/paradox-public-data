@@ -9844,6 +9844,18 @@
       "escapeTime": 55,
       "helpCount": 1,
       "closedAt": "2026-11-24T21:28:22.898Z"
+    },
+    {
+      "gameId": "dad87696f2abee7159bb42f88ecea057",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "The Gang",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 37,
+      "helpCount": 0,
+      "closedAt": "2026-11-25T16:48:38.384Z",
+      "bookingDate": "2026-11-25"
     }
   ],
   "marionettes": [
