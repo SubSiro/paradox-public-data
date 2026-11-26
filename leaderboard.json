@@ -10000,6 +10000,18 @@
       "helpCount": 4,
       "closedAt": "2026-11-26T19:07:28.295Z",
       "bookingDate": "2026-11-26"
+    },
+    {
+      "gameId": "ed5d64d449d3676635fc1b77b5ccc51f",
+      "roomId": "sabrina",
+      "roomName": "Sabrina",
+      "teamName": "Nigger clan",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 56,
+      "helpCount": 0,
+      "closedAt": "2026-11-26T20:07:02.926Z",
+      "bookingDate": "2026-11-26"
     }
   ],
   "marionettes": [
