@@ -4936,6 +4936,18 @@
       "helpCount": 1,
       "closedAt": "2026-11-26T21:11:17.695Z",
       "bookingDate": "2026-11-26"
+    },
+    {
+      "gameId": "00054fc4cb203b6b1ee32bdec11ac1d5",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Degla",
+      "slotResult": "LOSER",
+      "totalScore": 53,
+      "escapeTime": 57,
+      "helpCount": 4,
+      "closedAt": "2026-11-26T22:14:01.759Z",
+      "bookingDate": "2026-11-26"
     }
   ],
   "sabrina": [
