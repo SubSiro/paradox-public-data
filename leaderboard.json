@@ -4900,6 +4900,18 @@
       "helpCount": 5,
       "closedAt": "2026-11-26T18:05:01.804Z",
       "bookingDate": "2026-11-26"
+    },
+    {
+      "gameId": "2c44d70be206c7e34b579ec01007389e",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Alia walids fans",
+      "slotResult": "LOSER",
+      "totalScore": 33,
+      "escapeTime": 56,
+      "helpCount": 5,
+      "closedAt": "2026-11-26T19:07:25.062Z",
+      "bookingDate": "2026-11-26"
     }
   ],
   "sabrina": [
@@ -19598,6 +19610,18 @@
       "escapeTime": 59,
       "helpCount": 2,
       "closedAt": "2026-11-26T18:05:17.094Z",
+      "bookingDate": "2026-11-26"
+    },
+    {
+      "gameId": "e7eae22590cc2dabf3e7bff9e3e49922",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "الفرىق",
+      "slotResult": "LOSER",
+      "totalScore": 42,
+      "escapeTime": 55,
+      "helpCount": 5,
+      "closedAt": "2026-11-26T19:07:26.515Z",
       "bookingDate": "2026-11-26"
     }
   ]
