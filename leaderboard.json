@@ -19995,6 +19995,18 @@
       "helpCount": 3,
       "closedAt": "2026-11-27T19:00:41.747Z",
       "bookingDate": "2026-11-27"
+    },
+    {
+      "gameId": "03e9091608b6b38d116b23b0a92eb4f5",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Gta vI",
+      "slotResult": "LOSER",
+      "totalScore": 25,
+      "escapeTime": 60,
+      "helpCount": 4,
+      "closedAt": "2026-11-27T20:04:09.940Z",
+      "bookingDate": "2026-11-27"
     }
   ]
 }
