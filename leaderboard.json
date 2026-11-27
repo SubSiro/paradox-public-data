@@ -20043,6 +20043,18 @@
       "helpCount": 4,
       "closedAt": "2026-11-27T20:04:09.940Z",
       "bookingDate": "2026-11-27"
+    },
+    {
+      "gameId": "d462122969d673448997459c6db77db4",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "El hoda construction",
+      "slotResult": "WINNER",
+      "totalScore": 100,
+      "escapeTime": 51,
+      "helpCount": 1,
+      "closedAt": "2026-11-27T21:00:31.489Z",
+      "bookingDate": "2026-11-27"
     }
   ]
 }
