@@ -14992,6 +14992,18 @@
       "helpCount": 3,
       "closedAt": "2026-11-27T16:00:33.871Z",
       "bookingDate": "2026-11-27"
+    },
+    {
+      "gameId": "d3eccff49ff3a9e741fecac63a8ff64e",
+      "roomId": "marionettes",
+      "roomName": "Marionettes",
+      "teamName": "Messi  3mk",
+      "slotResult": "LOSER",
+      "totalScore": 54,
+      "escapeTime": 52,
+      "helpCount": 2,
+      "closedAt": "2026-11-27T19:00:43.537Z",
+      "bookingDate": "2026-11-27"
     }
   ],
   "alcatraz": [
@@ -19946,6 +19958,18 @@
       "escapeTime": 48,
       "helpCount": 3,
       "closedAt": "2026-11-27T18:02:12.871Z",
+      "bookingDate": "2026-11-27"
+    },
+    {
+      "gameId": "757a03db99eeb52ff848705bb0db4eaa",
+      "roomId": "alcatraz",
+      "roomName": "Alcatraz",
+      "teamName": "Aura",
+      "slotResult": "LOSER",
+      "totalScore": 35,
+      "escapeTime": 40,
+      "helpCount": 3,
+      "closedAt": "2026-11-27T19:00:41.747Z",
       "bookingDate": "2026-11-27"
     }
   ]
