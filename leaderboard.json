@@ -4972,6 +4972,18 @@
       "helpCount": 3,
       "closedAt": "2026-11-27T15:04:44.105Z",
       "bookingDate": "2026-11-27"
+    },
+    {
+      "gameId": "048335e8104db9bc0d0c8cbf4e3022d6",
+      "roomId": "rose",
+      "roomName": "Rose",
+      "teamName": "Salmonty w badawy daddy",
+      "slotResult": "LOSER",
+      "totalScore": 40,
+      "escapeTime": 41,
+      "helpCount": 3,
+      "closedAt": "2026-11-27T18:08:29.860Z",
+      "bookingDate": "2026-11-27"
     }
   ],
   "sabrina": [
